@@ -1,10 +1,10 @@
-# Phi Delta Theta Fraternity Nova Scotia Alpha Bylaws Amended September 2016
+# Phi Delta Theta Fraternity Ontario Gamma Bylaws Amended November 2017
 
 ## Preamble
 
-We, the Members of Nova Scotia Alpha Chapter, having accepted the Bond of the Phi Delta Theta, 
+We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi Delta Theta, 
 recognizing it as a basis of union, and as a chapter in good standing do ordain and establish 
-the following bylaws to be utilized and enforced in the basic operation of the Nova Scotia Alpha Chapter:
+the following bylaws to be utilized and enforced in the basic operation of the Ontario Gamma Chapter:
 
 ## ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
@@ -13,7 +13,8 @@ Phi Delta Theta, the Risk Management Policies of Phi Delta Theta, the Criminal C
 or The Bond, then that bylaw shall be deemed void and stricken from this document.
 
 2. The bylaws of the chapter shall be subject to annual review by the Executive Committee and 
-the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
+the Chapter Advisory Board preceding the academic year. 
+The Active Chapter will vote on any changes at the first meeting of the academic year.
 
 3. Bylaws may be amended with a 66% vote of the Active Chapter.
 
@@ -42,17 +43,17 @@ Subsequent violations may be referred to an outside organization.
 
 10. Each Member of the Chapter and each person living in the Chapter House will adhere to the 
 Phi Delta Theta Alcohol Free Housing Policy. No alcohol, marijuana, or illegal substances shall 
-be possessed, stored, administered or consumed on Nova Scotia Alpha property.
+be possessed, stored, administered or consumed on Ontario Gamma property.
 
 11. If a Member is found to possess or consume alcohol, marijuana, or illegal substances on 
-Nova Scotia Alpha property, the alcohol, marijuana, or illegal substance is to be confiscated 
-and promptly disposed of by the Vice President, Warden, or if available a CAB member or Scotia 
-Phi Club representative. A Judiciary Committee meeting will be called automatically.
+Ontario Gamma property, the alcohol, marijuana, or illegal substance is to be confiscated 
+and promptly disposed of by the Vice President, Warden, or if available a CAB member
+or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
     1. For any offence, the Executive Committee may decide that extreme circumstances may have occurred. 
     If such extreme circumstances exist, the Executive Committee may motion for 
     an immediate Membership review as prescribed by The Code.
 
-12. All Active Members with a previous semester GPA of below 2.7, or cumulative GPA below 2.3, 
+12. All Active Members with a previous semester GPA of below a 7, or cumulative GPA below 6, 
 will be subject to the Scholarship Plan as defined by the Scholarship Chairman. 
 The Scholarship Plan will be approved by the Executive Committee at the beginning of each academic year.
     1. Should a Member fail to follow the Scholarship Plan, they will be called to appear before the
@@ -68,9 +69,9 @@ at a regular time and day as determined by The Chapter on the first meeting of t
     Chapter Advisory Board of any changes to the meeting time, day or venue at least 48 hours 
     prior to the scheduled meeting. This excludes National and university holidays.
     2. The Executive Committee will decide when the first meeting of the year will be held, 
-    no later than the Monday following the start of the academic year at Dalhousie University. 
+    no later than the Monday following the start of the academic year at McMaster University. 
     The Executive Committee will notify the Active Chapter 
-    no later than August 10 of the meeting date and time.
+    no later than September 10 of the meeting date and time.
     
 14. Quorum for meetings will be considered to be 66% of the Active Chapter.
 
@@ -107,7 +108,7 @@ Water is acceptable as long as it is in a closed container.
 21. Hats shall not be worn in the Chapter Room during formal meetings, 
 with exceptions in special cases deemed by the President.
 
-22. All members will submit items of business for the agenda to the Secretary, '
+22. All members will submit items of business for the agenda to the Secretary, 
 48 hours in advance of the chapter meeting for review by the Executive Committee.
 
 ## ARTICLE III: DUTIES OF OFFICERS
@@ -187,7 +188,7 @@ chapter meetings in order for the member to proceed to the balloting stage.
     1. Have no unexcused absences from chapter meetings each semester
     2. Attend at least 1 Phikeia meeting each semester
     3. Be in good financial standing with the chapter
-    4. Have a minimum semester or cumulative GPA of 2.7 or higher or be on the first level of the scholarship program
+    4. Have a minimum semester or cumulative GPA of 7 or higher or be on the first level of the scholarship program
     5. Attend all mandatory events unless valid excuse given.
     
 38. Phikeia in good standing with the Pallas Committee are eligible to proceed to the balloting stage pending their initiation.
@@ -238,20 +239,20 @@ There are no limitations on the number of intent forms that can be signed throug
 54. Each self-nomination shall be endorsed inside the chapter meeting in order for the Member to proceed to the balloting stage.
 
 55. Eligibility for General Election Nomination(s), in addition to Title XI: section 113.1 of The Code, shall be as follows:
-    1. Be an Active Member of Nova Scotia Alpha.
+    1. Be an Active Member of Ontario Gamma.
     2. Have no more than one (1) unexcused absence from Chapter meetings or mandatory events during the current and previous academic terms as well as attend at least one (1) Phikeia meeting in each of these two terms.
     3. Adherence to the self-nomination process as outlined:
        1. Completion of a General Officer Nomination Form:
           - One (1) other Active Member must endorse the form.
           - Once signed, the Form is submitted, in person, to the Vice President. 
           - Only one form per position, per Active Member, may be submitted.
-    4. Be considered at least a part time student by Dalhousie University for the past two academic terms. 
+    4. Be considered at least a part time student by McMaster University for the past two academic terms. 
     If the member participated in a work term in any of the two semesters leading up to the nomination stage, 
     the work term will count as a full course load.
-    5. Have posted an average GPA of 2.0 or better during the two semesters leading up to the elections.
-       1. If two semesters’ Dalhousie transcripts are not available, 
+    5. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
+       1. If two semesters’ McMaster transcripts are not available, 
        the Active Member’s High School or equivalent transcripts can take their place.
-       2. In the event the member was on a co­op work term, his most recent transcripts will be used.
+       2. In the event the member was on a co-op work term, his most recent transcripts will be used.
     6. Be in good financial standing with The Chapter.
     7. If an Active Member is not eligible for General Elections, as determined by the above, 
     he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
@@ -292,7 +293,6 @@ to the balloting stage pending their initiation.
     16. Alumni Chairman
     17. Historian-Webmaster 
     18. Chorister
-    19. Parking Lot Manager 
     20. Greek Representative
 
 
@@ -319,10 +319,10 @@ a subsequent 85% vote of the entire active chapter. Dues may vary from year to y
 
 69. The Chapter will vote on a final budget at the first meeting of the school year.
 
-70. The Founder’s Day Ball, and the Alumni Winter Banquet, as well as all mandatory GHQ fees 
+70. The Founder’s Day Celebration, as well as all mandatory GHQ fees 
 (including insurance and Members’ dues) are to be added as fixed costs into the projected budget.
 
-71. Active Members who do not attend the Founder’s Day Ball and the Alumni Winter Banquet will not be reimbursed.
+71. Active Members who do not attend the Founder’s Day Celebration will not be reimbursed.
 
 72. All dues and fees are non-transferable to another person.
 
@@ -354,14 +354,14 @@ This cannot be applied to accommodation, food, or any other incidental expenses 
     If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
     4. The payment plan contract will be attached to the bylaws as Appendix D
 
-79. For members who will not be present in the city for the winter semester (either due to co­op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day Ball and Alumni Banquet but may receive their Alumni Banquet and Founder’s Day Ball costs as a refund unless they are to be present for either of those events.
+79. For members who will not be present in the city for the winter semester (either due to co-op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for either of those events.
 
 80. Any Member who has failed to inform the Treasurer that they will not be returning as an active
 member by July 10th will be held responsible for paying their individual insurance fee as assessed by
 insurer. This fee will be due no later than September 30th.
 
 81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque, 
-money order, or credit card payment, in care of Phi Delta Theta – Nova Scotia Alpha, by the 10th 
+money order, or credit card payment, in care of Phi Delta Theta – Ontario Gamma, by the 10th 
 of each month billed. Additional fees may be added for processing.
     1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 
     of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
@@ -369,15 +369,14 @@ of each month billed. Additional fees may be added for processing.
 82. Receipts will be issued by the Treasurer, President, or Vice President for
 all payments. It is the Member’s responsibility to maintain their receipts.
 
-83. The Treasurer will maintain two bank accounts, first for the parking lot fund
-(savings) and second for the chapter fund(chequings).
+83. The Treasurer will maintain a bank accounts for the chapter fund(chequings).
 
 ## ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
 85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Article 2 - Section 19.
 
-86. Founders Day Ball, Remembrance Day ceremony, Phikeia Retreats, Chapter Retreats, Initiation Retreats, and 
-Alumni Banquet are all mandatory events held within an academic year.
+86. Founders Day, Chapter Retreats, Initiation, and meetings with the 
+province president are all mandatory events held within an academic year.
 If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. 
 To be excused from any of these events, the Member must notify the Secretary, in writing, 2 weeks in advance.
     1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, 
@@ -399,20 +398,20 @@ Failure to do so will result in a review from the Executive Committee.
 the second meeting of each semester, or as requested by the Scholarship Chair. 
 If the class schedule is changed then it must be re-submitted. 
 Transcripts must be submitted as a non-alterable copy of the Member’s full 
-Academic Record as provided by Dalhousie University.
+Academic Record as provided by McMaster University.
 
-91. An Active Member whose previous semester GPA falls below a 2.7 is immediately included in the Scholarship Program. 
-An Active Member whose previous semester’s GPA is above 2.7 but cumulative
-GPA is below 2.3 will also be required to follow the scholarship program.
+91. An Active Member whose previous semester GPA falls below a 7 is immediately included in the Scholarship Program. 
+An Active Member whose previous semester’s GPA is above 7 but cumulative
+GPA is below 6 will also be required to follow the scholarship program.
     1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman 
     and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. 
     Any such adjustment may only be passed by the majority vote of the Executive Committee, 
     the Scholarship Chairman, and the Chapter Advisory Board Chairman.
     2. Courses taken during the summer semester shall not effect a Member’s standing 
     with respect to the Scholarship Program except where the Member was considered a
-    full time student by Dalhousie University during the summer semester.
+    full time student by McMaster University during the summer semester.
 
-92. If a Member on the scholarship program achieves a 2.7 GPA during the summer semester
+92. If a Member on the scholarship program achieves a 7 GPA during the summer semester
 (unless the summer semester is a full course load) or is a part-time student, he will stay on the scholarship
 program for the fall semester and will have full membership privileges (contingent upon individual review).
 
@@ -420,22 +419,22 @@ program for the fall semester and will have full membership privileges (continge
 in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring discredit to the organization.
 
 94. If a Member has not completed four years of undergraduate studies or completed his degree, 
-and is enrolled in at least one class at Dalhousie University, he is considered an active Member
+and is enrolled in at least one class at McMaster University, he is considered an active Member
 and subject to all rules and regulations therein.
 
 ## ARTICLE VII: PHIKEIAS
 
 95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XIII Eligibility for Membership.
 
-96.Phikeia will be required to pay $90.00 upon induction and $250.00 upon initiation and operational costs,
+96. Phikeia will be required to pay $90.00 upon induction and $250.00 upon initiation and operational costs,
 to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. 
-The nominal dues amount will go towards newly initiated Members sweaters, badges, ticket to Founder’s Day Ball, 
-ticket to Alumni Banquet, and operational costs.
+The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, 
+Initiation Dues, and operational costs.
 
 97. In order to be initiated Phikeia must have followed the scholarship plan for the duration of the Phikeia period.
 First year, first semester Phikeia must submit all marks to the Scholarship Chair and
 be assessed academically by the Pallas Committee before initiation.
-    1. All Phikeia must provide a non­alterable copy of their full Academic Record as provided by Dalhousie
+    1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster
     University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
     2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair.
     Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
@@ -476,8 +475,8 @@ is payable in full immediately. The House Corporation Property Manager, the Chap
 the President and a Chapter Advisory Board delegate shall determine the final amount.
 
 109. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house 
-without the permission of Scotia Phi Property Manager. Anything being hung on the walls or windows in common 
-areas requires the approval of the Scotia Phi Property Manager.
+without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common 
+areas requires the approval of the Ontario Gamma Property Manager.
 
 110. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
      1. Common areas are to be kept clean at all times.
@@ -495,7 +494,7 @@ areas requires the approval of the Scotia Phi Property Manager.
     
 111. Guest Staying in the Chapter house
      1. All Alumni and actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, 
-     but not on consecutive nights. Exceptions will be made for Initiation Retreat.
+     but not on consecutive nights. Exceptions will be made for Lock in and Initiation.
      2. Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, 
      but not on consecutive nights, provided the Member is also on the premises.
      3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
@@ -514,28 +513,13 @@ You may only regularly enter and exit the house using the front and back doors o
 
 ## ARTICLE IX: THE CHAPTER PARKING LOT
 
-116. The parking lot has restricted use during the hours of 6am-5pm during the week. 
-During this time, only permit holders are to park in numbered spots in the parking lot, 
-and only active Members are permitted to park in lettered spots unless granted permission by the Executive Committee.
-Guests are permitted to park during the hours of 5pm-6am and weekends. 
-All non-permitted cars parked during the restricted hours will be ticketed and towed at the owner’s expense.
-A diagram of the parking lot will be attached to this document as an appendix designating numbered spaces for tenants and lettered spaces for brothers.
-     1. Process for ticketing:
-        1. Contact the Parking Lot Manager to assess that the car is indeed not permitted 
-        2. The Parking Lot Manager will then contact the HRM Bylaw Enforcement or to ticket the car (call 311).
-        3. One (1) hour following the issue of the ticket, a tow company will be called to remove the vehicle
-     2. During the process there must always be a Member at the House to ensure procedure is followed. 
-     If the offending car owner returns during this process, please politely inform him/her that 
-     this is private property and the repercussions of parking here.
-    
-117. Long-term parking is not permitted in lettered spaces in the parking lot. 
-Long-term parking will be considered any length of time longer than 12 hours. 
-Any vehicle found to be parked long-term in a lettered space will be ticketed and towed as described in Article IX.
+116.
 
-118. Lettered spaces will not be sold to individual brothers.
+117. 
 
-119. Tenants of the Chapter House will be given priority for lettered spaces. 
-All remaining spaces will be filled on a first-come-first-serve basis.
+118.
+
+119.
 
 120. A snow removal plan will be in place by the Parking Lot Manager and Parking Lot Advisor
 and presented to the Chapter no later than September 15th. 
@@ -543,7 +527,7 @@ Should the Chapter decide at that point that a snowplow contract is required,
 the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. 
 All members are required to support all snow removal activities.
 Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, 
-the sidewalk, front stairs, back stairs and fire escape, all need to be cleared by 7am.
+the sidewalk, front stairs, and back stairs, all need to be cleared by 7am.
 
 ## ARTICLE X – DISCIPLINE
 121. The Judiciary Committee, hereafter referred to as "JC" shall:
@@ -667,7 +651,7 @@ positions they oversee as stated in Section 24 of Article III.
      3. Oversee completion of all GHQ Awards applications
      4. Oversee requirements, nominations, and presentation of all Chapter awards including:
         1. Phi of the Year
-        2. Unsung Phi of the Yea
+        2. Unsung Phi of the Year
         3. Most Improved Phi 
         4. Community Service Phi
         5. Athlete of the Year 
@@ -684,7 +668,7 @@ positions they oversee as stated in Section 24 of Article III.
      4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any 
      disciplinary meetings are request that the Vice -President of the Chapter be in attendance for the meeting as well
      5. Convene at the beginning of each semester, including all six elected members, 
-     the Warden, and Vice­President to review the Judicial Committee procedure with a CAB delegate
+     the Warden, and Vice-President to review the Judicial Committee procedure with a CAB delegate
      6. See Article X, Section 118 for procedure on how to choose Members for the Judiciary Committee
 
 137. The Pallas Committee
