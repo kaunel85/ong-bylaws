@@ -241,26 +241,26 @@ There are no limitations on the number of intent forms that can be signed throug
     1. Be an Active Member of Nova Scotia Alpha.
     2. Have no more than one (1) unexcused absence from Chapter meetings or mandatory events during the current and previous academic terms as well as attend at least one (1) Phikeia meeting in each of these two terms.
     3. Adherence to the self-nomination process as outlined:
-        1. Completion of a General Officer Nomination Form:
-            1. One (1) other Active Member must endorse the form.
-            2. Once signed, the Form is submitted, in person, to the Vice President. 
-            3. Only one form per position, per Active Member, may be submitted.
+       1. Completion of a General Officer Nomination Form:
+          - One (1) other Active Member must endorse the form.
+          - Once signed, the Form is submitted, in person, to the Vice President. 
+          - Only one form per position, per Active Member, may be submitted.
     4. Be considered at least a part time student by Dalhousie University for the past two academic terms. 
     If the member participated in a work term in any of the two semesters leading up to the nomination stage, 
     the work term will count as a full course load.
     5. Have posted an average GPA of 2.0 or better during the two semesters leading up to the elections.
-        1. If two semesters’ Dalhousie transcripts are not available, 
-        the Active Member’s High School or equivalent transcripts can take their place.
-        2. In the event the member was on a co­op work term, his most recent transcripts will be used.
+       1. If two semesters’ Dalhousie transcripts are not available, 
+       the Active Member’s High School or equivalent transcripts can take their place.
+       2. In the event the member was on a co­op work term, his most recent transcripts will be used.
     6. Be in good financial standing with The Chapter.
     7. If an Active Member is not eligible for General Elections, as determined by the above, 
     he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
-        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter.
-        The decision of the chosen body is final.
-        2. In the case of an appeal to the Executive Committee, 
-        a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
-        3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is 
-        required to allow the Active Member to proceed to the balloting stage. 
+       1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter.
+       The decision of the chosen body is final.
+       2. In the case of an appeal to the Executive Committee, 
+       a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
+       3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is 
+       required to allow the Active Member to proceed to the balloting stage. 
 
 56. Phikeia in good standing with the Pallas Committee are eligible to proceed 
 to the balloting stage pending their initiation.
@@ -310,289 +310,399 @@ The Executive Committee must make the appointments for the vacant positions no l
 66. Any vacancies not following an election period must be filled within 2 weeks.
 
 ## ARTICLE V: CHAPTER FINANCES AND BUDGETING
-67. Annual dues will be voted on by the Chapter at the final meeting of the academic year, and must be approved by a 66% vote of the entire active chapter. This amount may change by a subsequent 85% vote of the entire active chapter. Dues may vary from year to year.
+
+67. Annual dues will be voted on by the Chapter at the final meeting of the academic year, 
+and must be approved by a 66% vote of the entire active chapter. This amount may change by 
+a subsequent 85% vote of the entire active chapter. Dues may vary from year to year.
+
 68. The Chapter will use a projected budget system to determine the dues amount.
+
 69. The Chapter will vote on a final budget at the first meeting of the school year.
-70. The Founder’s Day Ball, and the Alumni Winter Banquet, as well as all mandatory GHQ fees (including insurance and Members’ dues) are to be added as fixed costs into the projected budget.
+
+70. The Founder’s Day Ball, and the Alumni Winter Banquet, as well as all mandatory GHQ fees 
+(including insurance and Members’ dues) are to be added as fixed costs into the projected budget.
+
 71. Active Members who do not attend the Founder’s Day Ball and the Alumni Winter Banquet will not be reimbursed.
-72. All dues and fees are non­­­transferable to another person.
-73. Members selected by the Chapter to attend the Kleberg Emerging Leadership Institute (3
-Delegates), the President’s Leadership Conference (1 Delegate), General Convention (1 Delegate), and any other Phi Delta Theta conference(s) as approved by the Executive Committee, shall be reimbursed 50% of their travel expenses to a maximum of $200.00, pending approval of the Executive committee. This cannot be applied to accommodation, food, or any other incidental expenses incurred.
+
+72. All dues and fees are non-transferable to another person.
+
+73. Members selected by the Chapter to attend the Kleberg Emerging Leadership Institute (3 Delegates), 
+the President’s Leadership Conference (1 Delegate), General Convention (1 Delegate), 
+and any other Phi Delta Theta conference(s) as approved by the Executive Committee, shall be reimbursed 
+50% of their travel expenses to a maximum of $200.00, pending approval of the Executive committee. 
+This cannot be applied to accommodation, food, or any other incidental expenses incurred.
+
 74. Chapter Financial Records shall be kept in Microsoft Excel Format.
+
 75. All reimbursements of funds are to be administered only after the treasurer has received:
-75.1. A Chapter Reimbursement Request Form
-75.2. All applicable receipts
-75.3. Approval of the Executive Committee if the amount exceeds $100.00.
-75.4. Refunds are not to exceed allotted budget for the year unless approved by the Finance
-Committee and Executive Committee.
+    1. A Chapter Reimbursement Request Form
+    2. All applicable receipts
+    3. Approval of the Executive Committee if the amount exceeds $100.00.
+    4. Refunds are not to exceed allotted budget for the year unless approved by 
+    the Finance Committee and Executive Committee.
+
 76. Chapter Financial Records shall be made available to the Chapter Advisory Board Member appointed by the Chapter Advisory Board Chair.
+
 77. The Chapter will send out a report by August 10th preceding the start of the academic year, with the final dues amount.
+
 78. All active, censured, and suspended Members are expected to pay dues in full by September 30 of the academic year unless stipulated by a payment plan.
-78.1. Payment plans can be negotiated on an individual basis with the Treasurer and Vice­­President if necessary and must be signed no later than September 30th. With the first payment due September 30th, and consisting of equal payments concluding no later than February 28.
-78.2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
-78.3. Failure to do so will result in immediate suspension and review from the Executive Committee. If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
-78.4. The payment plan contract will be attached to the bylaws as Appendix D
-79. For members who will not be present in the city for the winter semester (either due to co­op placement or distant education or December program completion), they will have to pay the costs
-N o v a S c ot i a A l p ha C h a p te r P h i D e l ta T h e t a
- 8 |P a g e
-associated with the Founders Day Ball and Alumni Banquet but may receive their Alumni Banquet
-and Founder’s Day Ball costs as a refund unless they are to be present for either of those events.
+    1. Payment plans can be negotiated on an individual basis with the Treasurer and Vice-President if 
+    necessary and must be signed no later than September 30th. 
+    With the first payment due September 30th, and consisting of equal payments concluding no later than February 28.
+    2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
+    3. Failure to do so will result in immediate suspension and review from the Executive Committee. 
+    If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
+    4. The payment plan contract will be attached to the bylaws as Appendix D
+
+79. For members who will not be present in the city for the winter semester (either due to co­op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day Ball and Alumni Banquet but may receive their Alumni Banquet and Founder’s Day Ball costs as a refund unless they are to be present for either of those events.
+
 80. Any Member who has failed to inform the Treasurer that they will not be returning as an active
 member by July 10th will be held responsible for paying their individual insurance fee as assessed by
 insurer. This fee will be due no later than September 30th.
-81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque, money order, or credit card payment, in care of Phi Delta Theta – Nova Scotia Alpha, by the 10th of each month billed. Additional fees may be added for processing.
-81.1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
-82. Receipts will be issued by the Treasurer, President, or Vice President for all payments. It is the Member’s responsibility to maintain their receipts.
-83. The Treasurer will maintain two bank accounts, first for the parking lot fund (savings) and second for the chapter fund(chequings).
-ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
-85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Article 2 ­ Section 19.
-86. Founders Day Ball, Remembrance Day ceremony, Phikeia Retreats, Chapter Retreats, Initiation Retreats, and Alumni Banquet are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, 2 weeks in advance.
-86.1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, the Member will be called to meet with the Executive Committee in order to discuss these absences.
-87. All Members must attend at least 50% of all recruitment events per semester. If a Member fails to do so he will be called in front of the Executive Committee.
-88. If there fails to be a minimum of three (3) events during the formal Recruitment period (organized by the Recruitment Chair), and two (2) events outside of the formal
-Recruitment period during the rest of the semester (not necessarily organized by the Recruitment Chair), then the Recruitment Chair will be called to appear in front of the Executive Committee or Judicial Committee, for which further action will be decided upon by the Executive Committee or Judicial Committee.
-89. Each active member must attend at least 1 Phikeia meeting each term. Failure to do so will result in a review from the Executive Committee.
-90. Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by the second meeting of each semester, or as requested by the Scholarship Chair. If the class schedule is changed then it must be re­submitted. Transcripts must be submitted as a non­ alterable copy of the Member’s full Academic Record as provided by Dalhousie University.
-N o v a S c ot i a A l p h a C h a p t e r P h i D e l t a T h e t a
- 9 |P a g e
-91. An Active Member whose previous semester GPA falls below a 2.7 is immediately included in the Scholarship Program. An Active Member whose previous semester’s GPA is above 2.7 but cumulative GPA is below 2.3 will also be required to follow the scholarship program.
-91.1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. Any such adjustment may only be passed by the majority vote of the Executive Committee, the Scholarship Chairman, and the Chapter Advisory Board Chairman.
-91.2. Courses taken during the summer semester shall not effect a Member’s standing with respect to the Scholarship Program except where the Member was considered a full time student by Dalhousie University during the summer semester.
-92. If a Member on the scholarship program achieves a 2.7 GPA during the summer semester (unless the summer semester is a full course load) or is a part­­­time student, he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
-93. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring discredit to the organization.
-94. If a Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at Dalhousie University, he is considered an active Member and subject to all rules and regulations therein.
-ARTICLE VII: PHIKEIAS
-95. 96.
-97.
-Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XIII­­­ Eligibility for Membership.
-Phikeia will be required to pay $90.00 upon induction and $250.00 upon initiation and
-operational costs, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members sweaters, badges, ticket to Founder’s Day Ball, ticket to Alumni Banquet, and operational costs.
-In order to be initiated Phikeia must have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must submit all marks to the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
-97.1.
-by Dalhousie University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
-97.2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
-All Phikeia must provide a non­alterable copy of their full Academic Record as provided
-98. Phikeia will be required to attend all regular weekly Phikeia meetings, the Founder's Day Ball, and the Remembrance Day Ceremony. Attendance at the Alumni Winter Banquet is encouraged.
-N o v a S c ot i a A l p ha C h a p te r P h i D e l ta T h e t a
- 10 | P a g e
+
+81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque, 
+money order, or credit card payment, in care of Phi Delta Theta – Nova Scotia Alpha, by the 10th 
+of each month billed. Additional fees may be added for processing.
+    1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 
+    of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
+    
+82. Receipts will be issued by the Treasurer, President, or Vice President for
+all payments. It is the Member’s responsibility to maintain their receipts.
+
+83. The Treasurer will maintain two bank accounts, first for the parking lot fund
+(savings) and second for the chapter fund(chequings).
+
+## ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
+
+85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Article 2 - Section 19.
+
+86. Founders Day Ball, Remembrance Day ceremony, Phikeia Retreats, Chapter Retreats, Initiation Retreats, and 
+Alumni Banquet are all mandatory events held within an academic year.
+If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. 
+To be excused from any of these events, the Member must notify the Secretary, in writing, 2 weeks in advance.
+    1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, 
+    the Member will be called to meet with the Executive Committee in order to discuss these absences.
+    
+87. All Members must attend at least 50% of all recruitment events per semester. 
+If a Member fails to do so he will be called in front of the Executive Committee.
+
+88. If there fails to be a minimum of three (3) events during the formal Recruitment period 
+(organized by the Recruitment Chair), and two (2) events outside of the formal Recruitment period 
+during the rest of the semester (not necessarily organized by the Recruitment Chair), then 
+the Recruitment Chair will be called to appear in front of the Executive Committee or Judicial Committee,
+for which further action will be decided upon by the Executive Committee or Judicial Committee.
+
+89. Each active member must attend at least 1 Phikeia meeting each term. 
+Failure to do so will result in a review from the Executive Committee.
+
+90. Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by 
+the second meeting of each semester, or as requested by the Scholarship Chair. 
+If the class schedule is changed then it must be re-submitted. 
+Transcripts must be submitted as a non-alterable copy of the Member’s full 
+Academic Record as provided by Dalhousie University.
+
+91. An Active Member whose previous semester GPA falls below a 2.7 is immediately included in the Scholarship Program. 
+An Active Member whose previous semester’s GPA is above 2.7 but cumulative
+GPA is below 2.3 will also be required to follow the scholarship program.
+    1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman 
+    and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. 
+    Any such adjustment may only be passed by the majority vote of the Executive Committee, 
+    the Scholarship Chairman, and the Chapter Advisory Board Chairman.
+    2. Courses taken during the summer semester shall not effect a Member’s standing 
+    with respect to the Scholarship Program except where the Member was considered a
+    full time student by Dalhousie University during the summer semester.
+
+92. If a Member on the scholarship program achieves a 2.7 GPA during the summer semester
+(unless the summer semester is a full course load) or is a part-time student, he will stay on the scholarship
+program for the fall semester and will have full membership privileges (contingent upon individual review).
+
+93. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, 
+in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring discredit to the organization.
+
+94. If a Member has not completed four years of undergraduate studies or completed his degree, 
+and is enrolled in at least one class at Dalhousie University, he is considered an active Member
+and subject to all rules and regulations therein.
+
+## ARTICLE VII: PHIKEIAS
+
+95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XIII Eligibility for Membership.
+
+96.Phikeia will be required to pay $90.00 upon induction and $250.00 upon initiation and operational costs,
+to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. 
+The nominal dues amount will go towards newly initiated Members sweaters, badges, ticket to Founder’s Day Ball, 
+ticket to Alumni Banquet, and operational costs.
+
+97. In order to be initiated Phikeia must have followed the scholarship plan for the duration of the Phikeia period.
+First year, first semester Phikeia must submit all marks to the Scholarship Chair and
+be assessed academically by the Pallas Committee before initiation.
+    1. All Phikeia must provide a non­alterable copy of their full Academic Record as provided by Dalhousie
+    University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
+    2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair.
+    Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
+
+98. Phikeia will be required to attend all regular weekly Phikeia meetings, the Founder's Day Ball,
+and the Remembrance Day Ceremony. Attendance at the Alumni Winter Banquet is encouraged.
+
 99. Phikeia will appear before the Pallas Committee should there be any conduct deemed to be inappropriate.
-100. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter.
-101. Phikeia fees are non­refundable.
-102. Phikeia bids and initiation will take into consideration the criteria outlined in the Values
-Based Recruitment document. These documents will be attached as an appendix to this document.
-ARTICLE VIII: THE CHAPTER HOUSE
-103.
-104. 104.1.
-104.2. 104.3. 104.4.
-105. 106.
-107. 108.
-109.
-110.
-110.1. 110.2.
-110.3. Any repairs/house projects must be submitted to and approved by the house corporation chair and house manager
-The Chapter House must remain fully occupied if possible at all times to allow for financial solvency.
-Room preference will be given in the following priority:
-Active
-Alumni
-Outside tenants (First Come First Serve)
-Scotia Phi has the final discretion on all tenants.
-Terms of rent and the lease are to be negotiated between the tenants and the House
+
+100. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. 
+This action will only be taken by recommendation of the Pallas Committee to the 
+Executive Committee, to be voted on by the Chapter.
+
+101. Phikeia fees are non-refundable.
+
+102. Phikeia bids and initiation will take into consideration the criteria outlined in the Values Based Recruitment document. These documents will be attached as an appendix to this document.
+
+## ARTICLE VIII: THE CHAPTER HOUSE
+
+103. The Chapter House must remain fully occupied if possible at all times to allow for financial solvency.
+
+104. Room preference will be given in the following priority:
+     1. Active
+     2. Alumni
+     3. Outside tenants (First Come First Serve)
+     4. Scotia Phi has the final discretion on all tenants.
+
+105. Terms of rent and the lease are to be negotiated between the tenants and the House
 Corporation appointed representative.
-Tenants will be responsible for their own quarters, which must be kept reasonably tidy at all times. All Members and tenants will be responsible for the cleanliness of the common areas in the house.
-Members will be fully responsible for the actions of their guests.
-Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the Chapter House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
-Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house without the permission of Scotia Phi Property Manager. Anything being hung on the walls or windows in common areas requires the approval of the Scotia Phi Property Manager.
-All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
-Common areas are to be kept clean at all times.
-House guests are the responsibility of the Member who invites them into the House and the Member carries the liabilities of the House guest. Any damage or
-mess must be repaired/cleaned/paid for by the Member hosting the guest. There are no exceptions to this rule.
-N o v a S c ot i a A l p h a C h a p t e r P h i D e l t a T h e t a
- 11 | P a g e
-110.4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor bulletin board. Each Member living in and using the House will be placed in rotation on the list. Please note that this does include Alumni who are frequently at the House.
-110.5. Failure to do these chores will mean that you will be required to complete the chore the following week plus your new assigned chore.
-110.6. The Executive Committee or Judicial Committee will review any repeated infraction of these rules and recommendations will be made accordingly.
+
+106. Tenants will be responsible for their own quarters, which must be kept reasonably tidy at all times.
+All Members and tenants will be responsible for the cleanliness of the common areas in the house.
+
+107. Members will be fully responsible for the actions of their guests.
+
+108. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and
+is payable in full immediately. The House Corporation Property Manager, the Chapter House Manager, 
+the President and a Chapter Advisory Board delegate shall determine the final amount.
+
+109. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house 
+without the permission of Scotia Phi Property Manager. Anything being hung on the walls or windows in common 
+areas requires the approval of the Scotia Phi Property Manager.
+
+110. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
+     1. Common areas are to be kept clean at all times.
+     2. House guests are the responsibility of the Member who invites them into the House and the Member carries the     
+     liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the Member hosting the guest.  
+     There are no exceptions to this rule.
+     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and house manager
+     4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor 
+     bulletin board. Each Member living in and using the House will be placed in rotation on the list. 
+     Please note that this does include Alumni who are frequently at the House.
+     5. Failure to do these chores will mean that you will be required to complete the
+     chore the following week plus your new assigned chore.
+     6. The Executive Committee or Judicial Committee will review any repeated infraction 
+     of these rules and recommendations will be made accordingly.
+    
 111. Guest Staying in the Chapter house
-111.1. All Alumni and actives who are not tenants can sleep at the Fraternity House a
-maximum of two nights each week, but not on consecutive nights. Exceptions will be made for Initiation Retreat.
-111.2. Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
-111.3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
-111.4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
+     1. All Alumni and actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, 
+     but not on consecutive nights. Exceptions will be made for Initiation Retreat.
+     2. Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, 
+     but not on consecutive nights, provided the Member is also on the premises.
+     3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
+     4. The guest’s first priority upon waking up is to clean up after themselves,
+     with the ultimate responsibility resting on the Member whose guest it is. 
+     This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
+    
 112. Smoking is only permitted on back deck of the Fraternity House.
-112.1. All butts must be placed in a container and disposed of properly. No butts will be left
-on the property.
-112.2. Only cigarettes, e­cigarettes, and cigars can be smoked.
-113. Excluding the main floor, emergency exits are only to be used in the case of emergency. You may only regularly enter and exit the house using the front and back doors on the main floor.
+     1. All butts must be placed in a container and disposed of properly. No butts will be left on the property.
+     2. Only cigarettes, e-cigarettes, and cigars can be smoked.
+    
+113. Excluding the main floor, emergency exits are only to be used in the case of emergency. 
+You may only regularly enter and exit the house using the front and back doors on the main floor.
+
 114. Fire escapes must be kept unobstructed at all times.
-ARTICLE IX: THE CHAPTER PARKING LOT
-116.
-The parking lot has restricted use during the hours of 6am­5pm during the week. During this time, only permit holders are to park in numbered spots in the parking lot, and only active Members are permitted to park in lettered spots unless granted permission by the Executive Committee. Guests are permitted to park during the hours of 5pm ­ 6am and weekends. All non­permitted cars parked during the restricted hours will be ticketed and towed at the owner’s expense. A diagram of the parking lot will be attached to this document as an appendix designating numbered spaces for tenants and lettered spaces for brothers.
-116.1. 116.1.1.
-Process for ticketing:
-Contact the Parking Lot Manager to assess that the car is indeed not permitted The Parking Lot Manager will then contact the HRM Bylaw
-116.1.2.
-Enforcement or to ticket the car (call 311).
-N o v a S c ot i a A l p ha C h a p te r P h i D e l ta T h e t a
- 12 | P a g e
-116.1.3. One (1) hour following the issue of the ticket, a tow company will be called to remove the vehicle
-116.2. During the process there must always be a Member at the House to ensure procedure is followed. If the offending car owner returns during this process, please politely inform him/her that this is private property and the repercussions of parking here.
-117. Long­term parking is not permitted in lettered spaces in the parking lot. Long­term parking will be considered any length of time longer than 12 hours. Any vehicle found to be parked long­term in a lettered space will be ticketed and towed as described in Article IX.
+
+## ARTICLE IX: THE CHAPTER PARKING LOT
+
+116. The parking lot has restricted use during the hours of 6am-5pm during the week. 
+During this time, only permit holders are to park in numbered spots in the parking lot, 
+and only active Members are permitted to park in lettered spots unless granted permission by the Executive Committee.
+Guests are permitted to park during the hours of 5pm-6am and weekends. 
+All non-permitted cars parked during the restricted hours will be ticketed and towed at the owner’s expense.
+A diagram of the parking lot will be attached to this document as an appendix designating numbered spaces for tenants and lettered spaces for brothers.
+     1. Process for ticketing:
+        1. Contact the Parking Lot Manager to assess that the car is indeed not permitted 
+        2. The Parking Lot Manager will then contact the HRM Bylaw Enforcement or to ticket the car (call 311).
+        3. One (1) hour following the issue of the ticket, a tow company will be called to remove the vehicle
+     2. During the process there must always be a Member at the House to ensure procedure is followed. 
+     If the offending car owner returns during this process, please politely inform him/her that 
+     this is private property and the repercussions of parking here.
+    
+117. Long-term parking is not permitted in lettered spaces in the parking lot. 
+Long-term parking will be considered any length of time longer than 12 hours. 
+Any vehicle found to be parked long-term in a lettered space will be ticketed and towed as described in Article IX.
+
 118. Lettered spaces will not be sold to individual brothers.
-119. Tenants of the Chapter House will be given priority for lettered spaces. All remaining spaces will be filled on a first­come­first­serve basis.
-120. A snow removal plan will be in place by the Parking Lot Manager and Parking Lot Advisor and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, back stairs and fire escape, all need to be cleared by 7am.
-ARTICLE X – DISCIPLINE
+
+119. Tenants of the Chapter House will be given priority for lettered spaces. 
+All remaining spaces will be filled on a first-come-first-serve basis.
+
+120. A snow removal plan will be in place by the Parking Lot Manager and Parking Lot Advisor
+and presented to the Chapter no later than September 15th. 
+Should the Chapter decide at that point that a snowplow contract is required, 
+the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. 
+All members are required to support all snow removal activities.
+Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, 
+the sidewalk, front stairs, back stairs and fire escape, all need to be cleared by 7am.
+
+## ARTICLE X – DISCIPLINE
 121. The Judiciary Committee, hereafter referred to as "JC" shall:
-121.1. Be chaired by the Warden.
-121.2. Consist of the Warden and four active Members not including any member of the
-executive committee unless they also hold the position of warden
-121.3. Hold council when necessary, and discipline according to the Code of Phi Delta Theta,
-Article XVI
-121.4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board
-member be in attendance for any disciplinary meetings and request that the Vice
-President of the Chapter be in attendance for the meetings as well
-122. Six active Members are chosen by the Chapter at the beginning of each semester by a top six plurality election to potentially sit on the Judicial Committee with the Warden.
-122.1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice President to sit on the Judicial Committee.
-122.2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
-122.3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
-123. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-N o v a S c ot i a A l p h a C h a p t e r P h i D e l t a T h e t a
- 13 | P a g e
-123.1. The Executive Committee can call the Judicial Committee meeting with a 4/5 vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
-124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, Article XVI, Sections 154, 155, and 156.
+     1. Be chaired by the Warden.
+     2. Consist of the Warden and four active Members not including any member of the
+     executive committee unless they also hold the position of warden
+     3. Hold council when necessary, and discipline according to the Code of Phi Delta Theta, Article XVI
+     4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any
+     disciplinary meetings and request that the Vice President of the Chapter be in attendance for the meetings as well
+
+122. Six active Members are chosen by the Chapter at the beginning of each semester by a top six
+plurality election to potentially sit on the Judicial Committee with the Warden.
+     1. Upon the calling of a Judicial Committee, four of the six Members will be 
+     selected by the Warden and Vice President to sit on the Judicial Committee.
+     2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the
+     Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
+     3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. 
+     If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
+
+123. To call a Judicial Committee a Member must report before the Executive Committee 
+for an explanation as to why the Judicial Committee meeting must be called.
+     1. The Executive Committee can call the Judicial Committee meeting with a 4/5 vote. 
+     This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
+    
+124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee,
+except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, 
+Article XVI, Sections 154, 155, and 156.
+
 125. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice President and the Treasurer as per ARTICLE V Section 77.
+
 126. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
-126.1. 126.1.1.
-126.1.2. 126.1.3. 126.1.4.
-126.1.5. 126.1.5.1.
-126.1.5.2.
-126.2.1. 126.2.2.
-126.2.3. 126.2.3.1.
-Review accusation and relevant history
-Review evidence supporting the accusation and evidence refuting the accusation
-Discussion and development of potential resolutions or disciplinary action
-A majority vote by the members of the Judiciary Committee is required to pass potential resolutions
-If passed, the resolution will be presented and voted upon at the next Chapter meeting
-Open Section (All Members may attend this portion of the meeting)
-Opening statement by chair as to why this Judiciary Committee has been called Speaking of defense (by involved Member(s) to the Judiciary Committee) Presentation of evidence and points of clarification (open to floor)
-Questions directed towards the involved Member(s) from the Judiciary Committee members
-Review of the involved Member(s)’ chapter history
-126.2.3.2.
-126.3. Chapter Meeting Section
-126.3.1. 126.3.1.1.
-126.3.1.2. 126.3.2.
-An all­inclusive summary of information is to be presented by chair to the Chapter. This summary is to include:
-All relevant history of the involved Member and all evidence supporting and refuting the accusation.
-The resolution passed by the Judiciary Committee read verbatim
-The floor may be opened to ask questions directed to the Judiciary Committee chair based on the following stipulations:
-Presented by the Chapter President
-Is to include but is not limited to: previous Judicial Committee meetings
-and consequences, academic standing, financial standing, meeting
-attendance, mandatory event attendance
-126.2.
-Chapter Advisory Board Chair, as per Article XI, Section 117)
-Closed Section (Only open to 5 committee members, Chapter Vice President, and the Chapter Advisory Board member as appointed by the
-N o v a S c ot i a A l p ha C h a p te r P h i D e l ta T h e t a
- 14 | P a g e
-127.
-If the chapter does not vote in favor, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Article X, Section 122 Part C of these Bylaws.
-127.1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
-127.2. Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines.
-127.3. Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the General Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
-Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
-126.3.2.1.
-126.3.2.2. 126.3.2.3.
-126.3.3. 126.3.4.
-Only questions seeking additional clarification with regards to any information reviewed by the chair or with regards to the resolution will be entertained.
-No new information or evidence can be presented
-No questions pertaining to the private discussion of the Judicial Committee are allowed.
-Closed ballot voting begins (See The Code Article XVI Section 156)
-If the Chapter votes in favor (66% +1) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
-  128.
-ARTICLE XI: COMMITTEES
+     1. Open Section (All Members may attend this portion of the meeting)
+        1. Opening statement by chair as to why this Judiciary Committee has been called
+        2. Speaking of defense (by involved Member(s) to the Judiciary Committee) 
+        3. Presentation of evidence and points of clarification (open to floor)
+        4. Questions directed towards the involved Member(s) from the Judiciary Committee members
+        5. Review of the involved Member(s)’ chapter history
+           - Presented by the Chapter President
+           - Is to include but is not limited to: previous Judicial Committee meetings and consequences,
+           academic standing, financial standing, meeting attendance, mandatory event attendance
+     2. Closed Section (Only open to 5 committee members, Chapter Vice President, and the Chapter Advisory Board 
+     member as appointed by the Chapter Advisory Board Chair, as per Article XI, Section 117)
+        1. Review accusation and relevant history
+        2. Review evidence supporting the accusation and evidence refuting the accusation
+        3. Discussion and development of potential resolutions or disciplinary action
+           - A majority vote by the members of the Judiciary Committee is required to pass potential resolutions
+           - If passed, the resolution will be presented and voted upon at the next Chapter meeting
+     3. Chapter Meeting Section
+        1. An all-inclusive summary of information is to be presented by chair to the Chapter. This summary is to include:
+           - All relevant history of the involved Member and all evidence supporting and refuting the accusation.
+           - The resolution passed by the Judiciary Committee read verbatim
+        2. The floor may be opened to ask questions directed to the Judiciary Committee
+        chair based on the following stipulations:
+           - Only questions seeking additional clarification with regards to any information reviewed 
+           by the chair or with regards to the resolution will be entertained.
+           - No new information or evidence can be presented
+           - No questions pertaining to the private discussion of the Judicial Committee are allowed.
+        3. Closed ballot voting begins (See The Code Article XVI Section 156)
+        4. If the Chapter votes in favor (66% +1) of the action, the Warden shall prepare a report to be 
+        submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, 
+        the President shall immediately notify HQ and the Province President as per The Code.
+
+127. If the chapter does not vote in favor, the Judiciary Committee shall reconvene in closed session to assess next steps.
+These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Article X, Section 122 of these Bylaws.
+    1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. 
+    The Member is required to attend all chapter meetings, mandatory events, 
+    and any other stipulations dictated by the disciplinary action(s).
+    2. Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities 
+    of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter
+    meetings. He may not reside or be present on chapter property without the written permission of the Province President 
+    and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines.
+    3. Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the General Committee 
+    or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates
+    absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
+
+128. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
+
+## ARTICLE XI: COMMITTEES
+
 129. The standing committees of the Chapter shall be:
-129.1. 129.2. 129.3. 129.4. 129.5. 129.6. 129.7. 129.8.
-Executive Committee Recruitment
-Finance
-Judiciary
-Pallas
-Risk Management Awards Committee Phikeia Education
-N o v a
-S c ot i a
-A l p h a
-C h a p t e r
-P h i
-D e l t a
-T h e t a
- 15 | P a g e
+     1. Executive Committee 
+     2. Recruitment
+     3. Finance
+     4. Judiciary
+     5. Pallas
+     6. Risk Management 
+     7. Awards Committee 
+     8. Phikeia Education
+    
 130. The Chapter may create committees as needed.
-131. Each Executive Officer will chair a committee consisting of the positions they oversee as
-stated in Section 24 of Article III.
-131.1. Committees are expected to meet at least bi­­­weekly and in the first week of each
-semester and after elections
-131.2. Each Executive Officer will be expected to report back to the Executive Committee
-after all meetings
-131.3. If an Officer fails to attend their Executive Committee meeting, they will be brought
-before the Executive Committee
-131.4. If an Executive Committee member fails to hold a bi­­­weekly committee meeting, they
-will be called before a Judicial Committee 132. The Executive Committee shall:
-132.1. Be chaired by the Vice­­­President
-132.2. Consist of the President, Vice­­­President, Treasurer, Recruitment Chair, and Secretary
-132.3. Meet at least bi­­­weekly, but weekly during the school year
-132.4. Conduct the Standards for Brotherhood Program bi­annually
-132.5. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
-133.
-The Recruitment Committee shall:
-133.1. Be chaired by the Recruitment Chair
-133.2. Consist of the Chair, Assistant chairs, and at least 3 other active Members
-133.3. Meet at least bi­­­weekly
+
+131. Each Executive Officer will chair a committee consisting of the
+positions they oversee as stated in Section 24 of Article III.
+     1. Committees are expected to meet at least bi-weekly and in the first week of each semester and after elections
+     2. Each Executive Officer will be expected to report back to the Executive Committee after all meetings
+     3. If an Officer fails to attend their Executive Committee meeting, they will be brought before the Executive Committee
+     4. If an Executive Committee member fails to hold a bi-weekly committee meeting,
+     they will be called before a Judicial Committee
+
+132. The Executive Committee shall:
+     1. Be chaired by the Vice-President
+     2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, and Secretary
+     3. Meet at least bi-weekly, but weekly during the school year
+     4. Conduct the Standards for Brotherhood Program bi-annually
+     5. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
+    
+133. The Recruitment Committee shall:
+     1. Be chaired by the Recruitment Chair
+     2. Consist of the Chair, Assistant chairs, and at least 3 other active Members
+     3. Meet at least bi-weekly
+    
 134. The Finance Committee shall:
-134.1. Be chaired by the Treasurer
-134.2. Consist of the Chair, Assistant Treasurer, President, and Finance Advisor
-134.3. Prepare the annual budget
-134.4. Meet bi­weekly
+     1. Be chaired by the Treasurer
+     2. Consist of the Chair, Assistant Treasurer, President, and Finance Advisor
+     3. Prepare the annual budget
+     4. Meet bi-weekly
+    
 135. The Awards Committee shall:
-135.1. 135.2. 135.3. 135.4.
-Be chaired by the Awards Chair
-Consist of the Chair, Secretary, President, and at least two other active Members Oversee completion of all GHQ Awards applications
-Oversee requirements, nominations, and presentation of all Chapter awards including:
-135.4.1. 135.4.2. 135.4.3. 135.4.4. 135.4.5. 135.4.6. 135.4.7. 135.4.8. 135.4.9.
-Phi of the Year
-Unsung Phi of the Year Most Improved Phi Community Service Phi Athlete of the Year Rookie of the Year Alumnus of the Year Scholastic Achievement Phi Delt Sweetheart
-136. The Judiciary Committee shall: 136.1. Be chaired by the Warden
-N o v a
-S c ot i a
-A l p ha
-C h a p te r
-P h i
-D e l ta
-T h e t a
- 16 | P a g e
-136.2. Consist of the Warden and four active Members not including any member of the executive committee unless they hold the position of Warden
-136.3. Hold council when necessary, and discipline according to Article X
-136.4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory
-Board member be in attendance for any disciplinary meetings are request that the Vice­
-­­President of the Chapter be in attendance for the meeting as well
-136.5. Convene at the beginning of each semester, including all six elected members, the
-Warden, and Vice­President to review the Judicial Committee procedure with a CAB
-delegate
-136.6. See Article X, Section 118 for procedure on how to choose Members for the Judiciary Committee
+     1. Be chaired by the Awards Chair
+     2. Consist of the Chair, Secretary, President, and at least two other active Members
+     3. Oversee completion of all GHQ Awards applications
+     4. Oversee requirements, nominations, and presentation of all Chapter awards including:
+        1. Phi of the Year
+        2. Unsung Phi of the Yea
+        3. Most Improved Phi 
+        4. Community Service Phi
+        5. Athlete of the Year 
+        6. Rookie of the Year
+        7. Alumnus of the Year 
+        8. Scholastic Achievement 
+        9. Phi Delt Sweetheart
+        
+136. The Judiciary Committee shall:
+     1. Be chaired by the Warden
+     2. Consist of the Warden and four active Members not including any member 
+     of the executive committee unless they hold the position of Warden
+     3. Hold council when necessary, and discipline according to Article X
+     4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any 
+     disciplinary meetings are request that the Vice -President of the Chapter be in attendance for the meeting as well
+     5. Convene at the beginning of each semester, including all six elected members, 
+     the Warden, and Vice­President to review the Judicial Committee procedure with a CAB delegate
+     6. See Article X, Section 118 for procedure on how to choose Members for the Judiciary Committee
+
 137. The Pallas Committee
-137.1. Be chaired by the Assistant Phikeia Educator
-137.2. Consist of the Assistant Phikeia Educator, Phikeia Educator, Recruitment Chair,
-Scholarship Chair, and one other active Member.
-137.3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and
-making Big Brother­Little Brother pairings no later than the first meeting of the Phikeia
-program.
-137.4. Meet weekly when there is a Phikeia class in session.
-137.5. Be responsible for handling all disciplinary issues relating to the Phikeia program (refer
-to Article VII).
-137.6. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
+     1. Be chaired by the Assistant Phikeia Educator
+     2. Consist of the Assistant Phikeia Educator, Phikeia Educator, Recruitment
+     Chair, Scholarship Chair, and one other active Member.
+     3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and making
+     Big Brother-Little Brother pairings no later than the first meeting of the Phikeia program.
+     4. Meet weekly when there is a Phikeia class in session.
+     5. Be responsible for handling all disciplinary issues relating to the Phikeia program (refer to Article VII).
+     6. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
+
 138. Phikeia Education Committee
-138.1. Chaired by the Phikeia Educator and consists of any Members deemed necessary.
-138.2. Be responsible for creating the educational curriculum and planning Phikeia retreat
-and initiation.
+     1. Chaired by the Phikeia Educator and consists of any Members deemed necessary.
+     2. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
+
 139. Risk Management Committee
-139.1. 139.2.
-Chaired by the Risk Management Chairman.
-Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Community Service Chairman, House Manager, President.
-N o v a S c ot i a A l p h a C h a p t e r P h i D e l t a T h e t a
- 17 | P a g e
+     1. Chaired by the Risk Management Chairman.
+     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman,
+     Community Service Chairman, House Manager, President.
+
