@@ -112,16 +112,10 @@ with exceptions in special cases deemed by the President.
 48 hours in advance of the chapter meeting for review by the Executive Committee.
 
 ## ARTICLE III: DUTIES OF OFFICERS
-24. The Chapter officers will report bi-weekly to their assigned Executive Officer. 
-Chapter officers must meet with their assigned Executive Officer once at the start of 
-each semester and after elections. Each Executive Officer will provide an update to 
-the Executive Committee on any meetings held with their assigned officers. 
-The officer assignments are as follows:
-    1. President – Alumni Chairman, Risk Management Chairman, Greek Representative, Awards Chairman
-    2. Vice President – Scholarship Chairman, House Manager, Warden, Foundation Representative
-    3. Treasurer – Community Service Chairman, Philanthropy Chairman, Parking Lot Manager, Assistant Treasurer
-    4. Recruitment Chairman – Phikeia Educator, Assistant Phikeia Educator, Assistant Recruitment Chairman(s), Chaplain
-    5. Secretary – Social Chairman, Athletics Chairman, Webmaster, Chorister
+24. The Chapter officers will report bi-weekly to the Vice-president. 
+Chapter officers must meet with the Vice-Pesident once at the start of 
+each semester and after elections. The Vice-President will provide an update to 
+the Executive Committee on any meetings held with officers. 
     
 25. If a Member is neglecting his duties as an officer, their position will be reviewed. 
 The procedure of a Position Review is as follows:
@@ -162,99 +156,38 @@ Form and submit it to the Executive Committee prior to the second meeting of the
 
 30. Officers will submit a Transition Report to the Executive Committee prior to vacating their office.
 
-31. The length of term for each officer shall be one calendar year, as defined as December to
-December, unless otherwise decided by a vote of 66% of the Active Chapter.
+31. The length of term for each officer shall be one calendar year, as defined as March to
+March excepting the President and Vice President who's terms are defined November to November,
+unless otherwise decided by a vote of 66% of the Active Chapter.
 
 32. No officer shall receive payment for his duties or service.
 
 ## ARTICLE IV: ELECTIONS
 
-### Executive Elections
+33. Officer elections shall take place no later than the first chapter meeting in March.
+Presidential and Vice-Presidential elections shall take place no later than the Second chapter meeting in November.
+Installations shall occur no earlier than two (2) weeks after the elections
+and no later than the last meeting of the current academic term.
 
-33. Executive elections shall take place no later than the first chapter meeting in November. 
-Executive Officer installations shall occur no earlier than two (2) weeks after the elections a
-nd no later than the last meeting of the current academic term.
+34. Nominations for President and Vice President will open three (3) chapter meetings prior to the election date.
+Nominations will be open for two (2) chapter meetings prior to the election date. 
+Nominations will be open until they are closed to begin election procedure.
 
-34. Nominations for Executive positions will open three (3) weeks prior to the election date 
-and close one week prior to the election date.
+35. The nomination process will be as follows: 
+A nomination is made and seconded by members in chapter or submitted to a member of the Executive Committee. 
+The nomination must be accepted by the nominee.
+There is no limitation to how many nominations may be submitted throughout the nomination period.
 
-35. A self-nomination process will be followed, by signing and returning a letter of intent to run for
-Executive Positions. There is no limitation to how many intent forms can be signed throughout the nomination period.
+36. Self-nominations are permitted in chapter or in submission to the Executive Committee.
 
-36. Each self-nomination shall be endorsed by a voting member inside 
-chapter meetings in order for the member to proceed to the balloting stage.
-
-37. In order to be eligible to proceed to the balloting stage for an Executive position, a Member must meet the following criteria:
-    1. Have no unexcused absences from chapter meetings each semester
-    2. Attend at least 1 Phikeia meeting each semester
-    3. Be in good financial standing with the chapter
-    4. Have a minimum semester or cumulative GPA of 7 or higher or be on the first level of the scholarship program
-    5. Attend all mandatory events unless valid excuse given.
-    
-38. Phikeia in good standing with the Pallas Committee are eligible to proceed to the balloting stage pending their initiation.
-
-39. Executive platforms are mandatory, and must be submitted 7 days before the election date in the form of a written document. Failure to submit a platform will result in the removal of a nomination.
-
-40. The Vice President will make all platforms available to the Chapter at least 48 hours prior to the election.
-
-41. Each Executive candidate will be allotted a 5 minute speech period and 3 minute question period during the chapter meeting.
-
-42. Speech order will follow in alphabetical last name order (as listed on the ballot).
-
-43. All final ballot voting will be conducted inside the chapter meeting using secret ballots prepared by the Vice 
-President. The President and Warden shall act as Elections Returns officers unless they are involved in the election.
-
-44. The number of valid ballots (including spoils) for each final ballot must reach quorum.
-
-45. The order for Executive elections shall be as follows:
-    1. President
-    2. Vice President
-    3. Treasurer
-    4. Recruitment Chairman
-    5. Secretary
-    
-46. For an Executive candidate to be elected he must obtain a majority vote of the Active Members in attendance.
-
-47. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from 
-the ballot and another round of voting will occur with the remaining candidates. 
-This will repeat until a majority is reached.
-
-48. Is there are only two candidates remaining and a tie vote occurs, an additional two (2) minute speech or question 
-period (at the choice of the candidate) will be provided for both candidates before another round of voting.
-
-49. After two consecutive ties, a designated Chapter Advisory Board representative 
-will vote along with the Active Members in attendance in a third round of voting.
-
-50. Active Members may not hold more than one Chapter Officer position in addition to an Executive Officer position, unless appointed by the Executive Committee or unless the Chapter size is less than 25 eligible members.
-
-### General Elections
-
-51. General Elections will take place at the end of each calendar year, on the date set by the Executive Committee by the second meeting of the fall semester.
-
-52. Nominations for General Officer positions will open three weeks prior to the election date and end one week prior to the election date.
-
-53. A self-nominating process will be followed, by signing a letter of intent to run for general officer positions. 
-There are no limitations on the number of intent forms that can be signed throughout the nomination period.
-
-54. Each self-nomination shall be endorsed inside the chapter meeting in order for the Member to proceed to the balloting stage.
-
-55. Eligibility for General Election Nomination(s), in addition to Title XI: section 113.1 of The Code, shall be as follows:
-    1. Be an Active Member of Ontario Gamma.
-    2. Have no more than one (1) unexcused absence from Chapter meetings or mandatory events during the current and previous academic terms as well as attend at least one (1) Phikeia meeting in each of these two terms.
-    3. Adherence to the self-nomination process as outlined:
-       1. Completion of a General Officer Nomination Form:
-          - One (1) other Active Member must endorse the form.
-          - Once signed, the Form is submitted, in person, to the Vice President. 
-          - Only one form per position, per Active Member, may be submitted.
-    4. Be considered at least a part time student by McMaster University for the past two academic terms. 
-    If the member participated in a work term in any of the two semesters leading up to the nomination stage, 
-    the work term will count as a full course load.
-    5. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
+37. In order to be eligible to proceed to the election stage for a position in addition 
+to Title XI: section 113.1 of The Code, a Member must meet the following criteria:
+    1. Be in good financial standing with the chapter
+    2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
        1. If two semesters’ McMaster transcripts are not available, 
        the Active Member’s High School or equivalent transcripts can take their place.
        2. In the event the member was on a co-op work term, his most recent transcripts will be used.
-    6. Be in good financial standing with The Chapter.
-    7. If an Active Member is not eligible for General Elections, as determined by the above, 
+    3. If an Active Member is not eligible for General Elections, as determined by the above, 
     he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter.
        The decision of the chosen body is final.
@@ -263,41 +196,97 @@ There are no limitations on the number of intent forms that can be signed throug
        3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is 
        required to allow the Active Member to proceed to the balloting stage. 
 
-56. Phikeia in good standing with the Pallas Committee are eligible to proceed 
-to the balloting stage pending their initiation.
+    
+38. Each President and Vice-President candidate will be allotted a 3 minute speech period.
+Other officer candidates will be allotted a 2 minute speech period.
 
-57. Each General Office candidate will be allotted a 3 minute presentation time to use for speech and/or question period.
+39. Speech order will be at the discretion of the Chair of the meeting
 
-58. Speech order will follow in alphabetical last name order (as listed on the ballot).
+40. Following speeches is a question period. 
+During the period, a speakers list is opened that the President can close following his best judgement. 
+After closing, any names on the speakers list must be exausted.
+Questions must be answered by all candidates, 
+and may be presented 'booth style' so candidates do not hear eachother's answers.
 
-59. All final ballot voting will be conducted inside the chapter meeting using secret ballots prepared by the Vice President. The President and Warden shall act as Elections Returns officers unless they are involved in the election.
+41. Following question period is a discussion. The candidates shall not be present for the discussion.
+During the period, a speakers list is opened that the President can close following his best judgement. 
+After closing, any names on the speakers list must be exausted.
 
-60. The number of valid ballots cast for each final ballot must reach quorum
 
-61. The order for General Officer positions shall proceed as follows:
-    1. Phikeia Educator
-    2. House Manager
-    3. Awards
-    4. Chaplain 
-    5. Scholarship
-    6. Social Chairman
-    7. Foundation Representative
-    8. Assistant Phikeia Educator 
-    9. Community Service Chairman 
-    10. Philanthropy Chairman 
-    11. Assistant Recruitment Chair(s) 
+42. 
+
+43. All voting will be conducted inside the chapter meeting using the heads down, fists up method 
+unless there is one candidate, and a motion to vote by acclimation passes.
+There shall be two vote counters who cannot be candidates in the election chosen by the following preference
+    - President
+    - CAB Member
+    - Alumnus Member
+    - The Warden
+    - The Vice-President
+    - Treasurer
+    - Secretary
+
+44. The number of votes (including abstentions) for each vote must reach quorum.
+
+45. The order for March elections shall be as follows:
+    1. Treasurer
+    2. Recruitment Chairman
+    3. Warden
+    4. Phikeia Educator
+    5. Secretary
+    6. House Manager
+    7. Awards
+    8. Chaplain 
+    9. Scholarship
+    10. Social Chairman
+    11. Philanthropy Chairman 
     12. Warden
-    13. Assistant Treasurer 
-    14. Risk Management Chair 
-    15. Athletics Chair
-    16. Alumni Chairman
-    17. Historian-Webmaster 
-    18. Chorister
-    20. Greek Representative
+    13. Risk Management Chair 
+    14. Athletics Chair
+    15. Alumni Secretary
+    16. Historian
+    17. Chorister
+    18. Greek Council Representative
+During November elections the President shall be elected before the Vice President.
+    
+46. For an Executive candidate to be elected he must obtain a majority vote of the Active Members in attendance.
 
+47. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from 
+the running and another round of voting will occur with the remaining candidates. 
+This will repeat until a majority is reached.
 
-63. After two consecutive ties, a designated Chapter Advisory Board representative
-will vote along with the Members in case of a third tie.
+48. Is there are only two candidates remaining and a tie vote occurs, an additional two (2) minute speech or question 
+period (at the choice of the candidate) will be provided for both candidates before another round of voting.
+
+49. After two consecutive ties, a designated Chapter Advisory Board representative 
+will vote along with the Active Members in attendance in a third round of voting.
+If none is present, the president shall vote.
+
+50. 
+
+51.
+
+52. 
+
+53. 
+
+54.
+
+55. 
+    
+56. 
+
+57. 
+
+58. 
+
+59. 
+
+60. 
+
+61.
+
+63. 
 
 64. Members may not hold more than 2 officer positions, unless appointed by the Executive Committee
 or unless the chapter size is less than 25 eligible Members.
@@ -615,7 +604,7 @@ These could include, but are not limited to: starting the process from the begin
      5. Pallas
      6. Risk Management 
      7. Awards Committee 
-     8. Phikeia Education
+     8. Social Committe
     
 130. The Chapter may create committees as needed.
 
@@ -659,32 +648,35 @@ positions they oversee as stated in Section 24 of Article III.
         7. Alumnus of the Year 
         8. Scholastic Achievement 
         9. Phi Delt Sweetheart
+        10. Brian Shaw Dedication In Life to the Fraternity Award
         
 136. The Judiciary Committee shall:
      1. Be chaired by the Warden
-     2. Consist of the Warden and four active Members not including any member 
-     of the executive committee unless they hold the position of Warden
+     2. Consist of the Warden and four active Members not including any member of the executive committee except the Warden 
      3. Hold council when necessary, and discipline according to Article X
      4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any 
-     disciplinary meetings are request that the Vice -President of the Chapter be in attendance for the meeting as well
-     5. Convene at the beginning of each semester, including all six elected members, 
-     the Warden, and Vice-President to review the Judicial Committee procedure with a CAB delegate
+     disciplinary meetings are request that the Vice-President of the Chapter be in attendance for the meeting as well
+     5. Convene at the beginning of each semester, including all six elected members, the Warden,
+     and Vice-President to review the Judicial Committee procedure with a CAB delegate
      6. See Article X, Section 118 for procedure on how to choose Members for the Judiciary Committee
 
 137. The Pallas Committee
-     1. Be chaired by the Assistant Phikeia Educator
-     2. Consist of the Assistant Phikeia Educator, Phikeia Educator, Recruitment
-     Chair, Scholarship Chair, and one other active Member.
+     1. Be chaired by the Phikeia Educator
+     2. Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, and other active Members.
      3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and making
-     Big Brother-Little Brother pairings no later than the first meeting of the Phikeia program.
+     Big Brother-Little Brother pairings no later than the fourth meeting of the Phikeia program.
      4. Meet weekly when there is a Phikeia class in session.
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (refer to Article VII).
-     6. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
+     6. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
+     7. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
 
-138. Phikeia Education Committee
-     1. Chaired by the Phikeia Educator and consists of any Members deemed necessary.
-     2. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
-
+138. Social Committee
+     1. Be Chaired by the Social Chair
+     2. Consist of the Social Chair, Vice President, Risk Management Chair, and other active Members.
+     3. Be responsible for the organization of regular chapter social events.
+     4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty
+    
+    
 139. Risk Management Committee
      1. Chaired by the Risk Management Chairman.
      2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman,
