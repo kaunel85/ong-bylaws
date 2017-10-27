@@ -365,20 +365,20 @@ all payments. It is the Member’s responsibility to maintain their receipts.
 86. Founders Day, Chapter Retreats, Initiation, and meetings with the 
 province president are all mandatory events held within an academic year.
 If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. 
-To be excused from any of these events, the Member must notify the Secretary, in writing, 2 weeks in advance.
+To be excused from any of these events, the Member must notify the Secretary, in writing, 1 week in advance.
     1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, 
     the Member will be called to meet with the Executive Committee in order to discuss these absences.
     
-87. All Members must attend at least 50% of all recruitment events per semester. 
+87. All Members must attend at least 50% of all formal recruitment events per semester. 
 If a Member fails to do so he will be called in front of the Executive Committee.
 
 88. If there fails to be a minimum of three (3) events during the formal Recruitment period 
 (organized by the Recruitment Chair), and two (2) events outside of the formal Recruitment period 
 during the rest of the semester (not necessarily organized by the Recruitment Chair), then 
-the Recruitment Chair will be called to appear in front of the Executive Committee or Judicial Committee,
-for which further action will be decided upon by the Executive Committee or Judicial Committee.
+the Recruitment Chair will be called to appear in front of the Judicial Committee,
+for which further action will be decided upon by the Judicial Committee.
 
-89. Each active member must attend at least 1 Phikeia meeting each term. 
+89. Each active member must attend at least 1 Phikeia meeting each term or present evidence of exceptional circumstances. 
 Failure to do so will result in a review from the Executive Committee.
 
 90. Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by 
