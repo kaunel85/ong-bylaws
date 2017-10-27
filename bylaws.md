@@ -337,11 +337,10 @@ This cannot be applied to accommodation, food, or any other incidental expenses 
 78. All active, censured, and suspended Members are expected to pay dues in full by September 30 of the academic year unless stipulated by a payment plan.
     1. Payment plans can be negotiated on an individual basis with the Treasurer and Vice-President if 
     necessary and must be signed no later than September 30th. 
-    With the first payment due September 30th, and consisting of equal payments concluding no later than February 28.
+    With the first payment due September 30th, and consisting of equal payments concluding no later than December 6.
     2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
-    3. Failure to do so will result in immediate suspension and review from the Executive Committee. 
+    3. Failure to do so will result in review from the Executive Committee with the assumed outcome of immediate suspension. 
     If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
-    4. The payment plan contract will be attached to the bylaws as Appendix D
 
 79. For members who will not be present in the city for the winter semester (either due to co-op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for either of those events.
 
@@ -349,13 +348,12 @@ This cannot be applied to accommodation, food, or any other incidental expenses 
 member by July 10th will be held responsible for paying their individual insurance fee as assessed by
 insurer. This fee will be due no later than September 30th.
 
-81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque, 
-money order, or credit card payment, in care of Phi Delta Theta – Ontario Gamma, by the 10th 
-of each month billed. Additional fees may be added for processing.
+81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer,
+in care of Phi Delta Theta – Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
     1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 
     of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
     
-82. Receipts will be issued by the Treasurer, President, or Vice President for
+82. Receipts will be issued by the Treasurer, President, or Vice President for 
 all payments. It is the Member’s responsibility to maintain their receipts.
 
 83. The Treasurer will maintain a bank accounts for the chapter fund(chequings).
