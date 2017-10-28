@@ -45,8 +45,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 16. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code (The Code: Sections 78, 79).
 
-17. Formal meeting attire will be closed toed shoes, pants, tucked in collared dress shirt, and tie, properly worn. Failure to wear appropriate meeting attire will be considered an unexcused absence.
-    1. Appropriate formal meeting attire will be determined by the Warden in coordination with the President.
+17. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Failure to wear appropriate meeting attire will be considered an unexcused absence.
     
 18. Chapter meetings will be conducted using Robert’s Rules of Meeting Order.
     1. Robert’s Rules of Meeting Order will be presented to the Active Chapter at minimum once per academic term by the Warden.
@@ -56,7 +55,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
     3. Any Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
     
-20. There shall be no food or drink in the Chapter Room during formal meetings. Water is acceptable as long as it is in a closed container.
+20. There shall be no food or drink in the Chapter Room during formal meetings, unless an exemption is made by the warden or president. Water is acceptable as long as it is in a closed container. 
 
 21. Hats shall not be worn in the Chapter Room during formal meetings, with exceptions in special cases deemed by the President.
 
@@ -73,7 +72,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
     5. In the case that an Executive Officer is presented for review, the same process as outlined above will occur with the Judicial Committee taking the place of the Executive Committee, and the Warden taking the place of the Vice President.
 
-26. Each Executive Officer will keep an officer resource binder in either hard and soft copy, containing a copy of each of the following:
+26. Each Executive Officer will keep an officer resource binder prepared and updated by the vice president in either hard or soft copy, containing a copy of each of the following:
     1. The updated Chapter Bylaws
     2. The Constitution and Code of PDT
     3. Statements of Responsibilities
