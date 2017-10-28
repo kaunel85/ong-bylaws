@@ -413,21 +413,21 @@ and subject to all rules and regulations therein.
 
 95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XIII Eligibility for Membership.
 
-96. Phikeia will be required to pay $90.00 upon induction and $250.00 upon initiation and operational costs,
+96. Phikeia will be required to pay $90.00 upon induction and $300.00 upon initiation and operational costs,
 to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. 
 The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, 
 Initiation Dues, and operational costs.
 
 97. In order to be initiated Phikeia must have followed the scholarship plan for the duration of the Phikeia period.
-First year, first semester Phikeia must submit all marks to the Scholarship Chair and
-be assessed academically by the Pallas Committee before initiation.
+First year, first semester Phikeia must discuss their accademic standing and share all marks 
+with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
     1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster
     University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
     2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair.
     Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
 
-98. Phikeia will be required to attend all regular weekly Phikeia meetings, the Founder's Day Ball,
-and the Remembrance Day Ceremony. Attendance at the Alumni Winter Banquet is encouraged.
+98. Phikeia will be required to attend all regular weekly Phikeia meetings and 
+Chapter Retreats, and meetings with the Province President
 
 99. Phikeia will appear before the Pallas Committee should there be any conduct deemed to be inappropriate.
 
@@ -447,7 +447,7 @@ Executive Committee, to be voted on by the Chapter.
      1. Active
      2. Alumni
      3. Outside tenants (First Come First Serve)
-     4. Scotia Phi has the final discretion on all tenants.
+     4. The House Corporation has the final discretion on all tenants.
 
 105. Terms of rent and the lease are to be negotiated between the tenants and the House
 Corporation appointed representative.
@@ -465,9 +465,10 @@ the President and a Chapter Advisory Board delegate shall determine the final am
 without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common 
 areas requires the approval of the Ontario Gamma Property Manager.
 
-110. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
+110. All active Members will be responsible for keeping clean the common living areas of the house including but 
+not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
      1. Common areas are to be kept clean at all times.
-     2. House guests are the responsibility of the Member who invites them into the House and the Member carries the     
+     2. House guests are the responsibility of the Member who invites them into the House and the Member carries the  
      liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the Member hosting the guest.  
      There are no exceptions to this rule.
      3. Any repairs/house projects must be submitted to and approved by the house corporation chair and house manager
@@ -489,14 +490,13 @@ areas requires the approval of the Ontario Gamma Property Manager.
      with the ultimate responsibility resting on the Member whose guest it is. 
      This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
     
-112. Smoking is only permitted on back deck of the Fraternity House.
+112. Smoking is only permitted on back porch of the Fraternity House.
      1. All butts must be placed in a container and disposed of properly. No butts will be left on the property.
      2. Only cigarettes, e-cigarettes, and cigars can be smoked.
     
-113. Excluding the main floor, emergency exits are only to be used in the case of emergency. 
-You may only regularly enter and exit the house using the front and back doors on the main floor.
+113. 
 
-114. Fire escapes must be kept unobstructed at all times.
+114. 
 
 ## ARTICLE IX: THE CHAPTER PARKING LOT
 
@@ -517,6 +517,7 @@ Following a snow storm (regardless of whether there is a contract) the entrance 
 the sidewalk, front stairs, and back stairs, all need to be cleared by 7am.
 
 ## ARTICLE X – DISCIPLINE
+
 121. The Judiciary Committee, hereafter referred to as "JC" shall:
      1. Be chaired by the Warden.
      2. Consist of the Warden and four active Members not including any member of the
@@ -616,10 +617,9 @@ positions they oversee as stated in Section 24 of Article III.
 
 132. The Executive Committee shall:
      1. Be chaired by the Vice-President
-     2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, and Secretary
+     2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, Warden, Phikeia Educator and Secretary
      3. Meet at least bi-weekly, but weekly during the school year
-     4. Conduct the Standards for Brotherhood Program bi-annually
-     5. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
+     4. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
     
 133. The Recruitment Committee shall:
      1. Be chaired by the Recruitment Chair
