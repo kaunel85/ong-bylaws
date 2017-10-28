@@ -169,7 +169,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 47. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from the running and another round of voting will occur with the remaining candidates. This will repeat until a majority is reached.
 
-48. Is there are only two candidates remaining and a tie vote occurs, an additional two (2) minute speech or question period (at the choice of the candidate) will be provided for both candidates before another round of voting.
+48. If there are only two candidates remaining and a tie vote occurs, an additional two (2) minute speech or question period (at the choice of the candidate) will be provided for both candidates before another round of voting.
 
 49. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
 
@@ -363,7 +363,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
 
 123. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-     1. The Executive Committee can call the Judicial Committee meeting with a 4/5 vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
+     1. The Executive Committee can call the Judicial Committee meeting with a 66% +1 vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
     
 124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, Article XVI, Sections 154, 155, and 156.
 
