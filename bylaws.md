@@ -39,7 +39,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     1. The Warden or member of the Executive Committee will notify the Active Chapter and Chapter Advisory Board of any changes to the meeting time, day or venue at least 48 hours prior to the scheduled meeting. This excludes National and university holidays.
     2. The Executive Committee will decide when the first meeting of the year will be held, no later than the Monday following the start of the academic year at McMaster University. The Executive Committee will notify the Active Chapter no later than September 10 of the meeting date and time.
     
-14. Quorum for meetings will be considered to be 66% of the Active Chapter.
+14. Quorum for meetings will be considered to be 66% of the Active Chapter eligible for voting.
 
 15. Full Fraternity ritual will be performed at each formal meeting and The Bond is to be read at the first meeting of each month.
 
@@ -63,7 +63,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 ## ARTICLE III: DUTIES OF OFFICERS
 
-24. The Chapter officers will report bi-weekly to the Vice-president. Chapter officers must meet with the Vice-Pesident once at the start of each semester and after elections. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
+24. The Chapter officers will report bi-weekly to the Vice-President. Chapter officers must meet with the Vice-President once at the start of each semester and after elections. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
     
 25. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a Position Review is as follows:
     1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. The Executive Committee will then recommend a Position Review with a 60% vote.
@@ -126,9 +126,9 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 39. Speech order will be at the discretion of the Chair of the meeting
 
-40. Following speeches is a question period. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exausted. Questions must be answered by all candidates, and may be presented 'booth style' so candidates do not hear eachother's answers.
+40. Following speeches is a question period. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
 
-41. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exausted.
+41. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exhausted.
 
 42. 
 
@@ -155,7 +155,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     9. Scholarship
     10. Social Chairman
     11. Philanthropy Chairman 
-    12. Warden
+    12. Fundraising Chairman
     13. Risk Management Chair 
     14. Athletics Chair
     15. Alumni Secretary
@@ -239,12 +239,13 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
     3. Failure to do so will result in review from the Executive Committee with the assumed outcome of immediate suspension. If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
 
-79. For members who will not be present in the city for the winter semester (either due to co-op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for either of those events.
+79. For members who will not be present in the city for the winter semester (either due to co-op placement or distant education or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for the event.
 
 80. Any Member who has failed to inform the Treasurer that they will not be returning as an active member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
 
 81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer, in care of Phi Delta Theta – Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
     1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
+    2. If a Member withdraws from McMaster University while owing the chapter they will be given thirty (30) days to pay the full amount owing to the Chapter. If this amount is not paid within this time period, the Member will be recommended for expulsion to General Headquarters.
     
 82. Receipts will be issued by the Treasurer, President, or Vice President for all payments. It is the Member’s responsibility to maintain their receipts.
 
@@ -277,19 +278,26 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 ## ARTICLE VII: PHIKEIAS
 
-95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XIII Eligibility for Membership.
+95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XII Eligibility for Pledging.
+    1. Men must be enrolled at McMaster University to be eligible for a Bid.
+    2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% + 1 vote of the Chapter.
 
 96. Phikeia will be required to pay $90.00 upon induction and $300.00 upon initiation and operational costs, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs.
 
-97. In order to be initiated Phikeia must have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their accademic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
-    1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
-    2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
+97. In order to be Initiated Phikeia must meet the requirements established in Title XIII Eligibility for Membership.
+    1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
+       1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
+       2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
+    2. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
+       1. Votes shall be counted by the President and Chapter Advisory Board Chairman, or the Warden if the CAB Chairman is not present
+       2. If a secret ballot box, voting stones or other anonymous voting methods are available they shall be used.
+       3. The Warden or his apointee shall inform the Phikeia of the result of the vote.
 
 98. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President
 
 99. Phikeia will appear before the Pallas Committee should there be any conduct deemed to be inappropriate.
 
-100. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter.
+100. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter subject to a 66% + 1 vote.
 
 101. Phikeia fees are non-refundable.
 
@@ -372,7 +380,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 126. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
      1. Open Section (All Members may attend this portion of the meeting)
         1. Opening statement by chair as to why this Judiciary Committee has been called
-        2. Speaking of defense (by involved Member(s) to the Judiciary Committee) 
+        2. Speaking of defence (by involved Member(s) to the Judiciary Committee) 
         3. Presentation of evidence and points of clarification (open to floor)
         4. Questions directed towards the involved Member(s) from the Judiciary Committee members
         5. Review of the involved Member(s)’ chapter history
@@ -397,7 +405,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
         3. Closed ballot voting begins (See The Code Article XVI Section 156)
         4. If the Chapter votes in favor (66% +1) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
 
-127. If the chapter does not vote in favor, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Article X, Section 122 of these Bylaws.
+127. If the chapter does not vote in favour, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Article X, Section 122 of these Bylaws.
     1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
     2. Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines.
     3. Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the General Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
@@ -414,7 +422,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      5. Pallas
      6. Risk Management 
      7. Awards Committee 
-     8. Social Committe
+     8. Social Committee
+     9. Fundraising Committee
     
 130. The Chapter may create committees as needed.
 
@@ -483,3 +492,25 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 139. Risk Management Committee
      1. Chaired by the Risk Management Chairman.
      2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Community Service Chairman, House Manager, President.
+
+140. Fundraising Committee
+     1. Be Chaired by the Fundraising Chair
+     2. Consist of the Fundraising Chair, Vice President, Alumni Secretary and other active Members.
+     3. Be responsible for the organization of events for the raising of funds for chapter operations.
+     
+## ARTICLE XII: MEMBERSHIP TRANSITIONS
+
+141. Bidding of eligible men is described in 95.
+
+142. Initiation requirements are described in 97.
+
+143. Alumni of another Chapter attending McMaster may be affiliated as described in Title XV Affiliation of The Code and passing a vote as described in 97.2
+
+144. Censure, Expulsion, and Suspension are described in 127.
+
+145. Members taking one or more terms of co-op may be elegible for relief from financal comittments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
+
+146. An Active member may become an Alumnus member if and only if
+     - All debts to the chapter have been settled.
+     - They are no long enrolled, have completed their degree or have completed 4 years of study at McMaster.
+     
