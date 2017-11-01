@@ -347,9 +347,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 114. 
 
-## ARTICLE IX: THE CHAPTER PARKING LOT
-
-116.
+116. Parking spots will be assigned for 4 month terms starting in September, January, and May. The two parking spots will be first offered to brothers living in the house with cars. If more than two eligible brothers want parking spots, the spots will be auctioned with a sealed-bid second-price auction. Brothers interested in spots will provide bids to the House Manager on a date of his designation before the start of the parking term. The highest bid will pay the amount of the second highest bid, and the second highest bidder will pay the amount of the third highest bid. These funds will be used to equally reduce the rent payment of everyone living in the house, including the winners of the auction. If spots are not taken by the those living in the house they will be offered as short term parking on a first-come first-served basis to Actives, Alum, and Phikeia for less than 12 hours at a time.
 
 117. 
 
@@ -359,7 +357,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 120. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared by 7am.
 
-## ARTICLE X – DISCIPLINE
+## ARTICLE IX – DISCIPLINE
 
 121. The Judiciary Committee, hereafter referred to as "JC" shall:
      1. Be chaired by the Warden.
@@ -414,7 +412,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 128. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
 
-## ARTICLE XI: COMMITTEES
+## ARTICLE X: COMMITTEES
 
 129. The standing committees of the Chapter shall be:
      1. Executive Committee 
@@ -500,7 +498,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      2. Consist of the Fundraising Chair, Vice President, Alumni Secretary and other active Members.
      3. Be responsible for the organization of events for the raising of funds for chapter operations.
      
-## ARTICLE XII: MEMBERSHIP TRANSITIONS
+## ARTICLE XI: MEMBERSHIP TRANSITIONS
 
 141. Bidding of eligible men is described in 95.
 
