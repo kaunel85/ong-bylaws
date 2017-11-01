@@ -253,6 +253,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 ## ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
+84. All members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
+
 85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Article 2 - Section 19.
 
 86. Founders Day, Chapter Retreats, Initiation, and meetings with the province president are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, 1 week in advance.
