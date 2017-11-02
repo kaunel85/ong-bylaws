@@ -10,9 +10,9 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 2. The bylaws of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
-3. Bylaws may be amended with a 66% vote of the Active Chapter.
+3. Bylaws may be amended with a 66% + 1  vote of the Active Chapter.
 
-4. Disciplinary actions as stated in these Bylaws may be enacted with a majority vote of the Active Chapter, or a 100% vote of the Executive Committee.
+4. Disciplinary actions as stated in these Bylaws may be enacted with a majority vote of the Active Chapter.
 
 5. A bylaw may be vetoed by a 75% vote of the Active Chapter or a 100% vote of the Executive Committee; except where the Active Chapter size is less than 20 members, where a 75% vote of the Active Chapter excluding the Executive Committee is required to veto.
 
@@ -22,7 +22,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 8. The Chapter will adhere to the Risk Management Policy of Phi Delta Theta. The Risk Management Policy of Phi Delta Theta will be attached to these bylaws as Appendix B.
 
-9. Any individual found in violation of items 7 and/or 8 will be censured (see by-law 128) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
+9. Any individual found in violation of items 7. and/or 8. will be censured (see by-law 128) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
 
 10. Each Member of the Chapter and each person living in the Chapter House will adhere to the Phi Delta Theta Alcohol Free Housing Policy. No alcohol, marijuana, or illegal substances shall be possessed, stored, administered or consumed on Ontario Gamma property.
 
@@ -41,11 +41,11 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     
 14. Quorum for meetings will be considered to be 66% of the Active Chapter eligible for voting.
 
-15. Full Fraternity ritual will be performed at each formal meeting and The Bond is to be read at the first meeting of each month.
+15. Full Fraternity ritual will be performed at each formal meeting and The Bond is to be read at the first meeting of each month unless delayed at most one meeting by the President.
 
-16. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code (The Code: Sections 78, 79).
+16. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79 .
 
-17. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Failure to wear appropriate meeting attire will be considered an unexcused absence.
+17. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Repeated failure to wear appropriate meeting attire will be considered an unexcused absence.
     
 18. Chapter meetings will be conducted using Robert’s Rules of Meeting Order.
     1. Robert’s Rules of Meeting Order will be presented to the Active Chapter at minimum once per academic term by the Warden.
@@ -55,7 +55,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
     3. Any Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
     
-20. There shall be no food or drink in the Chapter Room during formal meetings, unless an exemption is made by the warden or president. Water is acceptable as long as it is in a closed container. 
+20. There shall be no food or drink in the Chapter Room during formal meetings, unless an exemption is made by the Warden or President. Water is acceptable as long as it is in a closed container. 
 
 21. Hats shall not be worn in the Chapter Room during formal meetings, with exceptions in special cases deemed by the President.
 
@@ -72,7 +72,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
     5. In the case that an Executive Officer is presented for review, the same process as outlined above will occur with the Judicial Committee taking the place of the Executive Committee, and the Warden taking the place of the Vice President.
 
-26. Each Executive Officer will keep an officer resource binder prepared and updated by the vice president in either hard or soft copy, containing a copy of each of the following:
+26. Each Officer will keep an officer resource binder prepared and updated by the vice president in either hard or soft copy, containing a copy of each of the following:
     1. The updated Chapter Bylaws
     2. The Constitution and Code of PDT
     3. Statements of Responsibilities
@@ -81,17 +81,11 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     6. An area for notes, suggestions, and comments
     7. “Robert’s Rules At A Glance”
     8. Chapter goals and position goals
-    9. A statement of responsibility for each of his assigned Chapter Officer’s
-    10. Chapter Greatness Checklist
+    9. Chapter Greatness Checklist
     
 27. At each meeting each officer will provide a verbal report of his past weeks accomplishments and future plans.
 
-28. At the beginning of each academic term, each Chapter Officer will be provided with a hard and or soft copy of the following:
-    1. The updated Chapter Bylaws
-    2. The Chapter Budget
-    3. An outline of the budget for their specific position
-    4. Chapter Greatness Checklist
-    5. Chapter Goals Form.
+28.
     
 29. At the beginning of each academic term, all officers will complete and Officers Goals and Objectives Form and submit it to the Executive Committee prior to the second meeting of the academic term.
 
@@ -201,7 +195,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 64. Members may not hold more than 2 officer positions, unless appointed by the Executive Committee or unless the chapter size is less than 25 eligible Members.
 
-65. For any vacant position immediately following elections, the Executive Committee may appoint, by 3/5 vote, a Member to fill the vacancy for a term valid until the next general election. The Executive Committee must make the appointments for the vacant positions no later than 48 hours following the elections.
+65. For any vacant position immediately following elections, the Executive Committee may appoint, by 66% vote, a Member to fill the vacancy for a term valid until the next general election. The Executive Committee must make the appointments for the vacant positions no later than 48 hours following the elections.
     1. Any appointments must be approved by the active chapter with a 50% + 1 vote at the next chapter meeting.
 
 66. Any vacancies not following an election period must be filled within 2 weeks.
@@ -220,7 +214,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 72. All dues and fees are non-transferable to another person.
 
-73. Members selected by the Chapter to attend the Kleberg Emerging Leadership Institute (3 Delegates), the President’s Leadership Conference (1 Delegate), General Convention (1 Delegate), and any other Phi Delta Theta conference(s) as approved by the Executive Committee, shall be reimbursed 50% of their travel expenses to a maximum of $200.00, pending approval of the Executive committee. This cannot be applied to accommodation, food, or any other incidental expenses incurred.
+73. Members selected by the Chapter to attend the Kleberg Emerging Leadership Institute (3 Delegates), the President’s Leadership Conference (1 Delegate), General Convention (1 Delegate), and any other Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ.
 
 74. Chapter Financial Records shall be kept in Microsoft Excel Format.
 
@@ -235,7 +229,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 77. The Chapter will send out a report by August 10th preceding the start of the academic year, with the final dues amount.
 
 78. All active, censured, and suspended Members are expected to pay dues in full by September 30 of the academic year unless stipulated by a payment plan.
-    1. Payment plans can be negotiated on an individual basis with the Treasurer and Vice-President if necessary and must be signed no later than September 30th. With the first payment due September 30th, and consisting of equal payments concluding no later than December 6.
+    1. Payment plans can be negotiated on an individual basis with the Treasurer and Vice-President if necessary and must be signed no later than September 30th. With the first payment due September 30th, and consisting of equal payments concluding no later than December 6th.
     2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
     3. Failure to do so will result in review from the Executive Committee with the assumed outcome of immediate suspension. If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
 
@@ -244,7 +238,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 80. Any Member who has failed to inform the Treasurer that they will not be returning as an active member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
 
 81. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer, in care of Phi Delta Theta – Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
-    1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155 and 156 of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
+    1. If the bill has not been paid by the 31st of the month, Article XVI, Section 154, 155, and 156 of the Code of Phi Delta Theta will be put into effect, and proper judicial procedure will be followed.
     2. If a Member withdraws from McMaster University while owing the chapter they will be given thirty (30) days to pay the full amount owing to the Chapter. If this amount is not paid within this time period, the Member will be recommended for expulsion to General Headquarters.
     
 82. Receipts will be issued by the Treasurer, President, or Vice President for all payments. It is the Member’s responsibility to maintain their receipts.
@@ -255,7 +249,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 84. All members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
 
-85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Article 2 - Section 19.
+85. Attendance at regular Chapter meetings is required. For procedure regarding excuses see 19.
 
 86. Founders Day, Chapter Retreats, Initiation, and meetings with the province president are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, 1 week in advance.
     1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, the Member will be called to meet with the Executive Committee in order to discuss these absences.
@@ -295,7 +289,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
        2. If a secret ballot box, voting stones or other anonymous voting methods are available they shall be used.
        3. The Warden or his apointee shall inform the Phikeia of the result of the vote.
 
-98. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President
+98. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President.
 
 99. Phikeia will appear before the Pallas Committee should there be any conduct deemed to be inappropriate.
 
@@ -373,9 +367,9 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 123. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
      1. The Executive Committee can call the Judicial Committee meeting with a 66% +1 vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
     
-124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, Article XVI, Sections 154, 155, and 156.
+124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, Article XVI, Sections 154, 155, and 156 .
 
-125. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice President and the Treasurer as per ARTICLE V Section 77.
+125. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice President and the Treasurer as per 77.
 
 126. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
      1. Open Section (All Members may attend this portion of the meeting)
@@ -405,7 +399,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
         3. Closed ballot voting begins (See The Code Article XVI Section 156)
         4. If the Chapter votes in favor (66% +1) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
 
-127. If the chapter does not vote in favour, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Article X, Section 122 of these Bylaws.
+127. If the chapter does not vote in favour, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in 122.
     1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
     2. Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines.
     3. Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the General Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
@@ -425,13 +419,9 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      8. Social Committee
      9. Fundraising Committee
     
-130. The Chapter may create committees as needed.
+130. The Chapter or President may create committees as needed.
 
-131. Each Executive Officer will chair a committee consisting of the positions they oversee as stated in Section 24 of Article III.
-     1. Committees are expected to meet at least bi-weekly and in the first week of each semester and after elections
-     2. Each Executive Officer will be expected to report back to the Executive Committee after all meetings
-     3. If an Officer fails to attend their Executive Committee meeting, they will be brought before the Executive Committee
-     4. If an Executive Committee member fails to hold a bi-weekly committee meeting, they will be called before a Judicial Committee
+131. 
 
 132. The Executive Committee shall:
      1. Be chaired by the Vice-President
@@ -449,22 +439,6 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      2. Consist of the Chair, Assistant Treasurer, President, and Finance Advisor
      3. Prepare the annual budget
      4. Meet bi-weekly
-    
-135. The Awards Committee shall:
-     1. Be chaired by the Awards Chair
-     2. Consist of the Chair, Secretary, President, and at least two other active Members
-     3. Oversee completion of all GHQ Awards applications
-     4. Oversee requirements, nominations, and presentation of all Chapter awards including:
-        1. Phi of the Year
-        2. Unsung Phi of the Year
-        3. Most Improved Phi 
-        4. Community Service Phi
-        5. Athlete of the Year 
-        6. Rookie of the Year
-        7. Alumnus of the Year 
-        8. Scholastic Achievement 
-        9. Phi Delt Sweetheart
-        10. Brian Shaw Dedication In Life to the Fraternity Award
         
 136. The Judiciary Committee shall:
      1. Be chaired by the Warden
@@ -482,21 +456,39 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (refer to Article VII).
      6. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
      7. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
+    
+139. Risk Management Committee
+     1. Chaired by the Risk Management Chairman.
+     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Community Service Chairman, House Manager, President.
+     
+135. The Awards Committee shall:
+     1. Be chaired by the Awards Chair
+     2. Consist of the Chair, Secretary, President, and at least two other active Members
+     3. Oversee completion of all GHQ Awards applications
+     4. Oversee requirements, nominations, and presentation of all Chapter awards including:
+        1. Phi of the Year
+        2. Unsung Phi of the Year
+        3. Most Improved Phi 
+        4. Community Service Phi
+        5. Athlete of the Year 
+        6. Rookie of the Year
+        7. Alumnus of the Year 
+        8. Scholastic Achievement 
+        9. Phi Delt Sweetheart
+        10. Brian Shaw Dedication In Life to the Fraternity Award
 
 138. Social Committee
      1. Be Chaired by the Social Chair
      2. Consist of the Social Chair, Vice President, Risk Management Chair, and other active Members.
      3. Be responsible for the organization of regular chapter social events.
      4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty  
-    
-139. Risk Management Committee
-     1. Chaired by the Risk Management Chairman.
-     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Community Service Chairman, House Manager, President.
-
+        
 140. Fundraising Committee
      1. Be Chaired by the Fundraising Chair
      2. Consist of the Fundraising Chair, Vice President, Alumni Secretary and other active Members.
      3. Be responsible for the organization of events for the raising of funds for chapter operations.
+     
+
      
 ## ARTICLE XI: MEMBERSHIP TRANSITIONS
 
