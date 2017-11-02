@@ -29,8 +29,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 11. If a Member is found to possess or consume alcohol, marijuana, or illegal substances on Ontario Gamma property, the alcohol, marijuana, or illegal substance is to be confiscated and promptly disposed of by the Vice President, Warden, or if available a CAB member or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
     1. For any offence, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate Membership review as prescribed by The Code.
 
-12. All Active Members with a previous semester GPA of below a 7, or cumulative GPA below 6, will be subject to the Scholarship Plan as defined by the Scholarship Chairman. The Scholarship Plan will be approved by the Executive Committee at the beginning of each academic year.
-    1. Should a Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. The resolution of this meeting will be required to be minuted and made available to the Chapter.
+12. All Active Members with a previous semester GPA below a 7, or cumulative GPA below 6, will be subject to the Scholarship Plan as defined by the Scholarship Chairman. The Scholarship Plan will be approved by the Executive Committee at the beginning of each academic year.
+    1. Should a Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
     2. The Scholarship Plan will be attached to these bylaws as Appendix C.
 
 ## ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
@@ -50,23 +50,23 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 18. Chapter meetings will be conducted using Robert’s Rules of Meeting Order.
     1. Robert’s Rules of Meeting Order will be presented to the Active Chapter at minimum once per academic term by the Warden.
     
-19. In order to be excused from a meeting, active Members must contact the Secretary in writing, at least 48 hours prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
-    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee.
+19. In order to be excused from a mandatory meeting, active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
+    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention. 
     2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
     3. Any Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
     
-20. There shall be no food or drink in the Chapter Room during formal meetings, unless an exemption is made by the Warden or President. Water is acceptable as long as it is in a closed container. 
+20. 
 
-21. Hats shall not be worn in the Chapter Room during formal meetings, with exceptions in special cases deemed by the President.
+21.
 
-22. All members will submit items of business for the agenda to the Secretary, 48 hours in advance of the chapter meeting for review by the Executive Committee.
+22. Items of business not presented to the President before chapter may not be adressed at the discretion of the President.
 
 ## ARTICLE III: DUTIES OF OFFICERS
 
-24. The Chapter officers will report bi-weekly to the Vice-President. Chapter officers must meet with the Vice-President once at the start of each semester and after elections. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
+24. The Chapter officers will report bi-weekly to the Vice-President. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
     
 25. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a Position Review is as follows:
-    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. The Executive Committee will then recommend a Position Review with a 60% vote.
+    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. The Executive Committee will then recommend a Position Review with a 66% vote.
     2. The officer under review will then appear before the Executive Committee to review their standing with regard to their position held.
     3. This information will then be presented to The Chapter by the Vice President at the next chapter meeting.
     4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
@@ -102,7 +102,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 33. Officer elections shall take place no later than the first chapter meeting in March. Presidential and Vice-Presidential elections shall take place no later than the Second chapter meeting in November. Installations shall occur no earlier than two (2) weeks after the elections and no later than the last meeting of the current academic term.
 
-34. Nominations for President and Vice President will open three (3) chapter meetings prior to the election date. Nominations will be open for two (2) chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
+34. Nominations for President and Vice President will open two (2) chapter meetings prior to the election date. Nominations will be open for one (1) chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
 35. The nomination process will be as follows: A nomination is made and seconded by members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
 
@@ -111,7 +111,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 37. In order to be eligible to proceed to the election stage for a position in addition to Title XI: section 113.1 of The Code, a Member must meet the following criteria:
     1. Be in good financial standing with the chapter
     2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
-       1. If one semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
+       1. If two semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
        2. In the event the member was on a co-op work term, his most recent transcripts will be used.
     3. If an Active Member is not eligible for General Elections, as determined by the above, he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
@@ -119,11 +119,11 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
        3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is required to allow the Active Member to proceed to the balloting stage. 
 
     
-38. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period.
+38. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter
 
 39. Speech order will be at the discretion of the Chair of the meeting
 
-40. Following speeches is a question period. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
+40. Following speeches is a question period. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered in under one minute, by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
 
 41. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the President can close following his best judgement. After closing, any names on the speakers list must be exhausted.
 
@@ -246,7 +246,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     
 82. Receipts will be issued by the Treasurer, President, or Vice President for all payments. It is the Member’s responsibility to maintain their receipts.
 
-83. The Treasurer will maintain a bank accounts for the chapter fund(chequings).
+83. The Treasurer will maintain a bank account for the chapter fund(chequings).
 
 ## ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
@@ -352,7 +352,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 119.
 
-120. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared by 7am.
+120. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
 
 ## ARTICLE IX – DISCIPLINE
 
@@ -421,7 +421,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      7. Awards Committee 
      8. Social Committee
      9. Fundraising Committee
-    
+     10. Scholarship Committee
+     
 130. The Chapter or President may create committees as needed.
 
 131. 
@@ -491,21 +492,25 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      2. Consist of the Fundraising Chair, Vice President, Alumni Secretary and other active Members.
      3. Be responsible for the organization of events for the raising of funds for chapter operations.
      
-
+141. Scholarship Committee
+     1. Be Chaired by the Scholarship Chair
+     2. Consist of the Scholarship Chair, Vice President, and other active Members.
+     3. Be responsible for the organization of the scholarship program and management of academic resources.
      
 ## ARTICLE XI: MEMBERSHIP TRANSITIONS
 
-141. Bidding of eligible men is described in 95.
+142. Bidding of eligible men is described in 95.
 
-142. Initiation requirements are described in 97.
+143. Initiation requirements are described in 97.
 
-143. Alumni of another Chapter attending McMaster may be affiliated as described in Title XV Affiliation of The Code and passing a vote as described in 97.2
+144. Alumni of another Chapter attending McMaster may be affiliated as described in Title XV of The Code and passing a vote as described in 97.2
 
-144. Censure, Expulsion, and Suspension are described in 127.
+145. Censure, Expulsion, and Suspension are described in 127.
 
-145. Members taking one or more terms of co-op may be elegible for relief from financal comittments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
+146. Members taking one or more terms of co-op may be elegible for relief from financal comittments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
 
-146. An Active member may become an Alumnus member if and only if
+147. An Active member may become an Alumnus member if and only if
      - All debts to the chapter have been settled.
+     - They are not suspended or censured
      - They are no long enrolled, have completed their degree or have completed 4 years of study at McMaster.
      
