@@ -75,13 +75,16 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 26. Each Officer will keep an officer resource binder prepared and updated by the vice president in either hard or soft copy, containing a copy of each of the following:
     1. The updated Chapter Bylaws
     2. The Constitution and Code of PDT
-    3. Statements of Responsibilities
-    4. Previous year’s Transition Reports
-    5. Previous years financial portfolio, budget, and transactions
-    6. An area for notes, suggestions, and comments
-    7. “Robert’s Rules At A Glance”
-    8. Chapter goals and position goals
-    9. Chapter Greatness Checklist
+    3. Risk Management Policies
+    4. Statements of Responsibilities
+    5. Previous year’s Transition Reports
+    6. An outline of the budget for their specific position 
+    7. An area for notes, suggestions, and comments
+    8. “Robert’s Rules At A Glance”
+    9. Chapter goals and position goals
+    10. Chapter Greatness Checklist
+    11. GHQ Officer Manuals
+    12. Additional Officer Specific Material
     
 27. At each meeting each officer will provide a verbal report of his past weeks accomplishments and future plans.
 
@@ -108,7 +111,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 37. In order to be eligible to proceed to the election stage for a position in addition to Title XI: section 113.1 of The Code, a Member must meet the following criteria:
     1. Be in good financial standing with the chapter
     2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
-       1. If two semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
+       1. If one semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
        2. In the event the member was on a co-op work term, his most recent transcripts will be used.
     3. If an Active Member is not eligible for General Elections, as determined by the above, he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
@@ -282,7 +285,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 97. In order to be Initiated Phikeia must meet the requirements established in Title XIII Eligibility for Membership.
     1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
-       1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, or another academic institution to the Scholarship Chair no later than the second Phikeia meeting.
+       1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, if they have not completed a semester at McMaster a transcript from their most recent other academic institution to the Scholarship Chair no later than the second Phikeia meeting.
        2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
     2. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
        1. Votes shall be counted by the President and Chapter Advisory Board Chairman, or the Warden if the CAB Chairman is not present
