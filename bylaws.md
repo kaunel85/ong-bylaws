@@ -6,17 +6,17 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 ## Table of Contents
 
-* [ARTICLE I: AMENDMENTS AND GENERAL POLICIES](article-i-amendments-and-general-policies)
-* [ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER](article-ii-meetings-of-the-active-chapter)
-* [ARTICLE III: DUTIES OF OFFICERS](article-iii-duties-of-officers)
-* [ARTICLE IV: ELECTIONS](article-iv-elections)
-* [ARTICLE V: CHAPTER FINANCES AND BUDGETING](article-v-chapter-finances-and-budgeting)
-* [ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY](article-vi-member-accountability-and-responsibility)
-* [ARTICLE VII: PHIKEIAS](article-vii-phikeias)
-* [ARTICLE VIII: THE CHAPTER HOUSE](article-viii-the-chapter-house)
-* [ARTICLE IX: DISCIPLINE](article-ix-discipline)
-* [ARTICLE X: COMMITTEES](article-x-committees)
-* [ARTICLE XI: MEMBERSHIP TRANSITIONS](article-xi-membership-transitions)
+* [ARTICLE I: AMENDMENTS AND GENERAL POLICIES](#article-i-amendments-and-general-policies)
+* [ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER](#article-ii-meetings-of-the-active-chapter)
+* [ARTICLE III: DUTIES OF OFFICERS](#article-iii-duties-of-officers)
+* [ARTICLE IV: ELECTIONS](#article-iv-elections)
+* [ARTICLE V: CHAPTER FINANCES AND BUDGETING](#article-v-chapter-finances-and-budgeting)
+* [ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY](#article-vi-member-accountability-and-responsibility)
+* [ARTICLE VII: PHIKEIAS](#article-vii-phikeias)
+* [ARTICLE VIII: THE CHAPTER HOUSE](#article-viii-the-chapter-house)
+* [ARTICLE IX: DISCIPLINE](#article-ix-discipline)
+* [ARTICLE X: COMMITTEES](#article-x-committees)
+* [ARTICLE XI: MEMBERSHIP TRANSITIONS](#article-xi-membership-transitions)
 
 ## ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
