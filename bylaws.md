@@ -4,6 +4,20 @@
 
 We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi Delta Theta, recognizing it as a basis of union, and as a chapter in good standing do ordain and establish the following bylaws to be utilized and enforced in the basic operation of the Ontario Gamma Chapter:
 
+## Table of Contents
+
+* [ARTICLE I: AMENDMENTS AND GENERAL POLICIES](article-i-amendments-and-general-policies)
+* [ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER](article-ii-meetings-of-the-active-chapter)
+* [ARTICLE III: DUTIES OF OFFICERS](article-iii-duties-of-officers)
+* [ARTICLE IV: ELECTIONS](article-iv-elections)
+* [ARTICLE V: CHAPTER FINANCES AND BUDGETING](article-v-chapter-finances-and-budgeting)
+* [ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY](article-vi-member-accountability-and-responsibility)
+* [ARTICLE VII: PHIKEIAS](article-vii-phikeias)
+* [ARTICLE VIII: THE CHAPTER HOUSE](article-viii-the-chapter-house)
+* [ARTICLE IX: DISCIPLINE](article-ix-discipline)
+* [ARTICLE X: COMMITTEES](article-x-committees)
+* [ARTICLE XI: MEMBERSHIP TRANSITIONS](article-xi-membership-transitions)
+
 ## ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
 1. Should any of these bylaws be found to be in violation of the Constitution and Code of Phi Delta Theta, the Risk Management Policies of Phi Delta Theta, the Criminal Code of Canada, or The Bond, then that bylaw shall be deemed void and stricken from this document.
@@ -22,7 +36,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 8. The Chapter will adhere to the Risk Management Policy of Phi Delta Theta. The Risk Management Policy of Phi Delta Theta will be attached to these bylaws as Appendix B.
 
-9. Any individual found in violation of items 7. and/or 8. will be censured (see by-law 128) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
+9. Any individual found in violation of items 7. and/or 8. will be censured (see 128.) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
 
 10. Each Member of the Chapter and each person living in the Chapter House will adhere to the Phi Delta Theta Alcohol Free Housing Policy. No alcohol, marijuana, or illegal substances shall be possessed, stored, administered or consumed on Ontario Gamma property.
 
@@ -355,7 +369,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 120. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
 
-## ARTICLE IX – DISCIPLINE
+## ARTICLE IX: DISCIPLINE
 
 121. The Judiciary Committee, hereafter referred to as "JC" shall:
      1. Be chaired by the Warden.
