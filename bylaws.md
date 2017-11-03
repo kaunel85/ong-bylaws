@@ -10,7 +10,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 2. The bylaws of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
-3. Bylaws may be amended with a 66% + 1  vote of the Active Chapter.
+3. Bylaws may be amended with a 66%  vote of the Active Chapter.
 
 4. Disciplinary actions as stated in these Bylaws may be enacted with a majority vote of the Active Chapter.
 
@@ -280,7 +280,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 95. Selection of Phikeia shall be as prescribed in the Code of Phi Delta Theta: Title XII Eligibility for Pledging.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
-    2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% + 1 vote of the Chapter.
+    2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
 96. Phikeia will be required to pay $90.00 upon induction and $300.00 upon initiation and operational costs, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs.
 
@@ -369,7 +369,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
 
 123. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-     1. The Executive Committee can call the Judicial Committee meeting with a 66% +1 vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
+     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter meeting.
     
 124. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by the Code of Phi Delta Theta, Article XVI, Sections 154, 155, and 156 .
 
@@ -401,7 +401,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
            - No new information or evidence can be presented
            - No questions pertaining to the private discussion of the Judicial Committee are allowed.
         3. Closed ballot voting begins (See The Code Article XVI Section 156)
-        4. If the Chapter votes in favor (66% +1) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
+        4. If the Chapter votes in favor (66%) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
 
 127. If the chapter does not vote in favour, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in 122.
     1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
