@@ -151,14 +151,15 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     8. Chaplain 
     9. Scholarship
     10. Social Chairman
-    11. Philanthropy Chairman 
-    12. Fundraising Chairman
-    13. Risk Management Chair 
-    14. Athletics Chair
-    15. Alumni Secretary
-    16. Historian
-    17. Chorister
-    18. Greek Council Representative
+    11. Brotherhood Chairman
+    12. Philanthropy Chairman 
+    13. Fundraising Chairman
+    14. Risk Management Chair 
+    15. Athletics Chair
+    16. Alumni Secretary
+    17. Historian
+    18. Chorister
+    19. Greek Council Representative
     
     During November elections the President shall be elected before the Vice President.
     
@@ -420,12 +421,13 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      6. Risk Management 
      7. Awards Committee 
      8. Social Committee
-     9. Fundraising Committee
-     10. Scholarship Committee
+     9. Brotherhood Committee
+     10. Fundraising Committee
+     11. Scholarship Committee
      
 130. The Chapter or President may create committees as needed.
 
-131. 
+131.
 
 132. The Executive Committee shall:
      1. Be chaired by the Vice-President
@@ -484,14 +486,19 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 138. Social Committee
      1. Be Chaired by the Social Chair
      2. Consist of the Social Chair, Vice President, Risk Management Chair, and other active Members.
-     3. Be responsible for the organization of regular chapter social events.
+     3. Be responsible for the organization of regular chapter social events with outside persons and organizations.
      4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty  
-        
+
+139. Brotherhood Committee
+     1. Be Chaired by the Brotherhood Chair
+     2. Consist of the Brotherhood Chair, Vice President, Risk Management Chair, and other active Members.
+     3. Be responsible for the organization of regular brotherhood events to promote closeness between members.
+          
 140. Fundraising Committee
      1. Be Chaired by the Fundraising Chair
      2. Consist of the Fundraising Chair, Vice President, Alumni Secretary and other active Members.
      3. Be responsible for the organization of events for the raising of funds for chapter operations.
-     
+
 141. Scholarship Committee
      1. Be Chaired by the Scholarship Chair
      2. Consist of the Scholarship Chair, Vice President, and other active Members.
