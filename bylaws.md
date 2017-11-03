@@ -1,11 +1,12 @@
-# Phi Delta Theta Fraternity Ontario Gamma Bylaws Amended November 2017
+Phi Delta Theta Fraternity  - Ontario Gamma Bylaws <br> Amended November 2017
+==========================================================================
 
-## Preamble
-
+Preamble
+--------
 We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi Delta Theta, recognizing it as a basis of union, and as a chapter in good standing do ordain and establish the following bylaws to be utilized and enforced in the basic operation of the Ontario Gamma Chapter:
 
-## Table of Contents
-
+Table of Contents
+-----------------
 * [ARTICLE I: AMENDMENTS AND GENERAL POLICIES](#article-i-amendments-and-general-policies)
 * [ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER](#article-ii-meetings-of-the-active-chapter)
 * [ARTICLE III: DUTIES OF OFFICERS](#article-iii-duties-of-officers)
@@ -17,8 +18,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 * [ARTICLE IX: DISCIPLINE](#article-ix-discipline)
 * [ARTICLE X: COMMITTEES](#article-x-committees)
 
-## ARTICLE I: AMENDMENTS AND GENERAL POLICIES
-
+ARTICLE I: AMENDMENTS AND GENERAL POLICIES
+------------------------------------------
 1. Should any of these bylaws be found to be in violation of The Constitution and General Statutes of Phi Delta Theta, the Risk Management Policies of Phi Delta Theta, the Criminal Code of Canada, or The Bond, then that bylaw shall be deemed void and stricken from this document.
 
 2. The bylaws of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
@@ -46,8 +47,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     1. Should a Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
     2. The Scholarship Plan will be attached to these bylaws as Appendix C.
 
-## ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
-
+ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
+------------------------------------------
 13. Formal meetings of the Active Chapter will be held once per week throughout the academic year at a regular time and day as determined by The Chapter on the first meeting of the academic year.
     1. The Warden or member of the Executive Committee will notify the Active Chapter and Chapter Advisory Board of any changes to the meeting time, day or venue at least 48 hours prior to the scheduled meeting. This excludes National and university holidays.
     2. The Executive Committee will decide when the first meeting of the year will be held, no later than the Monday following the start of the academic year at McMaster University. The Executive Committee will notify the Active Chapter no later than September 10 of the meeting date and time.
@@ -70,8 +71,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
     
 20. Items of business not presented to the President before chapter may not be adressed at the discretion of the President.
 
-## ARTICLE III: DUTIES OF OFFICERS
-
+ARTICLE III: DUTIES OF OFFICERS
+-------------------------------
 21. The Chapter officers will report bi-weekly to the Vice-President. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
     
 22. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a Position Review is as follows:
@@ -105,8 +106,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 28. No officer shall receive payment for his duties or service.
 
-## ARTICLE IV: ELECTIONS
-
+ARTICLE IV: ELECTIONS
+---------------------
 29. Officer elections shall take place no later than the first chapter meeting in March. Presidential and Vice-Presidential elections shall take place no later than the Second chapter meeting in November. Installations shall occur no earlier than two (2) weeks after the elections and no later than the last meeting of the current academic term.
 
 30. Nominations for President and Vice President will open two (2) chapter meetings prior to the election date. Nominations will be open for one (1) chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
@@ -181,8 +182,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 47. For any vacant position immediately following elections, the Executive Committee may appoint, by 66% vote, a Member to fill the vacancy for a term valid until the next general election. The Executive Committee must make the appointments for the vacant positions no later than 48 hours following the elections.
     1. Any appointments must be approved by the active chapter with a 50% vote at the next chapter meeting.
 
-## ARTICLE V: CHAPTER FINANCES AND BUDGETING
-
+ARTICLE V: CHAPTER FINANCES AND BUDGETING
+-----------------------------------------
 48. Annual dues will be voted on by the Chapter at the final meeting of the academic year, and must be approved by a 66% vote of the entire active chapter. This amount may change by a subsequent 85% vote of the entire active chapter. Dues may vary from year to year.
 
 49. The Chapter will use a projected budget system to determine the dues amount.
@@ -228,8 +229,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 65. The Treasurer will maintain a bank account for the chapter fund (chequings).
 
-## ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
-
+ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
+----------------------------------------------------
 66. All members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
 
 67. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Bylaw 19.
@@ -255,8 +256,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 76. If a Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an active Member and subject to all rules and regulations therein and may not attain Alum status.
 
-## ARTICLE VII: PHIKEIAS
-
+ARTICLE VII: PHIKEIAS
+---------------------
 77. Selection of Phikeia shall be as prescribed in The Code Title XII.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
@@ -283,8 +284,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 84. Phikeia bids and initiation will take into consideration the criteria outlined in the Values Based Recruitment document. These documents will be attached as an appendix to this document.
 
-## ARTICLE VIII: THE CHAPTER HOUSE
-
+ARTICLE VIII: THE CHAPTER HOUSE
+-------------------------------
 85. The Chapter House must remain fully occupied if possible at all times to allow for financial solvency.
 
 86. Room preference will be given in the following priority:
@@ -325,9 +326,9 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 96. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
 
-## ARTICLE IX: DISCIPLINE
-
-97. The Judiciary Committee, hereafter referred to as "JC" shall:
+ARTICLE IX: DISCIPLINE
+----------------------
+97. The Judiciary Committee shall:
     1. Be chaired by the Warden.
     2. Consist of the Warden and four active Members not including any member of the executive committee unless they also hold the position of warden
     3. Hold council when necessary, and discipline according to The Code Article XVI
@@ -380,8 +381,8 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
 
 104. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
 
-## ARTICLE X: COMMITTEES
-
+ARTICLE X: COMMITTEES
+---------------------
 105. The standing committees of the Chapter shall be:
      1. Executive Committee 
      2. Recruitment
@@ -418,7 +419,7 @@ We, the Members of Ontario Gamma Chapter, having accepted the Bond of the Phi De
      1. Be chaired by the Warden
      2. Consist of the Warden and four active Members not including any member of the executive committee except the Warden 
      3. Hold council when necessary, and discipline according to [Article X](#article-x-committees)
-     4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any disciplinary meetings are request that the Vice-President of the Chapter be in attendance for the meeting as well
+     4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any disciplinary meetings and request that the Vice-President of the Chapter be in attendance for the meeting as well
      5. Convene at the beginning of each semester, including all six elected members, the Warden, and Vice-President to review the Judicial Committee procedure with a CAB delegate
      6. See Bylaw 98 for procedure on how to choose Members for the Judiciary Committee
 
