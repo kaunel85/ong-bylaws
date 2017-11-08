@@ -434,7 +434,7 @@ ARTICLE X: COMMITTEES
     
 112. Risk Management Committee
      1. Chaired by the Risk Management Chairman.
-     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, House Manager, President.
+     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President, and other active Members.
      3. Ensure that all event planners are aware of the the risk management policies and procedures.
      4. Serve as consult during the planning of events and submission of risk management forms.
      5. Develop reccomendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals. 
@@ -457,13 +457,13 @@ ARTICLE X: COMMITTEES
 
 114. Social Committee
      1. Be Chaired by the Social Chair
-     2. Consist of the Social Chair, Vice President, Risk Management Chair, and other active Members.
+     2. Consist of the Social Chair, Vice President, and other active Members.
      3. Be responsible for the organization of regular chapter social events with outside persons and organizations.
      4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty  
 
 115. Brotherhood Committee
      1. Be Chaired by the Brotherhood Chair
-     2. Consist of the Brotherhood Chair, Vice President, Risk Management Chair, and other active Members.
+     2. Consist of the Brotherhood Chair, Vice President, and other active Members.
      3. Be responsible for the organization of regular brotherhood events to promote closeness between members.
           
 116. Fundraising Committee
