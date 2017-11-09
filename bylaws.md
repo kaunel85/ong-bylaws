@@ -110,7 +110,7 @@ ARTICLE IV: ELECTIONS
 ---------------------
 29. Officer elections shall take place no later than the first chapter meeting in March. Presidential and Vice-Presidential elections shall take place no later than the Second chapter meeting in November. Installations shall occur no earlier than two (2) weeks after the elections and no later than the last meeting of the current academic term.
 
-30. Nominations for President and Vice President will open two (2) chapter meetings prior to the election date. Nominations will be open for one (1) chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
+30. Nominations for President and Vice President will open two (2) chapter meetings prior to the election date. Nominations for all other officers will be open for one (1) chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
 31. The nomination process will be as follows: A nomination is made and seconded by members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
 
@@ -121,8 +121,7 @@ ARTICLE IV: ELECTIONS
     2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
        1. If two semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
        2. In the event the member was on a co-op work term, his most recent transcripts will be used.
-    3. If an Active Member is not eligible for Elections, as determined by the above he must be informed before any election date even if he is not currently nominated. Such that he can maintain privacy and decline nominations or prepare an appeal should he be nominated.
-    he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
+    3. If an Active Member is not eligible for Elections as determined by the above he must be informed before any election date even if he is not currently nominated. This is such that he may maintain privacy and decline nominations or prepare an appeal. He may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
        2. In the case of an appeal to the Executive Committee, a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
        3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is required to allow the Active Member to proceed to the balloting stage. 
@@ -193,7 +192,7 @@ ARTICLE V: CHAPTER FINANCES AND BUDGETING
 
 51. The Founder’s Day Celebration, as well as all mandatory GHQ fees (including insurance and Members’ dues) are to be added as fixed costs into the projected budget.
 
-52. Active Members who do not attend the Founder’s Day Celebration will not be reimbursed.
+52. Active Members who do not attend the Founder’s Day Celebration will not be reimbursed. Except as described in Bylaw 60.
 
 53. All dues and fees are non-transferable to another person.
 
@@ -236,7 +235,7 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
 67. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Bylaw 19.
 
-68. Founders Day, Chapter Retreats, Initiation, and meetings with the province president are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, 1 week in advance.
+68. Founders Day, Chapter Retreats, Initiation, and meetings with the province president are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, one day in advance.
     1. After three or more unexcused absences from chapter meetings and/or mandatory events in an academic year, the Member will be called to meet with the Executive Committee in order to discuss these absences.
     
 69. All Members must attend at least 50% of all formal recruitment events per semester. If a Member fails to do so he will be called in front of the Executive Committee.
@@ -253,7 +252,7 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
 74. If a Member on the scholarship program achieves a 7 GPA during the summer semester (unless the summer semester is a full course load) or is a part-time student, he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
 
-75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring discredit to the organization.
+75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization.
 
 76. If a Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an active Member and subject to all rules and regulations therein and may not attain Alum status.
 
@@ -263,14 +262,21 @@ ARTICLE VII: PHIKEIAS
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-78. Phikeia will be required to pay $90 upon induction and $480 upon initiation before GHQ Membership dues are collected (February 28th as of writing) and $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs.
+78. Phikeia will be required to pay induction dues of $90 and initiation dues of $480 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied agianst initiation dues when the book and pin are returned.
 
 79. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
     1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
        1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, if they have not completed a semester at McMaster a transcript from their most recent other academic institution to the Scholarship Chair no later than the second Phikeia meeting.
        2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
     2. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
-       1. Votes shall be counted by the President and Chapter Advisory Board Chairman, or the Warden if the CAB Chairman is not present
+       1. Votes shall be counted by two persons in the following order of preference:
+          - President
+          - CAB Member
+          - Alumnus Member
+          - The Warden
+          - The Vice-President
+          - Treasurer
+          - Secretary
        2. If a secret ballot box, voting stones or other anonymous voting methods are available they shall be used.
        3. The Warden or his apointee shall inform the Phikeia of the result of the vote.
        4. The same procedure shall be used for the affiliation of another Chapter's alumnus attending McMaster University.
@@ -305,7 +311,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
 
 91. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common areas requires the approval of the Ontario Gamma Property Manager.
 
-92. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, games room, stairs, chapter room, outside areas and hallways.
+92. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
     1. Common areas are to be kept clean at all times.
     2. House guests are the responsibility of the Member who invites them into the House and the Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the Member hosting the guest. There are no exceptions to this rule.
     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and house manager
@@ -314,7 +320,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
     6. The Executive Committee or Judicial Committee will review any repeated infraction of these rules and recommendations will be made accordingly.
     
 93. Guest Staying in the Chapter house
-    1. All Alumni and actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, but not on consecutive nights. Exceptions will be made for Lock in and Initiation.
+    1. All Alumni and actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, but not on consecutive nights. Exceptions will be made for the night before and after Initiation.
     2. Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
     3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
     4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
@@ -325,7 +331,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
     
 95. Parking spots will be assigned for 4 month terms starting in September, January, and May. The two parking spots will be first offered to brothers living in the house with cars. If more than two eligible brothers want parking spots, the spots will be auctioned with a sealed-bid second-price auction. Brothers interested in spots will provide bids to the House Manager on a date of his designation before the start of the parking term. The highest bid will pay the amount of the second highest bid, and the second highest bidder will pay the amount of the third highest bid. These funds will be used to equally reduce the rent payment of everyone living in the house, including the winners of the auction. If spots are not taken by the those living in the house they will be offered as short term parking on a first-come first-served basis to Actives, Alum, and Phikeia for less than 12 hours at a time.
 
-96. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snowplow contract is required, the Parking Lot Manager and Parking Lot Advisor are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
+96. A snow removal plan will be in place by the House Manager and Vice President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snow clearing contract is required, the House Manager are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
 
 ARTICLE IX: DISCIPLINE
 ----------------------
@@ -403,19 +409,26 @@ ARTICLE X: COMMITTEES
      1. Be chaired by the Vice-President
      2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, Warden, Phikeia Educator and Secretary
      3. Meet at least bi-weekly, but weekly during the school year
-     4. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
+     4. Excepting when discussing conduct of an individual member any Active, Alum, or Phikeia may be present and speak in the meeting
+     5. Oversee general operations of the chapter and any task that does not fall under the purview of another officer
+     6. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
     
 108. The Recruitment Committee shall:
      1. Be chaired by the Recruitment Chair
      2. Consist of the Chair, Assistant chairs, and at least 3 other active Members
      3. Meet at least bi-weekly
+     4. The committee shall be responsible for planning, organizing, and implementing all aspects of the Chapter’s Recruitment Program
+     5. The Recruitment Committee will work with other Chairs to produce a semesterly formal recruitment period representative of the best the Chapter offers
+     6. Shall lead continuous recruitment efforts of the chapter
     
 109. The Finance Committee shall:
      1. Be chaired by the Treasurer
-     2. Consist of the Chair, Assistant Treasurer, President, and Finance Advisor
+     2. Consist of the Chair, President, Finance Advisor, and any interested members.
      3. Prepare the annual budget
      4. Meet bi-weekly
-        
+     5. Review transactions performed since the last meeting and ensure they are journaled correctly and accounted for
+     6. Shall serve as a base of understanding of the financal situation for officers and the chapter at large
+     
 110. The Judiciary Committee shall:
      1. Be chaired by the Warden
      2. Consist of the Warden and four active Members not including any member of the executive committee except the Warden 
@@ -431,7 +444,7 @@ ARTICLE X: COMMITTEES
      4. Meet weekly when there is a Phikeia class in session.
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (see Bylaws 81 and 82).
      6. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
-     7. A member of the Chapter Advisory Board shall attend Pallas Committee meetings.
+     7. If available member of the Chapter Advisory Board shall attend Pallas Committee meetings.
     
 112. Risk Management Committee
      1. Chaired by the Risk Management Chairman.
