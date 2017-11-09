@@ -121,7 +121,8 @@ ARTICLE IV: ELECTIONS
     2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
        1. If two semesters’ McMaster transcripts are not available, the Active Member’s High School or equivalent transcripts can take their place.
        2. In the event the member was on a co-op work term, his most recent transcripts will be used.
-    3. If an Active Member is not eligible for General Elections, as determined by the above, he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
+    3. If an Active Member is not eligible for Elections, as determined by the above he must be informed before any election date even if he is not currently nominated. Such that he can maintain privacy and decline nominations or prepare an appeal should he be nominated.
+    he may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
        2. In the case of an appeal to the Executive Committee, a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
        3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is required to allow the Active Member to proceed to the balloting stage. 
