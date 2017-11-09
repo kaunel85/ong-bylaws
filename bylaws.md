@@ -263,7 +263,7 @@ ARTICLE VII: PHIKEIAS
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-78. Phikeia will be required to pay $90.00 upon induction and $300.00 upon initiation and operational costs, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs.
+78. Phikeia will be required to pay $90 upon induction and $480 upon initiation before GHQ Membership dues are collected (February 28th as of writing) and $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs.
 
 79. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
     1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
