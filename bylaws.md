@@ -28,7 +28,7 @@ ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
 4. Disciplinary actions as stated in these bylaws may be enacted with a majority vote of the Active Chapter.
 
-5. A bylaw may be vetoed by a 75% vote of the Active Chapter or a 100% vote of the Executive Committee; except where the Active Chapter size is less than 20 members, where a 75% vote of the Active Chapter excluding the Executive Committee is required to veto.
+5. A bylaw may be vetoed by a 75% vote of the Active Chapter.
 
 6. Updated copies of these bylaws will be distributed annually to the Chapter Advisory Board Chairman, each Member of the Active Chapter, the Alumni Club President and the Province President before September 30th of each academic year. A copy of these bylaws will be included with the Phikeia manual upon pledging.
 
@@ -38,13 +38,13 @@ ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
 9. Any individual found in violation of Sections 7 or 8 will be censured (see Section 103.1) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
 
-10. Each Member of the Chapter and each person living in the Chapter House will adhere to the *Phi Delta Theta Alcohol Free Housing Policy*. No alcohol, marijuana, or illegal substances shall be possessed, stored, administered or consumed on Ontario Gamma property.
+10. Each Member of the Active Chapter and each person living in the Chapter House will adhere to the *Phi Delta Theta Alcohol Free Housing Policy*. No alcohol, marijuana, or illegal substances shall be possessed, stored, administered or consumed on Ontario Gamma property.
 
-11. If a Member is found to possess or consume alcohol, marijuana, or illegal substances on Ontario Gamma property, the alcohol, marijuana, or illegal substance is to be confiscated and promptly disposed of by the Vice-President, Warden, or if available a CAB member or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
-    1. For any offence, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate membership review as prescribed by *The Code*.
+11. If a Member is found to possess or consume alcohol or any unlawful drug on Ontario Gamma property, the alcohol or drug is to be confiscated and promptly disposed of by the Vice-President, Warden, or if available a CAB member or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
+    1. For any offense, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate membership review as prescribed by *The Code*.
 
 12. All Active Members with a previous semester GPA below a 7, or cumulative GPA below 6, will be subject to the Scholarship Plan as defined by the Scholarship Chairman. The Scholarship Plan will be approved by the Executive Committee at the beginning of each academic year.
-    1. Should a Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
+    1. Should an Active Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
     2. The Scholarship Plan will be attached to these bylaws as Appendix C.
 
 ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
@@ -67,16 +67,16 @@ ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
 19. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
     1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention. 
     2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
-    3. Any Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
+    3. Any Active Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
     
-20. Items of business not presented to the President before chapter may not be adressed at the discretion of the President.
+20. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
 
 ARTICLE III: DUTIES OF OFFICERS
 -------------------------------
 21. The Chapter officers will report bi-weekly to the Vice-President. The Vice-President will provide an update to the Executive Committee on any meetings held with officers. 
     
 22. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a position review is as follows:
-    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. The Executive Committee will then recommend a Position Review with a 66% vote.
+    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. A majority vote of the Executive will begin the position review.
     2. The officer under review will then appear before the Executive Committee to review their standing with regard to their position held.
     3. This information will then be presented to The Chapter by the Vice-President at the next chapter meeting.
     4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
@@ -112,7 +112,7 @@ ARTICLE IV: ELECTIONS
 
 30. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
-31. The nomination process will be as follows: A nomination is made and seconded by members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
+31. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
 
 32. Self-nominations are permitted in chapter or in submission to the Executive Committee.
 
@@ -125,7 +125,7 @@ ARTICLE IV: ELECTIONS
     4. If an Active Member is not eligible for Elections as determined by the above he must be informed before any election date even if he is not currently nominated. This is such that he may maintain privacy and decline nominations or prepare an appeal. He may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
        2. In the case of an appeal to the Executive Committee, a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
-       3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favour of the motion is required to allow the Active Member to proceed to the balloting stage. 
+       3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favor of the motion is required to allow the Active Member to proceed to the balloting stage. 
 
     
 34. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter.
@@ -136,7 +136,7 @@ ARTICLE IV: ELECTIONS
 
 37. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted.
 
-38. All voting will be conducted inside the chapter meeting using the heads down, fists up method unless there is one candidate, and a motion to vote by acclimation passes. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
+38. All voting will be conducted inside the chapter meeting using the heads down fists up method or an instant-runoff ballot at the discretion of the Chair. Additionally if there is only one candidate there may be a vote by acclimation if successfully motioned. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
     - President
     - CAB Member
     - Alumnus Member
@@ -178,10 +178,9 @@ ARTICLE IV: ELECTIONS
 
 45. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
 
-46. Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 25 eligible Members.
+46. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 25 eligible Active Members.
 
-47. For any vacant position immediately following elections, the Executive Committee may appoint, by 66% vote, a Member to fill the vacancy for a term valid until the next general election. The Executive Committee must make the appointments for the vacant positions no later than 48 hours following the elections.
-    1. Any appointments must be approved by the active chapter with a 50% vote at the next chapter meeting.
+47. For any vacant position the Executive Committee may appoint by 66% vote, an Active Member to fill the vacancy for a term valid until the Chapter motions for an election or the next scheduled election.
 
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
@@ -199,13 +198,14 @@ ARTICLE V: CHAPTER FINANCES AND BUDGETING
 
 54. Members selected by the Chapter to attend any Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ.
 
-55. Chapter Financial Records shall be kept in Microsoft Excel Format or on Google Sheets and be acessible to members.
+55. Chapter Financial Records shall be kept in Microsoft Excel Format or on Google Sheets and be accessible to Active Members.
 
-56. All reimbursements of funds are to be administered only after the treasurer has received:
+56. All reimbursements of funds are to be administered only within one month of the initial expense and after the treasurer has received:
     1. A written request for reimbursement
     2. All applicable receipts
     3. Approval of the Executive Committee if the amount exceeds $100.00.
     4. Refunds are not to exceed allotted budget for the year unless approved by the Finance Committee and Executive Committee.
+    5. Reimbursements more than one month after the expense may be allowed if approved by Exec
 
 57. Chapter Financial Records shall be made available to the Chapter Advisory Board Member appointed by the Chapter Advisory Board Chair.
 
@@ -216,36 +216,36 @@ ARTICLE V: CHAPTER FINANCES AND BUDGETING
     2. Payments must be made as stated in the payment plan contract, set up between the brother and the treasurer
     3. Failure to do so will result in review from the Executive Committee with the assumed outcome of immediate suspension. If further arrangements fail, the Member will be placed on financial delinquency and a Judiciary Committee will be called.
 
-60. For members who will not be present in the city for the winter semester (either due to co-op placement, distant education, or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for the event.
+60. For Active Members who will not be present in the city for the winter semester (either due to co-op placement, distant education, or December program completion), they will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for the event.
 
-61. Any Member who has failed to inform the Treasurer that they will not be returning as an active member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
+61. Any Member who has failed to inform the Treasurer that they will not be returning as an Active Member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
 
-62. Members taking one or more terms of co-op may be elegible for some relief from financal comittments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
+62. Active Members taking one or more terms of co-op may be eligible for some relief from financial commitments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
 
 63. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer, in care of Phi Delta Theta – Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
     1. If the bill has not been paid by the 31st of the month, The Code Section 154, 155, and 156 will be put into effect, and proper judicial procedure will be followed.
-    2. If a Member withdraws from McMaster University while owing the chapter they will be given thirty (30) days to pay the full amount owing to the Chapter. If this amount is not paid within this time period, the Member will be recommended for expulsion to General Headquarters.
+    2. If an Active Member withdraws from McMaster University while owing the chapter they will be given thirty (30) days to pay the full amount owing to the Chapter. If this amount is not paid within this time period, the Member will be recommended for expulsion to General Headquarters.
     
 64. Receipts will be issued by the Treasurer, President, or Vice-President for all payments. It is the Member’s responsibility to maintain their receipts.
 
-65. The Treasurer will maintain a bank account for the chapter fund (chequings).
+65. The Treasurer will maintain a bank account for the chapter fund (checking).
 
 ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 ----------------------------------------------------
-66. All members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
+66. All Active Members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
 
 67. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Section 19.
 
-68. Founders Day, Chapter Retreats, Initiation, and meetings with the Province President are all mandatory events held within an academic year. If a Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, one day in advance.
+68. Founders Day, Chapter Retreats, Initiation, and meetings with the Province President are all mandatory events held within an academic year. If an Active Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, three days in advance.
     1. After three or more unexcused absences from Chapter Meetings and/or mandatory events in an academic year, the Member will be called to meet with the Executive Committee in order to discuss these absences.
     
-69. All Members must attend at least 50% of all formal recruitment events per semester. If a Member fails to do so he will be called in front of the Executive Committee.
+69. All Active Members must attend at least 50% of all formal recruitment events per semester. If an Active Member fails to do so he will be called in front of the Executive Committee.
 
-70. If there fails to be a minimum of three (3) events during the formal Recruitment period (organized by the Recruitment Chair), and two (2) events outside of the formal Recruitment period during the rest of the semester (not necessarily organized by the Recruitment Chair), then the Recruitment Chair will be called to appear in front of the Judicial Committee, for which further action will be decided upon by the Judicial Committee.
+70. If there fails to be a minimum of three (3) open recruitment events during the formal Recruitment period (as organized by the Recruitment Chair), and two (2) events open to potential new members outside of the formal Recruitment period during the rest of the semester (not necessarily organized by the Recruitment Chair), then the Recruitment Chair will be called to appear in front of the Judicial Committee, for which further action will be decided upon by the Judicial Committee.
 
-71. Each active member must attend at least 1 Phikeia meeting each term or present evidence of exceptional circumstances. Failure to do so will result in a review from the Executive Committee.
+71. Each Active Member must attend at least 1 Phikeia meeting each term or present evidence of exceptional circumstances. Failure to do so will result in a review from the Executive Committee.
 
-72. Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by the second meeting of each semester, or as requested by the Scholarship Chair. If the class schedule is changed then it must be re-submitted. Transcripts must be submitted as a non-alterable copy of the Member’s full Academic Record as provided by McMaster University.
+72. Active Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by the second meeting of each semester, or as requested by the Scholarship Chair. If the class schedule is changed then it must be re-submitted. Transcripts must be submitted as a non-alterable copy of the Member’s full Academic Record as provided by McMaster University.
 
 73. An Active Member whose previous semester GPA falls below a 7 or whose cumulative GPA is below 6 is immediately included in the Scholarship Program.
     1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. Any such adjustment may only be passed by the majority vote of the Executive Committee, the Scholarship Chairman, and the Chapter Advisory Board Chairman.
@@ -253,9 +253,9 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
 74. If a Member on the scholarship program achieves a 7 GPA during the summer semester (unless the summer semester is a full course load) or is a part-time student, he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
 
-75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization.
+75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. 
 
-76. If a Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an active Member and subject to all rules and regulations therein and may not attain Alum status.
+76. If an Active Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an Active Member and subject to all rules and regulations therein and may not attain Alum status.
 
 ARTICLE VII: PHIKEIAS
 ---------------------
@@ -263,7 +263,7 @@ ARTICLE VII: PHIKEIAS
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-78. Phikeia will be required to pay induction dues of $90 and initiation dues of $480 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Members badges, ticket to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied agianst initiation dues when the book and pin are returned.
+78. Phikeia will be required to pay induction dues of $90 and initiation dues of $480 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied against initiation dues when the book and pin are returned.
 
 79. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
     1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
@@ -279,7 +279,7 @@ ARTICLE VII: PHIKEIAS
           - Treasurer
           - Secretary
        2. If a secret ballot box, voting stones or other anonymous voting methods are available they shall be used.
-       3. The Warden or his apointee shall inform the Phikeia of the result of the vote.
+       3. The Warden or his appointee shall inform the Phikeia of the result of the vote.
        4. The same procedure shall be used for the affiliation of another Chapter's alumnus attending McMaster University.
 
 80. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President.
@@ -296,23 +296,22 @@ ARTICLE VIII: THE CHAPTER HOUSE
 -------------------------------
 85. The Chapter House must remain fully occupied if possible at all times to allow for financial solvency.
 
-86. Room preference will be given in the following priority:
+86. The House Corporation has the final discretion on all tenants. Preference will be given in the following priority:
     1. Active
     2. Alumni
-    3. Outside tenants (First Come First Serve)
-    4. The House Corporation has the final discretion on all tenants.
+    3. Outside tenants (First Come First Served)
 
 87. Terms of rent and the lease are to be negotiated between the tenants and the House Corporation appointed representative.
 
-88. Tenants will be responsible for their own quarters, which must be kept reasonably tidy at all times. All Members and tenants will be responsible for the cleanliness of the common areas in the house.
+88. Tenants will be responsible for their own quarters, which must be kept reasonably tidy at all times. All Members living in and using the House, and tenants will be responsible for the cleanliness of the common areas in the house.
 
-89. Members will be fully responsible for the actions of their guests.
+89. Tenants and Members will be fully responsible for the actions of their guests.
 
 90. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
 
 91. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common areas requires the approval of the Ontario Gamma Property Manager.
 
-92. All active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
+92. All Active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
     1. Common areas are to be kept clean at all times.
     2. House guests are the responsibility of the Member who invites them into the House and the Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the Member hosting the guest. There are no exceptions to this rule.
     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and House Manager
@@ -332,23 +331,23 @@ ARTICLE VIII: THE CHAPTER HOUSE
     
 95. Parking spots will be assigned for 4 month terms starting in September, January, and May. The two parking spots will be first offered to brothers living in the house with cars. If more than two eligible brothers want parking spots, the spots will be auctioned with a sealed-bid second-price auction. Brothers interested in spots will provide bids to the House Manager on a date of his designation before the start of the parking term. The highest bid will pay the amount of the second highest bid, and the second highest bidder will pay the amount of the third highest bid. These funds will be used to equally reduce the rent payment of everyone living in the house, including the winners of the auction. If spots are not taken by the those living in the house they will be offered as short term parking on a first-come first-served basis to Actives, Alum, and Phikeia for less than 12 hours at a time.
 
-96. A snow removal plan will be in place by the House Manager and Vice-President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snow clearing contract is required, the House Manager are responsible for securing a contract prior to September 30th. All members are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
+96. A snow removal plan will be in place by the House Manager and Vice-President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snow clearing contract is required, the House Manager are responsible for securing a contract prior to September 30th. All Members living in and using the House are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
 
 ARTICLE IX: DISCIPLINE
 ----------------------
 97. The Judiciary Committee shall:
     1. Be chaired by the Warden.
-    2. Consist of the Warden and four active Members not including any member of the executive committee unless they also hold the position of warden
+    2. Consist of the Warden and four Active Members not including any member of the executive committee unless they also hold the position of warden
     3. Hold council when necessary, and discipline according to The Code Article XVI
     4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any disciplinary meetings and request that the Vice-President of the Chapter be in attendance for the meetings as well
 
-98. Six active Members are chosen by the Chapter at the beginning of each semester by a top six plurality election to potentially sit on the Judicial Committee with the Warden.
+98. Six Active Members are chosen by the Chapter at the beginning of each semester by a top six plurality election to potentially sit on the Judicial Committee with the Warden.
      1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
      2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
      3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
 
 99. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of active members attending a Chapter Meeting.
+    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
     
 100. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
@@ -357,7 +356,7 @@ ARTICLE IX: DISCIPLINE
 102. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
      1. Open Section (All Members may attend this portion of the meeting)
         1. Opening statement by chair as to why this Judiciary Committee has been called
-        2. Speaking of defence (by involved Member(s) to the Judiciary Committee) 
+        2. Speaking of defense (by involved Member(s) to the Judiciary Committee) 
         3. Presentation of evidence and points of clarification (open to floor)
         4. Questions directed towards the involved Member(s) from the Judiciary Committee members
         5. Review of the involved Member(s)’ chapter history
@@ -382,7 +381,7 @@ ARTICLE IX: DISCIPLINE
         3. Closed ballot voting begins (See The Code Section 156)
         4. If the Chapter votes in favor (66%) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
 
-103. If the chapter does not vote in favour, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Section 102.3.
+103. If the chapter does not vote in favor, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Section 102.3.
     1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
     2. Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines.
     3. Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the General Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
@@ -411,7 +410,7 @@ ARTICLE X: COMMITTEES
      1. Be chaired by the Vice-President
      2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, Warden, Phikeia Educator and Secretary
      3. Meet at least bi-weekly, but weekly during the school year
-     4. Excepting when discussing conduct of an individual member any Active, Alum, or Phikeia may be present and speak in the meeting
+     4. Excepting when discussing conduct of an individual Member any Active, Alumnus, or Phikeia may be present and speak in the meeting
      5. Oversee general operations of the chapter and any task that does not fall under the purview of another officer
      6. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
     
@@ -425,11 +424,11 @@ ARTICLE X: COMMITTEES
     
 109. The Finance Committee shall:
      1. Be chaired by the Treasurer
-     2. Consist of the Chair, President, Finance Advisor, and any interested members.
+     2. Consist of the Chair, President, Finance Advisor, and any interested Members.
      3. Prepare the annual budget
      4. Meet bi-weekly
      5. Review transactions performed since the last meeting and ensure they are journaled correctly and accounted for
-     6. Shall serve as a base of understanding of the financal situation for officers and the chapter at large
+     6. Shall serve as a base of understanding of the financial situation for officers and the chapter at large
      
 110. The Judiciary Committee shall:
      1. Be chaired by the Warden
@@ -437,11 +436,11 @@ ARTICLE X: COMMITTEES
      3. Hold council when necessary, and discipline according to [Article X](#article-x-committees)
      4. Request from the Chapter Advisory Board Chairman that a Chapter Advisory Board member be in attendance for any disciplinary meetings and request that the Vice-President of the Chapter be in attendance for the meeting as well
      5. Convene at the beginning of each semester, including all six elected members, the Warden, and Vice-President to review the Judicial Committee procedure with a CAB delegate
-     6. See Section 98 for procedure on how to choose Members for the Judiciary Committee
+     6. See Section 98 for procedure on how to choose members for the Judiciary Committee
 
 111. The Pallas Committee
      1. Be chaired by the Phikeia Educator
-     2. Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, and other active Members.
+     2. Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, and other Active Members.
      3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and making Big Brother-Little Brother pairings no later than the fourth meeting of the Phikeia program.
      4. Meet weekly when there is a Phikeia class in session.
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (see Sections 81 and 82).
@@ -450,14 +449,14 @@ ARTICLE X: COMMITTEES
     
 112. Risk Management Committee
      1. Chaired by the Risk Management Chairman.
-     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President, and other active Members.
+     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President, and other Active Members.
      3. Ensure that all event planners are aware of the the risk management policies and procedures.
      4. Serve as consult during the planning of events and submission of risk management forms.
-     5. Develop reccomendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals. 
+     5. Develop recommendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals. 
      
 113. The Awards Committee shall:
      1. Be chaired by the Awards Chair
-     2. Consist of the Chair, Secretary, President, and at least two other active Members
+     2. Consist of the Chair, Secretary, President, and at least two other Active Members
      3. Oversee completion of all GHQ Awards applications
      4. Oversee requirements, nominations, and presentation of all Chapter awards including:
         1. Phi of the Year
@@ -473,27 +472,27 @@ ARTICLE X: COMMITTEES
 
 114. Social Committee
      1. Be Chaired by the Social Chair
-     2. Consist of the Social Chair, Vice-President, and other active Members.
+     2. Consist of the Social Chair, Vice-President, and other Active Members.
      3. Be responsible for the organization of regular chapter social events with outside persons and organizations.
      4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty  
 
 115. Brotherhood Committee
      1. Be Chaired by the Brotherhood Chair
-     2. Consist of the Brotherhood Chair, Vice-President, and other active Members.
-     3. Be responsible for the organization of regular brotherhood events to promote closeness between members.
+     2. Consist of the Brotherhood Chair, Vice-President, and other Active Members.
+     3. Be responsible for the organization of regular brotherhood events to promote closeness between Members.
           
 116. Fundraising Committee
      1. Be Chaired by the Fundraising Chair
-     2. Consist of the Fundraising Chair, Vice-President, Alumni Secretary and other active Members.
+     2. Consist of the Fundraising Chair, Vice-President, Alumni Secretary and other Active Members.
      3. Be responsible for the organization of events for the raising of funds for chapter operations.
 
 117. Scholarship Committee
      1. Be Chaired by the Scholarship Chair
-     2. Consist of the Scholarship Chair, Vice-President, and other active Members.
+     2. Consist of the Scholarship Chair, Vice-President, and other Active Members.
      3. Be responsible for the organization of the scholarship program and management of academic resources.
 
 118. Housing Committee
      1. Be Chaired by the House Manager
-     2. Consist of the House Manager, Vice-President, and other active Members.
+     2. Consist of the House Manager, Vice-President, and other Active Members.
      3. Be responsible for the organization, cleanliness, and good operation of the Chapter House
      4. Be resposnible for determining which Actives and Alum shall live in the house, with the approval of the Executive
