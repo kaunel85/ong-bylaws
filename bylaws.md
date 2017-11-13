@@ -38,7 +38,7 @@ ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 
 9. Any individual found in violation of Sections 7 or 8 will be censured (see Section 103.1) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
 
-10. Each Member of the Active Chapter and each person living in the Chapter House will adhere to the *Phi Delta Theta Alcohol Free Housing Policy*. No alcohol, marijuana, or illegal substances shall be possessed, stored, administered or consumed on Ontario Gamma property.
+10. Each Member of the Active Chapter and each person living in the Chapter House will adhere to the *Phi Delta Theta Alcohol Free Housing Policy*. No alcohol or unlawful drugs shall be possessed, stored, administered or consumed on Ontario Gamma property.
 
 11. If a Member is found to possess or consume alcohol or any unlawful drug on Ontario Gamma property, the alcohol or drug is to be confiscated and promptly disposed of by the Vice-President, Warden, or if available a CAB member or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
     1. For any offense, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate membership review as prescribed by *The Code*.
@@ -98,7 +98,7 @@ ARTICLE III: DUTIES OF OFFICERS
     
 24. At each meeting each officer will provide a verbal report of his past weeks accomplishments and future plans.
     
-25. At the beginning of each academic term, all officers will produces goals for their term and optionally a revised statement of responsibility and submit it to the Executive Committee prior to the second meeting of the academic term.
+25. At the beginning of each academic term, all officers will produce goals for their term and optionally a revised statement of responsibility and submit it to the Executive Committee prior to the second meeting of the academic term.
 
 26. Officers will submit a transition report to the Executive Committee prior to vacating their office.
 
@@ -110,7 +110,7 @@ ARTICLE IV: ELECTIONS
 ---------------------
 29. Officer elections shall take place no later than the first chapter meeting in March. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. Installations shall occur no earlier than two weeks after the elections and no later than the last meeting of the current academic term.
 
-30. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meetings prior to the election date. Nominations will be open until they are closed to begin election procedure.
+30. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
 31. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
 
@@ -118,9 +118,7 @@ ARTICLE IV: ELECTIONS
 
 33. In order to be eligible to proceed to the election stage for a position in addition to The Code Section 113.1, a Member must meet the following criteria:
     1. Be in good financial standing with the chapter
-    2. Have posted an average GPA of 5 or better during the two semesters leading up to the elections.
-       1. If two semesters’ McMaster transcripts are not available, transcripts from the Active Member’s most recent academic institution.
-       2. In the event the member was on a co-op work term, his most recent transcripts will be used.
+    2. Have not been manditorily enrolled in the Scholarship Plan for the past two semesters
     3. Have fewer than 2 unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
     4. If an Active Member is not eligible for Elections as determined by the above he must be informed before any election date even if he is not currently nominated. This is such that he may maintain privacy and decline nominations or prepare an appeal. He may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
@@ -251,7 +249,7 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
     1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. Any such adjustment may only be passed by the majority vote of the Executive Committee, the Scholarship Chairman, and the Chapter Advisory Board Chairman.
     2. Courses taken during the summer semester shall not effect a Member’s standing with respect to the Scholarship Program except where the Member was considered a full time student by McMaster University during the summer semester.
 
-74. If a Member on the scholarship program achieves a 7 GPA during the summer semester (unless the summer semester is a full course load) or is a part-time student, he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
+74. If a Member on the scholarship program achieves a 7 GPA as a part-time student or during the summer semester (unless the summer semester is a full course load), he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
 
 75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. 
 
@@ -325,9 +323,10 @@ ARTICLE VIII: THE CHAPTER HOUSE
     3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
     4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
     
-94. Smoking is only permitted on back porch of the Fraternity House.
-    1. All butts must be placed in a container and disposed of properly. No butts will be left on the property.
-    2. Only cigarettes, e-cigarettes, and cigars can be smoked.
+94. Smoking on chapter property is only permitted on days specified in advance by the Executive or Housing Committee. If a day has not been specified as a smoking day, the 66% consent of present Executive or Housing Committee members who will not be smoking may overrule this.
+    1. Smoking must occur on the back porch of the Fraternity House.
+    2. All butts must be placed in a container and disposed of properly. No butts will be left on the property.
+    3. Only cigarettes, e-cigarettes, and cigars can be smoked.
     
 95. Parking spots will be assigned for 4 month terms starting in September, January, and May. The two parking spots will be first offered to brothers living in the house with cars. If more than two eligible brothers want parking spots, the spots will be auctioned with a sealed-bid second-price auction. Brothers interested in spots will provide bids to the House Manager on a date of his designation before the start of the parking term. The highest bid will pay the amount of the second highest bid, and the second highest bidder will pay the amount of the third highest bid. These funds will be used to equally reduce the rent payment of everyone living in the house, including the winners of the auction. If spots are not taken by the those living in the house they will be offered as short term parking on a first-come first-served basis to Actives, Alum, and Phikeia for less than 12 hours at a time.
 
@@ -379,7 +378,7 @@ ARTICLE IX: DISCIPLINE
            - No new information or evidence can be presented
            - No questions pertaining to the private discussion of the Judicial Committee are allowed.
         3. Closed ballot voting begins (See The Code Section 156)
-        4. If the Chapter votes in favor (66%) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify HQ and the Province President as per The Code.
+        4. If the Chapter votes in favor (66%) of the action, the Warden shall prepare a report to be submitted as Final to the President. In conjunction with the Chapter Advisory Board Chairman, the President shall immediately notify GHQ and the Province President as per The Code.
 
 103. If the chapter does not vote in favor, the Judiciary Committee shall reconvene in closed session to assess next steps. These could include, but are not limited to: starting the process from the beginning again, taking no further action, or coming up with a new recommendation to be presented before the chapter as in Section 102.3.
     1. Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
