@@ -311,7 +311,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
 
 92. All Active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
     1. Common areas are to be kept clean at all times.
-    2. House guests are the responsibility of the Member who invites them into the House and the Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the Member hosting the guest. There are no exceptions to this rule.
+    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenants Member hosting the guest. There are no exceptions to this rule.
     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and House Manager
     4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor bulletin board. Each Member living in and using the House will be placed in rotation on the list. Please note that this does include Alumni who are frequently at the House.
     5. Failure to do these chores will mean that you will be required to complete the chore the following week plus your new assigned chore.
@@ -319,9 +319,9 @@ ARTICLE VIII: THE CHAPTER HOUSE
     
 93. Guest Staying in the Chapter house
     1. All Alumni and Actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, but not on consecutive nights. Exceptions will be made for the night before and after Initiation.
-    2. Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
+    2. Tenats and Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
     3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
-    4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
+    4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the tenant or Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
     
 94. Smoking on chapter property is only permitted on days specified in advance by the Executive or Housing Committee. If a day has not been specified as a smoking day, the 66% consent of present Executive or Housing Committee members who will not be smoking may overrule this.
     1. Smoking must occur on the back porch of the Fraternity House.
