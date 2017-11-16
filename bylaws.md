@@ -20,7 +20,7 @@ Table of Contents
 
 ARTICLE I: AMENDMENTS AND GENERAL POLICIES
 ------------------------------------------
-1. Should any of these bylaws be found to be in violation of *The Constitution and General Statutes of Phi Delta Theta*, the *Risk Management Policies of Phi Delta Theta*, the *Criminal Code of Canada*, or *The Bond*, then that bylaw shall be deemed void and stricken from this document.
+1. Should any of these bylaws be found to be in violation of *The Constitution and General Statutes of Phi Delta Theta*, the *Risk Management Policies of Phi Delta Theta*, the laws of Canada and Ontario, Hamilton By-laws, or *The Bond*, then that bylaw shall be deemed void and stricken from this document.
 
 2. The bylaws of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
@@ -67,7 +67,7 @@ ARTICLE II: MEETINGS OF THE ACTIVE CHAPTER
 19. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
     1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention. 
     2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
-    3. Any Active Member with 2 or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
+    3. Any Active Member with three or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
     
 20. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
 
@@ -102,7 +102,7 @@ ARTICLE III: DUTIES OF OFFICERS
 
 26. Officers will submit a transition report to the Executive Committee prior to vacating their office.
 
-27. The length of term for each officer shall be one calendar year, as defined as March to March excepting the President and Vice-President who's terms are defined November to November, unless otherwise decided by a vote of 66% of the Active Chapter.
+27. The length of term for each officer shall be one calendar year, as defined as March to March excepting the President and Vice-President who's terms are defined November to November, unless otherwise decided by a vote of 66% of the Active Chapter. If the President or Vice-President graduate or otherwise leave their post in March, elections for an interim shall be held.
 
 28. No officer shall receive payment for his duties or service.
 
@@ -119,7 +119,7 @@ ARTICLE IV: ELECTIONS
 33. In order to be eligible to proceed to the election stage for a position in addition to The Code Section 113.1, a Member must meet the following criteria:
     1. Be in good financial standing with the chapter
     2. Have not been manditorily enrolled in the Scholarship Plan for the past two semesters
-    3. Have fewer than 2 unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
+    3. Have fewer than three unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
     4. If an Active Member is not eligible for Elections as determined by the above he must be informed before any election date even if he is not currently nominated. This is such that he may maintain privacy and decline nominations or prepare an appeal. He may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
        1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
        2. In the case of an appeal to the Executive Committee, a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
@@ -235,7 +235,6 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 67. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Section 19.
 
 68. Founders Day, Chapter Retreats, Initiation, and meetings with the Province President are all mandatory events held within an academic year. If an Active Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, three days in advance.
-    1. After three or more unexcused absences from Chapter Meetings and/or mandatory events in an academic year, the Member will be called to meet with the Executive Committee in order to discuss these absences.
     
 69. All Active Members must attend at least 50% of all formal recruitment events per semester. If an Active Member fails to do so he will be called in front of the Executive Committee.
 
@@ -251,7 +250,7 @@ ARTICLE VI: MEMBER ACCOUNTABILITY AND RESPONSIBILITY
 
 74. If a Member on the scholarship program achieves a 7 GPA as a part-time student or during the summer semester (unless the summer semester is a full course load), he will stay on the scholarship program for the fall semester and will have full membership privileges (contingent upon individual review).
 
-75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. 
+75. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. The Badge of Phi Delta Theta shall only be worn with a collared shirt.
 
 76. If an Active Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an Active Member and subject to all rules and regulations therein and may not attain Alum status.
 
@@ -264,10 +263,11 @@ ARTICLE VII: PHIKEIAS
 78. Phikeia will be required to pay induction dues of $90 and initiation dues of $480 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied against initiation dues when the book and pin are returned.
 
 79. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
-    1. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
+    1. Earn a mark of 80% or greater in the Phikeia class following a marking scheme established by the Phikeia Educator. The marking scheme must include online module completion and a final examination as specified in The Code Section 139.
+    2. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
        1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, if they have not completed a semester at McMaster a transcript from their most recent other academic institution to the Scholarship Chair no later than the second Phikeia meeting.
        2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
-    2. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
+    3. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
        1. Votes shall be counted by two persons in the following order of preference:
           - President
           - CAB Member
@@ -288,7 +288,7 @@ ARTICLE VII: PHIKEIAS
 
 83. Phikeia fees are non-refundable.
 
-84. Phikeia bids and initiation will take into consideration the criteria outlined in the Values Based Recruitment document. These documents will be attached as an appendix to this document.
+84. Phikeia bids and initiation will take into consideration the criteria outlined in the Values Based Recruitment document. These documents will be attached as Appendix D to this document.
 
 ARTICLE VIII: THE CHAPTER HOUSE
 -------------------------------
@@ -319,7 +319,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
     
 93. Guest Staying in the Chapter house
     1. All Alumni and Actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, but not on consecutive nights. Exceptions will be made for the night before and after Initiation.
-    2. Tenats and Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
+    2. Tenants and Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
     3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
     4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the tenant or Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
     
@@ -438,9 +438,9 @@ ARTICLE X: COMMITTEES
      6. See Section 98 for procedure on how to choose members for the Judiciary Committee
 
 111. The Pallas Committee
-     1. Be chaired by the Phikeia Educator
-     2. Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, and other Active Members.
-     3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and making Big Brother-Little Brother pairings no later than the fourth meeting of the Phikeia program.
+     1. Be chaired by a member who is not the Phikeia Educator or a Big Brother
+     2. Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, an experienced member and optionally an alumnus.
+     3. Be responsible for reviewing Big Brother Applications, selecting Big Members, and making Big Brother-Little Brother pairings no later than the second meeting of the Phikeia program.
      4. Meet weekly when there is a Phikeia class in session.
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (see Sections 81 and 82).
      6. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
