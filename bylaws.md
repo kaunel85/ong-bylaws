@@ -311,7 +311,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
 
 92. All Active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
     1. Common areas are to be kept clean at all times.
-    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenants Member hosting the guest. There are no exceptions to this rule.
+    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenant or Member hosting the guest. There are no exceptions to this rule.
     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and House Manager
     4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor bulletin board. Each Member living in and using the House will be placed in rotation on the list. Please note that this does include Alumni who are frequently at the House.
     5. Failure to do these chores will mean that you will be required to complete the chore the following week plus your new assigned chore.
