@@ -260,7 +260,7 @@ ARTICLE VII: PHIKEIAS
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-78. Phikeia will be required to pay induction dues of $90 and initiation dues of $480 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $350 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied against initiation dues when the book and pin are returned.
+78. Phikeia will be required to pay induction dues of $90 and initiation dues of $490 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $360 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied against initiation dues when the book and pin are returned.
 
 79. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
     1. Earn a mark of 80% or greater in the Phikeia class following a marking scheme established by the Phikeia Educator. The marking scheme must include online module completion and a final examination as specified in The Code Section 139.
@@ -311,7 +311,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
 
 92. All Active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
     1. Common areas are to be kept clean at all times.
-    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenants Member hosting the guest. There are no exceptions to this rule.
+    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenant or Member hosting the guest. There are no exceptions to this rule.
     3. Any repairs/house projects must be submitted to and approved by the house corporation chair and House Manager
     4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor bulletin board. Each Member living in and using the House will be placed in rotation on the list. Please note that this does include Alumni who are frequently at the House.
     5. Failure to do these chores will mean that you will be required to complete the chore the following week plus your new assigned chore.
