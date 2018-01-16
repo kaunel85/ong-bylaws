@@ -14,7 +14,8 @@ The group with the highest average of the individual GPAs will receive a prize d
 
 The scholarship chair and each executive member shall each host a two hour study session weekly.
 Any interest member may also host study sessions as long as they are reported to the scholarship chair.
-The session should be a productive workspace in either campus libraries or the chapter house. 
+The session should be a productive workspace in either campus libraries or the chapter house.
+It is the responsibility of the host to ensure study sessions are silent and no extraneous devices being used.
 Members are encouraged to attend at least one session weekly.
 If a member finds the study sessions unproductive for any reason, changes or alternatives can be made with the scholarship chair.
 
