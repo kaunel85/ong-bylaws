@@ -17,26 +17,24 @@ Many Phis have noticed that despite the diversity of interest within our Chapter
 - Is there a hobby or pursuit that really excites this person?
 - Is there something braggable about them?
 
-## Friendship
+## Charismatic
 
 
 
 #### Key Questions
-- Did they feel like a good personality fit? 
-- Were they enjoyable to be with?
+-  Do they talk to Brothers openly?
+- Do they talk with other PNMs?
 
-## Sound Learning
+## Academic
 
 
 
 #### Key Questions
 - Do they show an interst in their studies or other intellectual pursuits?
-- Do they generally appear to appreciate intellectual conversation?
 
-## Rectitude
-
-
+## Honest
 
 #### Key Questions
+- Are they open about themselves?
 - Do they exibit good moral character?
 - No red flag issues?
