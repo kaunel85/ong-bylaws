@@ -1,5 +1,7 @@
-Phi Delta Theta Fraternity  - Ontario Gamma Bylaws <br> Amended November 2017
+Phi Delta Theta Fraternity  - Ontario Gamma Bylaws 
 ==========================================================================
+
+###### Amended January 2018
 
 Preamble
 --------
