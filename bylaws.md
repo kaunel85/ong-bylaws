@@ -344,6 +344,7 @@ ARTICLE IX: DISCIPLINE
      1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
      2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
      3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
+     4. If the potential judicial members have not been selected for the semester when it is required that one be called, the Warden shall use his best judgement in the selection of four uninvolved, unbiased, and representative members to sit on the committee.
 
 99. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
