@@ -167,6 +167,7 @@ ARTICLE IV: ELECTIONS
     17. Historian
     18. Chorister
     19. Greek Council Representative
+    20. Social Media Chairman
     
 41. During November elections the President shall be elected before the Vice-President.
     
