@@ -110,7 +110,10 @@ ARTICLE III: DUTIES OF OFFICERS
 
 ARTICLE IV: ELECTIONS
 ---------------------
-29. Officer elections shall take place no later than the first chapter meeting in March. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. Installations shall occur no earlier than two weeks after the elections and no later than the last meeting of the current academic term.
+29. Officer elections shall take place as follows: 
+    1. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. For installation at the start of the new calendar year. 
+    2. The new Executive Committee shall be elected by the first meeting in March, to be installed at the last meeting of March following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
+    3. The Standing Officers shall be elected by the third meeting in March to be installed in the last meeting of March 
 
 30. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
@@ -118,15 +121,10 @@ ARTICLE IV: ELECTIONS
 
 32. Self-nominations are permitted in chapter or in submission to the Executive Committee.
 
-33. In order to be eligible to proceed to the election stage for a position in addition to The Code Section 113.1, a Member must meet the following criteria:
-    1. Be in good financial standing with the chapter
-    2. Have not been manditorily enrolled in the Scholarship Plan for the past two semesters
-    3. Have fewer than three unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
-    4. If an Active Member is not eligible for Elections as determined by the above he must be informed before any election date even if he is not currently nominated. This is such that he may maintain privacy and decline nominations or prepare an appeal. He may appeal his case to either the Executive Committee or the Active Chapter at the choice of the Member.
-       1. The Active Member may only appeal his case to either the Executive Committee or the Active Chapter. The decision of the chosen body is final.
-       2. In the case of an appeal to the Executive Committee, a majority vote of the Executive Committee is required to allow the Active Member to proceed to the balloting stage.
-       3. In the case of an appeal to the Active Chapter, a two thirds (2/3) vote in favor of the motion is required to allow the Active Member to proceed to the balloting stage. 
-
+33. For any Member running for election, the following will be stated so as to provide evidince to their accountability to the chapter:
+    1. Current financial standing with the chapter
+    2. Any manditory enrollment in the Scholarship Plan for the past two semesters
+    3. Count of unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
     
 34. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter.
 
@@ -148,26 +146,37 @@ ARTICLE IV: ELECTIONS
 39. The number of votes (including abstentions) for each vote must reach quorum.
 
 40. The order for March elections shall be as follows:
-    1. Treasurer
-    2. Recruitment Chairman
-    3. Warden
-    4. Phikeia Educator
-    5. Secretary
-    6. House Manager
-    7. Awards
-    8. Chaplain 
-    9. Scholarship
-    10. Social Chairman
-    11. Brotherhood Chairman
-    12. Philanthropy Chairman 
-    13. Fundraising Chairman
-    14. Risk Management Chair 
-    15. Athletics Chair
-    16. Alumni Secretary
-    17. Historian
-    18. Chorister
-    19. Greek Council Representative
-    20. Social Media Chairman
+    
+    a. Executive Committee
+       1. President (if neccessary)
+       2. Vice President (if neccessary)
+       3. Treasurer
+       4. Recruitment Chairman
+       5. Warden
+       6. Phikeia Educator
+       7. Secretary
+           
+    b. Standing Officers
+       1. Risk Management Chair
+       2. Chaplain 
+       3. Scholarship
+       4. House Manager
+       5. Greek Council Representative
+       
+    c. Event Officers
+       1. Social Chairman
+       2. Brotherhood Chairman
+       3. Philanthropy Chairman 
+       4. Fundraising Chairman
+       5. Athletics Chair
+       
+    d. Communications Officers
+       1. Social Media Chairman
+       2. Historian
+       3. Alumni Secretary
+       4. Chorister
+       5. Awards
+
     
 41. During November elections the President shall be elected before the Vice-President.
     
