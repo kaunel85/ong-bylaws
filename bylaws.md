@@ -110,42 +110,7 @@ ARTICLE III: DUTIES OF OFFICERS
 
 ARTICLE IV: ELECTIONS
 ---------------------
-29. Officer elections shall take place as follows: 
-    1. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. For installation at the start of the new calendar year. 
-    2. The new Executive Committee shall be elected by the first meeting in March, to be installed at the last meeting of March following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
-    3. The Standing Officers shall be elected by the third meeting in March to be installed in the last meeting of March 
-
-30. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
-
-31. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
-
-32. Self-nominations are permitted in chapter or in submission to the Executive Committee.
-
-33. For any Member running for election, the following will be stated so as to provide evidince to their accountability to the chapter:
-    1. Current financial standing with the chapter
-    2. Any manditory enrollment in the Scholarship Plan for the past two semesters
-    3. Count of unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
-    
-34. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter.
-
-35. Speech order will be at the discretion of the Chair of the meeting.
-
-36. Following speeches is a question period. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered in under one minute, by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
-
-37. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted.
-
-38. All voting will be conducted inside the chapter meeting using the heads down fists up method or an instant-runoff ballot at the discretion of the Chair. Additionally if there is only one candidate there may be a vote by acclimation if successfully motioned. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
-    - President
-    - CAB Member
-    - Alumnus Member
-    - The Warden
-    - The Vice-President
-    - Treasurer
-    - Secretary
-
-39. The number of votes (including abstentions) for each vote must reach quorum.
-
-40. The order for March elections shall be as follows:
+29. The groupings and order of officers for elections shall be as follows:
     
     a. Executive Committee
        1. President (if neccessary)
@@ -176,7 +141,47 @@ ARTICLE IV: ELECTIONS
        3. Alumni Secretary
        4. Chorister
        5. Awards
+       
+    e. Presidential Officers
+       1. President
+       2. Vice President
 
+30. Officer elections shall take place as follows: 
+    1. The new Executive Committee shall be elected by the first meeting in March, to be installed at the last meeting of March following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
+    2. The Standing Officers shall be elected by the third meeting in March to be installed in the last meeting of March following a transition meeting. 
+    3. The Event Officers may be elected in any meeting however they must be installed before the end of the academic year.
+    4. The Communications officers shall only be elected after the initiation of the Winter Phikeia class and may be installed in the same meeting.
+    5. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. They shall be installed at the first meeting of the new calendar year. 
+    
+31. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
+
+32. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
+
+33. Self-nominations are permitted in chapter or in submission to the Executive Committee.
+
+34. For any Member running for election, the following will be stated so as to provide evidince of their accountability to the chapter:
+    1. Current financial standing with the chapter
+    2. Any manditory enrollment in the Scholarship Plan for the past two semesters
+    3. Count of excused and unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
+    
+35. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter except with the 75% veto of this bylaw.
+
+36. Speech order will be at the discretion of the Chair of the meeting.
+
+37. Following speeches is a question period. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered in under one minute, by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
+
+38. Following question period is a discussion. The candidates shall not be present for the discussion. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted.
+
+39. All voting will be conducted inside the chapter meeting using the heads down fists up method or an instant-runoff ballot at the discretion of the Chair. Additionally if there is only one candidate there may be a vote by acclimation if successfully motioned. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
+    - President
+    - CAB Member
+    - Alumnus Member
+    - The Warden
+    - The Vice-President
+    - Treasurer
+    - Secretary
+
+40. The number of votes (including abstentions) for each vote must reach quorum.
     
 41. During November elections the President shall be elected before the Vice-President.
     
