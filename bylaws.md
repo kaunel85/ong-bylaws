@@ -147,8 +147,8 @@ ARTICLE IV: ELECTIONS
        2. Vice President
 
 30. Officer elections shall take place as follows: 
-    1. The new Executive Committee shall be elected by the first meeting in March, to be installed at the last meeting of March following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
-    2. The Standing Officers shall be elected by the third meeting in March to be installed in the last meeting of March following a transition meeting. 
+    1. The new Executive Committee shall be elected by the second meeting in March, to be installed at the first meeting of April following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
+    2. The Standing Officers shall be elected by the third meeting in March to be installed in the first meeting of April following a transition meeting. 
     3. The Event Officers may be elected in any meeting however they must be installed before the end of the academic year.
     4. The Communications officers shall only be elected after the initiation of the Winter Phikeia class and may be installed in the same meeting.
     5. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. They shall be installed at the first meeting of the new calendar year. 
