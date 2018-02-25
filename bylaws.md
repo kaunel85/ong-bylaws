@@ -113,8 +113,8 @@ ARTICLE IV: ELECTIONS
 29. The groupings and order of officers for elections shall be as follows:
     
     a. Executive Committee
-       1. President (if neccessary)
-       2. Vice President (if neccessary)
+       1. President (if necessary)
+       2. Vice President (if necessary)
        3. Treasurer
        4. Recruitment Chairman
        5. Warden
@@ -159,7 +159,7 @@ ARTICLE IV: ELECTIONS
 
 33. Self-nominations are permitted in chapter or in submission to the Executive Committee.
 
-34. For any Member running for election, the following will be stated so as to provide evidince of their accountability to the chapter:
+34. For any Member running for election, the following will be stated so as to provide evidence of their accountability to the chapter:
     1. Current financial standing with the chapter
     2. Any academic program strikes for the past two semesters
     3. Count of excused and unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
@@ -512,4 +512,4 @@ ARTICLE X: COMMITTEES
      1. Be Chaired by the House Manager
      2. Consist of the House Manager, Vice-President, and other Active Members.
      3. Be responsible for the organization, cleanliness, and good operation of the Chapter House
-     4. Be resposnible for determining which Actives and Alum shall live in the house, with the approval of the Executive
+     4. Be responsible for determining which Actives and Alum shall live in the house, with the approval of the Executive
