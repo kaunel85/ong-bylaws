@@ -161,7 +161,7 @@ ARTICLE IV: ELECTIONS
 
 34. For any Member running for election, the following will be stated so as to provide evidince of their accountability to the chapter:
     1. Current financial standing with the chapter
-    2. Any manditory enrollment in the Scholarship Plan for the past two semesters
+    2. Any academic program strikes for the past two semesters
     3. Count of excused and unexcused absences from regular meetings in the current academic term as stated in Section 19.3.
     
 35. Each President and Vice-President candidate will be allotted a 3 minute speech period. Other officer candidates will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter except with the 75% veto of this bylaw.
