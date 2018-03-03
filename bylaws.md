@@ -122,18 +122,18 @@ ARTICLE IV: ELECTIONS
        7. Secretary
            
     b. Standing Officers
-       1. Risk Management Chair
-       2. Chaplain 
-       3. Scholarship
-       4. House Manager
+       1. Chaplain 
+       2. Scholarship
+       3. House Manager
+       4. Athletics Chair
        5. Greek Council Representative
        
     c. Event Officers
-       1. Social Chairman
-       2. Brotherhood Chairman
-       3. Philanthropy Chairman 
-       4. Fundraising Chairman
-       5. Athletics Chair
+       1. Risk Management Chair
+       2. Social Chairman
+       3. Brotherhood Chairman
+       4. Philanthropy Chairman 
+       5. Fundraising Chairman
        
     d. Communications Officers
        1. Social Media Chairman
