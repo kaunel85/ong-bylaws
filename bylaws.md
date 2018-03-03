@@ -147,11 +147,11 @@ ARTICLE IV: ELECTIONS
        2. Vice President
 
 30. Officer elections shall take place as follows: 
-    1. The new Executive Committee shall be elected by the second meeting in March, to be installed at the first meeting of April following a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee.
-    2. The Standing Officers shall be elected by the third meeting in March to be installed in the first meeting of April following a transition meeting. 
-    3. The Event Officers may be elected in any meeting however they must be installed before the end of the academic year.
-    4. The Communications officers shall only be elected after the initiation of the Winter Phikeia class and may be installed in the same meeting.
-    5. Presidential and Vice-Presidential elections shall take place no later than the second chapter meeting in November. They shall be installed at the first meeting of the new calendar year. 
+    1. The new Executive Committee elect shall be elected by the second meeting in March. The Executive Committee elect will undergo a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee. The Executive Committee will be elected (likely by acclimation) and installed at the first meeting of April.
+    2. The Standing Officers elect shall be elected by the third meeting in March. The officers elect will be given a transition meeting. The Standing Officers will be elected (likely by acclimation) and installed at the first meeting of April.
+    3. The Event Officers may be elected in any meeting and be installed before the end of the academic year according to The Code Section 115.
+    4. The Communications officers shall only be elected after the initiation of the Winter Phikeia class and be installed according to The Code Section 115.
+    5. Presidential Officers elect shall be elected no later than the second chapter meeting in November. The Presidential Officers shall be elected (likely by acclimation) and installed at the first meeting of the new calendar year. 
     
 31. Nominations for President and Vice-President will open two chapter meetings prior to the election date. Nominations for all other officers will be open for one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
