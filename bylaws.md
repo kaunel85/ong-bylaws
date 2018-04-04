@@ -199,7 +199,10 @@ ARTICLE IV: ELECTIONS
 
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
-48. Annual dues will be voted on by the Chapter at the final meeting of the academic year, and must be approved by a 66% vote of the entire active chapter. This amount may change by a subsequent 85% vote of the entire active chapter. Dues may vary from year to year.
+48. At the end of the academic year each returning member shall submit their desired change to active member dues to the executive committee.
+    1. If 85% of submissions seek to increase or decrease dues then a new amount will be proposed.
+    2. The amount shall be determinged by the 85th percentile vote, meaning 85% of the chapter wanted a larger change and only 15% less extreme. All rounding shall be towards the last years values.
+    3. This amount shall be ratified with a 66% vote at the first quorom of the next year, defaulting to the last years dues if failed.
 
 49. The Chapter will use a projected budget system to determine the dues amount.
 
