@@ -200,28 +200,9 @@ ARTICLE IV: ELECTIONS
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
 48. At the end of the academic year each returning member shall submit their desired increase or decrease to active member dues to the executive committee.
-    1. If X% of submissions seek to increase or decrease dues then a new amount will be proposed.
-    2. The amount shall be determinged by the X'th percentile vote, meaning only X'% or fewer wanted less extreme or the reverse changes. As an example, considering the following desired changes with X=85%. 85% of submitted changes desire an increase so one will occur. The 15th percentile vote is +50. The recomended dues change will be +50 
-          
-          | Percentile | Desired Change |
-          |------------|----------------|
-          |0.93| +450 |
-          |0.86| +100 |
-          |0.8| +100 |
-          |0.73| +100 |
-          |0.66| +100 |
-          |0.6| +75 |
-          |0.53| +75 |
-          |0.46| +75 |
-          |0.4 | +50 |
-          |0.33| +50 |
-          |0.26| +50 |
-          |**0.2**|**+50**|
-          |0.13| +50 |
-          |0.06| 0 |
-          |0.00| -50 |
-          
-    4. This amount shall be ratified with a 66% vote at the first quorom of the next year, defaulting to the last years dues if failed.
+    1. If a majority wishes to increase or decrease dues, one shall be considered. Any change made shall only displease X% of voters.
+    2. The amount shall be determined by sorting the change requests and removing the X% of the values (rounding down) least in favor of the change. The least extreme remaining change is the amount to be proposed
+    3. This amount shall be ratified with a 66% vote at the first quorom of the next academic year, defaulting to the last years dues if failed.
 
 49. The Chapter will use a projected budget system to determine the dues amount.
 
