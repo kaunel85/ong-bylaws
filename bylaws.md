@@ -199,9 +199,9 @@ ARTICLE IV: ELECTIONS
 
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
-48. At the end of the academic year each returning member shall submit their desired increase or decrease to active member dues to the executive committee.
-    1. If a majority wishes to increase or decrease dues, one shall be considered. Any change made shall only displease X% of voters.
-    2. The amount shall be determined by sorting the change requests and removing the X% of the values (rounding down) least in favor of the change. The least extreme remaining change is the amount to be proposed
+48. At a Chapter Meeting at the end of the year all members and the executive shall present to the chapter on their motivations for dues changes. At the end of the academic year each returning member shall submit their desired increase or decrease to active member dues to the executive committee.
+    1. If a majority wishes to increase or decrease dues, one shall be considered. Any change made shall only be greater than the desired change of 20% of voters.
+    2. The amount shall be determined by sorting the change requests and removing the 20% of the values (rounding down) least in favor of the change. The least extreme remaining change is the amount to be proposed
     3. This amount shall be ratified with a 66% vote at the first quorom of the next academic year, defaulting to the last years dues if failed.
 
 49. The Chapter will use a projected budget system to determine the dues amount.
