@@ -121,19 +121,19 @@ ARTICLE IV: ELECTIONS
        6. Phikeia Educator
        7. Secretary
            
-    b. Standing Officers
-       1. Risk Management Chair
-       2. Chaplain 
-       3. Scholarship
-       4. House Manager
+    b. Membership Improvement Officers
+       1. Chaplain 
+       2. Scholarship
+       3. House Manager
+       4. Athletics Chair
        5. Greek Council Representative
        
     c. Event Officers
-       1. Social Chairman
-       2. Brotherhood Chairman
-       3. Philanthropy Chairman 
-       4. Fundraising Chairman
-       5. Athletics Chair
+       1. Risk Management Chair
+       2. Social Chairman
+       3. Brotherhood Chairman
+       4. Philanthropy Chairman 
+       5. Fundraising Chairman
        
     d. Communications Officers
        1. Social Media Chairman
@@ -409,15 +409,13 @@ ARTICLE X: COMMITTEES
 ---------------------
 105. The standing committees of the Chapter shall be:
      1. Executive Committee 
-     2. Recruitment
+     2. Risk Management 
+     2. Events
      3. Finance
+     4. Member Improvement Committee
      4. Judiciary
      5. Pallas
-     6. Risk Management 
      7. Awards Committee 
-     8. Social Committee
-     9. Brotherhood Committee
-     10. Fundraising Committee
      11. Scholarship Committee
      12. Housing Committee
      
@@ -426,26 +424,47 @@ ARTICLE X: COMMITTEES
 107. The Executive Committee shall:
      1. Be chaired by the Vice-President
      2. Consist of the President, Vice-President, Treasurer, Recruitment Chair, Warden, Phikeia Educator and Secretary
-     3. Meet at least bi-weekly, but weekly during the school year
+     3. Meet at least bi-weekly, but weekly during the academic year
      4. Excepting when discussing conduct of an individual Member any Active, Alumnus, or Phikeia may be present and speak in the meeting
      5. Oversee general operations of the chapter and any task that does not fall under the purview of another officer
      6. Oversee any disciplinary action or direct a Judiciary Committee to review the situation
-    
-108. The Recruitment Committee shall:
+     
+112. The Risk Management Committee shall:
+     1. Be chaired by the Risk Management Chairman.
+     2. Consist of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President, and other Active Members.
+     3. Ensure that all event planners are aware of the the risk management policies and procedures.
+     4. Serve as consult during the planning of events and submission of risk management forms.
+     5. Develop recommendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals. 
+     
+108. The Events Committee shall:
      1. Be chaired by the Recruitment Chair
-     2. Consist of the Chair, Assistant chairs, and at least 3 other active Members
-     3. Meet at least bi-weekly
-     4. The committee shall be responsible for planning, organizing, and implementing all aspects of the Chapter’s Recruitment Program
-     5. The Recruitment Committee will work with other Chairs to produce a semesterly formal recruitment period representative of the best the Chapter offers
-     6. Shall lead continuous recruitment efforts of the chapter
-    
+     2. Consist of the Recruitment Chair, Risk Management Chair, Social Chairman, Brotherhood Chairman, Philanthropy Chairman, Fundraising Chairman and any person appointed by the President, Chair, or a majority vote of the committee
+     3. Meet weekly during the academic year
+     4. Complete the following functions:
+        a. Serve as Recruitment Committee and support the Recruitment Chair in all aspects of the Chapter’s Recruitment Program including continuous recruitment efforts of the chapter and producing a semesterly formal recruitment period representative of the best the Chapter offers
+        b. Be responsible for supporting the Social Chair in the organization of regular chapter social events with outside persons and organizations and be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty
+        c. Be responsible for supporting the Brrotherhood Chair in the organization of regular brotherhood events to promote closeness between Members.
+        d. Be responsible for supporting the Philanthropy Chair in the organization of community service events and for the raising of funds for charity.
+        e. Be responsible for supporting the Fundraising Chair in the organization of events for the raising of funds for chapter operations.
+
 109. The Finance Committee shall:
      1. Be chaired by the Treasurer
      2. Consist of the Chair, President, Finance Advisor, and any interested Members.
      3. Prepare the annual budget
      4. Meet bi-weekly
      5. Review transactions performed since the last meeting and ensure they are journaled correctly and accounted for
-     6. Shall serve as a base of understanding of the financial situation for officers and the chapter at large
+     6. Serve as a base of understanding of the financial situation for officers and the chapter at large
+     
+110. The Membership Improvement Committee shall:
+     1. Be chaired by the 
+     2. Consist of the Chaplain, Scholarship, House Manager, Athletics Chair, Greek Council Representative and any person appointed by the President, Chair, or a majority vote of the committee
+     3. Meet weekly during the academic year
+     4. Complete the following functions:
+        a. Serve as Scholarship Committee responsible for supporting the Scholarship Chair in the organization of the scholarship program and management of academic resources.
+        b. Be responsible for supporting the Chaplain in 
+        c. Be responsible for supporting the House Manager in ensuring the Chapter House is an environment where members can better themselves that is clean and functional
+        d. Be responsible for supporting the Athletics Chair in the organization of events and programs to support the athletic wellness of the Chapter
+        e. Be responsible for supporting the Greek Council Representative in ensuring members see a maximum return from the broader greek community
      
 110. The Judiciary Committee shall:
      1. Be chaired by the Warden
@@ -463,13 +482,6 @@ ARTICLE X: COMMITTEES
      5. Be responsible for handling all disciplinary issues relating to the Phikeia program (see Sections 81 and 82).
      6. Be responsible for creating the educational curriculum and planning Phikeia retreat and initiation.
      7. If available member of the Chapter Advisory Board shall attend Pallas Committee meetings.
-    
-112. Risk Management Committee
-     1. Chaired by the Risk Management Chairman.
-     2. Consists of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President, and other Active Members.
-     3. Ensure that all event planners are aware of the the risk management policies and procedures.
-     4. Serve as consult during the planning of events and submission of risk management forms.
-     5. Develop recommendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals. 
      
 113. The Awards Committee shall:
      1. Be chaired by the Awards Chair
@@ -486,30 +498,3 @@ ARTICLE X: COMMITTEES
         8. Scholastic Achievement 
         9. Phi Delt Sweetheart
         10. Brian Shaw Dedication In Life to the Fraternity Award
-
-114. Social Committee
-     1. Be Chaired by the Social Chair
-     2. Consist of the Social Chair, Vice-President, and other Active Members.
-     3. Be responsible for the organization of regular chapter social events with outside persons and organizations.
-     4. Be responsible for the organization and execution of a Chapter Formal and Founder's Day Afterparty  
-
-115. Brotherhood Committee
-     1. Be Chaired by the Brotherhood Chair
-     2. Consist of the Brotherhood Chair, Vice-President, and other Active Members.
-     3. Be responsible for the organization of regular brotherhood events to promote closeness between Members.
-          
-116. Fundraising Committee
-     1. Be Chaired by the Fundraising Chair
-     2. Consist of the Fundraising Chair, Vice-President, Alumni Secretary and other Active Members.
-     3. Be responsible for the organization of events for the raising of funds for chapter operations.
-
-117. Scholarship Committee
-     1. Be Chaired by the Scholarship Chair
-     2. Consist of the Scholarship Chair, Vice-President, and other Active Members.
-     3. Be responsible for the organization of the scholarship program and management of academic resources.
-
-118. Housing Committee
-     1. Be Chaired by the House Manager
-     2. Consist of the House Manager, Vice-President, and other Active Members.
-     3. Be responsible for the organization, cleanliness, and good operation of the Chapter House
-     4. Be responsible for determining which Actives and Alum shall live in the house, with the approval of the Executive
