@@ -182,17 +182,23 @@ ARTICLE IV: ELECTIONS
 41. During November elections the President shall be elected before the Vice-President.
 
 42. Executive candidates shall be elected by an instant-runoff ballot or a majority vote of the Active Members in attendance.
+    1. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from the running and another round of voting will occur with the remaining candidates. This will repeat until a majority is reached.
 
-43. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from the running and another round of voting will occur with the remaining candidates. This will repeat until a majority is reached.
+43. If a tie vote occurs, an additional round of speeches or question period (at the discretion of the chair) will occur before another round of voting.
 
-44. If a tie vote occurs, an additional round of speeches or question period (at the discretion of the chair) will occur before another round of voting.
+44. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
 
-45. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
+45. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 25 eligible Active Members.
 
-46. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 25 eligible Active Members.
+46. For any vacant position the Executive Committee may appoint by 66% vote, an Active Member to fill the vacancy for a term valid until the Chapter motions for an election or the next scheduled election.
 
-47. For any vacant position the Executive Committee may appoint by 66% vote, an Active Member to fill the vacancy for a term valid until the Chapter motions for an election or the next scheduled election.
-
+47. The Chapter shall be able to appoint the lifetime honor of Chapter Sweetheart to people who have shown great support for our Chapter and the general Fraternity but are ineligible for membership.
+    1. Sweethearts will have the gratitude of Chapter Members and may be given a token as such as deemed appropriate by the Executive. 
+    2. Sweethearts shall also be able to wear the letters of Phi Delta Theta and attend some Chapter events typically not accessible to non-members.
+    3. To appoint a new Sweetheart any member may present a motion to appoint a specific individual as Sweetheart.
+    4. At any Chapter Meeting following the motion a discussion shall be held. Because of the magnitude of the appointment, discussion shall continue until the question is called or the matter is tabled.
+    5. If many motions to appoint a Sweetheart are present the Chapter may motion to use any voting system to limit selection to one Sweetheart. This is not required as there is no restriction on how many Sweethearts may be appointed in any time period, so long as they all meet the Chapter's expectations for a Sweetheart.
+    
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
 48. Annual dues will be voted on by the Chapter at the final meeting of the academic year, and must be approved by a 66% vote of the entire active chapter. This amount may change by a subsequent 85% vote of the entire active chapter. Dues may vary from year to year.
@@ -483,5 +489,4 @@ ARTICLE X: COMMITTEES
        - Rookie of the Year
        - Alumnus of the Year
        - Scholastic Achievement
-       - Phi Delt Sweetheart
        - Brian Shaw Dedication In Life to the Fraternity Award
