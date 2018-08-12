@@ -38,7 +38,7 @@ NOW, THEREFORE, it is agreed between the Chapter and the Landlord as follows:
 7. The Chapter agrees to support and enforce the alcohol-free housing policy adopted by Phi Delta Theta. No member or guest shall consume or possess alcoholic beverages on the property or in the facility.
 
 8. This agreement between the Landlord and the Chapter may only be revoked by the following conditions:
-   - If by January 31 of a given year the Landlord has not through his best efforts signed agreements for house revenue for the May 1 to April 31 rental period greater than the previous year, this agreement he may blamelessly revoke this agreement as of April 31 of that year and sign a lease(s) for the coming rental period starting in May without restriction. Notice of this revocation must be supplied by February 7 of the given year.
+   - If by January 31 of a given year the Landlord has not through his best efforts signed agreements for revenue from the house for the May 1 to April 31 rental period greater or equal to those from the previous year, this agreement he may blamelessly revoke this agreement as of April 31 of that year and sign a lease(s) for the coming rental period starting in May without restriction. Notice of this revocation must be supplied by February 7 of the given year.
    - If is is agreed by the Landlord and either of the Chapter's Province President or Chapter Advisory Board that the Chapter should no longer have the use of a Chapter House the agreement may be revoked immediately.
    - The Chapter may choose to withdrawal from this agreement as of April 31 of a given year, so long as notice is given by January 31 of that year.
    - The mutual agreement of the Landlord and the Chapter can revoke the agreement immediately.
