@@ -1,7 +1,7 @@
 # Contract Between Landlord and Chapter 
 
 THIS AGREEMENT entered into on the &emsp; &emsp; day of &emsp; &emsp; &emsp; &emsp;,
-2018, in the City of Hamilton, Province of Ontario, by and between the Ontario Gamma Chapter of Phi Delta Theta, an unincorporated association (hereinafter, referred to as "the Chapter") and Micheal Osadciw, (hereinafter, referred to as "the Landlord")
+2018, in the City of Hamilton, Province of Ontario, by and between the Ontario Gamma Chapter of Phi Delta Theta, an unincorporated association (hereinafter, referred to as "the Chapter") as represented by two of its President, Vice-President, and Treasurer and Micheal Osadciw, (hereinafter, referred to as "the Landlord")
 
 WHEREAS, the Chapter is a social, leadership, and community service organization among members of a student body of McMaster University.
 
@@ -37,7 +37,13 @@ NOW, THEREFORE, it is agreed between the Chapter and the Landlord as follows:
 
 7. The Chapter agrees to support and enforce the alcohol-free housing policy adopted by Phi Delta Theta. No member or guest shall consume or possess alcoholic beverages on the property or in the facility.
 
-8. If by January 31 of a given year the Landlord has not signed agreements for $4000 in monthly rent or other compensation for the May 1 to April 31 rental period starting in that year, he may blamelessly sign a lease(s) for the rental period starting in May of that year without restriction. All other obligations of the Landlord and the Chapter from this document would be revoked May 1 of that year.
+8. This agreement between the Landlord and the Chapter may only be revoked by the following conditions:
+   - If by January 31 of a given year the Landlord has not through his best efforts signed agreements for house revenue for the May 1 to April 31 rental period greater than the previous year, this agreement he may blamelessly revoke this agreement as of April 31 of that year and sign a lease(s) for the coming rental period starting in May without restriction. Notice of this revocation must be supplied by February 7 of the given year.
+   - If is is agreed by the Landlord and either of the Chapter's Province President or Chapter Advisory Board that the Chapter should no longer have the use of a Chapter House the agreement may be revoked immediately.
+   - The Chapter may choose to withdrawal from this agreement as of April 31 of a given year, so long as notice is given by January 31 of that year.
+   - The mutual agreement of the Landlord and the Chapter can revoke the agreement immediately.
+   
+   If the obligations of the Landlord and the Chapter arising from this document are revoked, all duties outlined in individual leases continue for the term of the lease. 
 
 THIS AGREEMENT shall govern the business relations between the Landlord and the Chapter unless it is altered, amended, or revoked by mutual agreement of the Parties.
 
@@ -45,5 +51,6 @@ THIS AGREEMENT in entered into on the date and the place first stated above.
 
 || Signed by | Signature | Date | 
 |-|-|-|-|
+| Phi Delta Theta Ontario Gamma | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; |
 | Phi Delta Theta Ontario Gamma | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; |
 | Landlord | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; |
