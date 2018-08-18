@@ -1,7 +1,7 @@
 Phi Delta Theta Fraternity  - Ontario Gamma Bylaws
 ==========================================================================
 
-###### Amended January 2018
+###### Amended August 2018
 
 Preamble
 --------
@@ -110,7 +110,9 @@ ARTICLE III: DUTIES OF OFFICERS
 
 ARTICLE IV: ELECTIONS
 ---------------------
-29. The groupings of officers and order of elections for general elections shall be as follows:
+29. The Parliamentarian of the Chapter shall be appointed by the President.
+
+30. The groupings of officers and order of elections for general elections shall be as follows:
 
     - Executive Committee
        1. President (if necessary)
@@ -142,27 +144,25 @@ ARTICLE IV: ELECTIONS
        4. Chorister
        5. Awards
 
-30. Officer elections shall take place as follows: 
+31. Officer elections shall take place as follows: 
     1. The new Executive Committee elect shall be elected by the second meeting in March. The Executive Committee elect will undergo a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee. The Executive Committee will be elected (likely by acclimation) and installed at the first meeting of April.
     2. The Member Development Officers elect shall be elected by the third meeting in March. The officers elect will be given a transition meeting. The Standing Officers will be elected (likely by acclimation) and installed at the first meeting of April.
     3. The Event Officers may be elected in any meeting and be installed before the end of the academic year according to The Code Section 115.
     4. The Communications officers shall only be elected after the initiation of the Winter Phikeia class and be installed according to The Code Section 115.
     5. The President elect and Vice-President elect shall be elected no later than the second chapter meeting in November. The Presidential Officers shall be elected (likely by acclimation) and installed at the first meeting of the new calendar year. 
     
-31. Nominations for President and Vice-President will open for at least two chapter meetings prior to the election date. Nominations for all other officers will be open for at least one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
+32. Nominations for President and Vice-President will open for at least two chapter meetings prior to the election date. Nominations for all other officers will be open for at least one chapter meeting prior to the election date. Nominations will be open until they are closed to begin election procedure.
 
-32. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
+33. The nomination process will be as follows: A nomination is made and seconded by Active Members in chapter or submitted to a member of the Executive Committee. The nomination must be accepted by the nominee. There is no limitation to how many nominations may be submitted throughout the nomination period.
 
-33. Self-nominations are permitted in chapter or in submission to the Executive Committee.
+34. Self-nominations are permitted in chapter or in submission to the Executive Committee.
 
-34. For any Member running for election, the following will be stated so as to provide evidence of their accountability to the chapter:
+35. For any Member running for election, the following will be stated so as to provide evidence of their accountability to the chapter:
     - Current financial standing with the chapter
     - Any academic program strikes for the past two semesters
     - Count of excused and unexcused absences from regular meetings in the current academic term as stated in Section 19.3
 
-35. Each candidate for President and Vice-President will be allotted a 3 minute speech period. Candidates for other officer positions will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter except with the 75% veto of this bylaw.
-
-36. Speech order will be at the discretion of the Chair of the meeting.
+36. Each candidate for President and Vice-President will be allotted a 3 minute speech period. Candidates for other officer positions will be allotted a 2 minute speech period. This cannot be changed by a motion of the chapter except with the 75% veto of this bylaw. Speech order will be at the discretion of the Chair of the meeting.
 
 37. Following speeches is a question period. During the period, a speakers list is opened that the Chair can close following his best judgement. After closing, any names on the speakers list must be exhausted. Questions must be answered in under one minute, by all candidates, and may be presented 'booth style' so candidates do not hear each other's answers.
 
