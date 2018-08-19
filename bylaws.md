@@ -363,7 +363,7 @@ ARTICLE IX: DISCIPLINE
      1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
      2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
      3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
-     4. If the potential judicial members have not been selected for the semester when it is required that one be called, the Warden shall use his best judgement in the selection of four uninvolved, unbiased, and representative members to sit on the committee.
+     4. If the potential judicial members have not been selected for the semester or three or more judicial members declare their unavailability to serve on a committee when it is required that one be called, the Warden shall use his best judgement in the selection of uninvolved, unbiased, and representative members to fill the committee.
 
 99. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
@@ -465,7 +465,7 @@ ARTICLE X: COMMITTEES
 
 112. The Events Committee shall:
      - Be chaired by the Recruitment Chair
-     - Consist of the Recruitment Chair, Risk Management Chair, Social Chairman, Brotherhood Chairman, Philanthropy Chairman, Fundraising Chairman and any person appointed by the President, Chair, or a majority vote of the committee
+     - Consist of the Recruitment Chair, Risk Management Chair, Social Chairman, Brotherhood Chairman, Philanthropy Chairman, Fundraising Chairman and appointees
      - Serve as Recruitment Committee as described in The Code Section 127.2 and support the Recruitment Chair in all aspects of the Chapter’s Recruitment Program including continuous recruitment efforts of the chapter and producing a semesterly formal recruitment period representative of the best the Chapter offers
      - Assist the Events officers in the completion of their duties
 
@@ -490,3 +490,9 @@ ARTICLE X: COMMITTEES
        - Alumnus of the Year
        - Scholastic Achievement
        - Brian Shaw Dedication In Life to the Fraternity Award
+
+115. Housing Committee
+     - Be Chaired by the House Manager
+     - Consist of the House Manager, Vice-President, Chapter House Tenants, and appointees.
+     - Be responsible for the organization, cleanliness, and good operation of the Chapter House
+     - Be responsible for determining which Actives and Alum shall live in the house, with the approval of the Executive
