@@ -110,7 +110,7 @@ ARTICLE III: DUTIES OF OFFICERS
 
 ARTICLE IV: ELECTIONS
 ---------------------
-29. The Parliamentarian of the Chapter shall be appointed by the President.
+29. The Parliamentarian, Chorister, and Librarian of the Chapter shall be appointed by the President.
 
 30. The groupings of officers and order of elections for general elections shall be as follows:
 
@@ -136,13 +136,13 @@ ARTICLE IV: ELECTIONS
        3. Brotherhood Chairman
        4. Philanthropy Chairman
        5. Fundraising Chairman
+       6. Community Service Chairman
 
     - Communications Officers
        1. Social Media Chairman
        2. Historian
        3. Alumni Secretary
-       4. Chorister
-       5. Awards
+       4. Awards
 
 31. Officer elections shall take place as follows: 
     1. The new Executive Committee elect shall be elected by the second meeting in March. The Executive Committee elect will undergo a direct mentorship period and a transition retreat facilitated by the outgoing Executive Commitee. The Executive Committee will be elected (likely by acclimation) and installed at the first meeting of April.
