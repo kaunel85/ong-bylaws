@@ -418,7 +418,7 @@ ARTICLE X: COMMITTEES
      - Host meetings on a weekly or bi-weekly basis during Fall and Winter classes and make their time and place know to Active members
      - Allow any Active, Alumnus, or Phikeia to be present and speak appropriately
      - Be chaired by a committee member as elected by the committee
-     - Extend a voting seat to any person appointed by the Chapter President, the committee's Chair, or a majority vote of that committee
+     - Extend a voting seat to any person appointed by the Chapter President, the committee's Chair, or a majority vote of that committee. Voting seats may be revoked by any two of the bodies who can grant them.
 
 107. The Executive Committee shall operate as described in The Code Section 127 and shall:
      - Be chaired by the Vice-President
@@ -449,7 +449,7 @@ ARTICLE X: COMMITTEES
      - See Section 98 for procedure on how to choose members for the Judiciary Committee
 
 111. The Pallas Committee shall:
-     - Be chaired by a member elected who is not the Phikeia Educator or a Big Brother
+     - Be chaired by a member elected by the committee who is not the Phikeia Educator or a Big Brother
      - Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, an experienced member and optionally an alumnus
      - Be responsible for reviewing Big Brother Applications, selecting Big Members, and making Big Brother-Little Brother pairings no later than the second meeting of the Phikeia program
      - Meet weekly when there is a Phikeia class in session
