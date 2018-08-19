@@ -192,12 +192,7 @@ ARTICLE IV: ELECTIONS
 
 46. For any vacant position the Executive Committee may appoint by 66% vote, an Active Member to fill the vacancy for a term valid until the Chapter motions for an election or the next scheduled election.
 
-47. The Chapter shall be able to appoint the lifetime honor of Chapter Sweetheart to people who have shown great support for our Chapter and the general Fraternity but are ineligible for membership.
-    1. Sweethearts will have the gratitude of Chapter Members and may be given a token as such as deemed appropriate by the Executive. 
-    2. Sweethearts shall also be able to wear the letters of Phi Delta Theta and attend some Chapter events typically not accessible to non-members.
-    3. To appoint a new Sweetheart any member may present a motion to appoint a specific individual as Sweetheart.
-    4. At any Chapter Meeting following the motion a discussion shall be held. Because of the magnitude of the appointment, discussion shall continue until the question is called or the matter is tabled.
-    5. If many motions to appoint a Sweetheart are present the Chapter may motion to use any voting system to limit selection to one Sweetheart. This is not required as there is no restriction on how many Sweethearts may be appointed in any time period, so long as they all meet the Chapter's expectations for a Sweetheart.
+47. -
     
 ARTICLE V: CHAPTER FINANCES AND BUDGETING
 -----------------------------------------
@@ -421,7 +416,8 @@ ARTICLE X: COMMITTEES
 
 106. Unless otherwise specified committees shall:
      - Host meetings on a weekly or bi-weekly basis during Fall and Winter classes and make their time and place know to Active members
-     - Allow any Active, Alumnus, or Phikeia to be present and speak
+     - Allow any Active, Alumnus, or Phikeia to be present and speak appropriately
+     - Be chaired by a committee member as elected by the committee
      - Extend a voting seat to any person appointed by the Chapter President, the committee's Chair, or a majority vote of that committee
 
 107. The Executive Committee shall operate as described in The Code Section 127 and shall:
@@ -433,16 +429,14 @@ ARTICLE X: COMMITTEES
      - When discussing the conduct of an individual Member the committee must go 'in camera', dismiss non executives, and exempt personal details from the minutes
 
 108. The Risk Management Committee shall function as described in The Code Section 127.1 and shall:
-     - Be chaired by the Risk Management Chairman
      - Consist of the Risk Management Chairman, Phikeia Educator, Social Chairman, Brotherhood Chair, House Manager, President
      - Ensure that all event planners are aware of the the risk management policies and procedures
      - Serve as consult during the planning of events and submission of risk management forms
      - Develop recommendations, rules, and bylaws to minimize risk to the Chapter, property, and individuals
 
 109. The Finance Committee shall function as described in The Code Section 128 and shall:
-     - Be chaired by the Treasurer
-     - Consist of the Chair, President, and Finance Advisor
-     - Prepare the annual budget
+     - Consist of the Treasurer, President, and Finance Advisor
+     - Assist the Executive Committee in preparing the annual budget
      - Review transactions performed since the last meeting and ensure they are journaled correctly and accounted for
      - Serve as a base of understanding of the financial situation for officers and the chapter at large
 
@@ -455,7 +449,7 @@ ARTICLE X: COMMITTEES
      - See Section 98 for procedure on how to choose members for the Judiciary Committee
 
 111. The Pallas Committee shall:
-     - Be chaired by a member who is not the Phikeia Educator or a Big Brother
+     - Be chaired by a member elected who is not the Phikeia Educator or a Big Brother
      - Consist of the Phikeia Educator, Recruitment Chair, Scholarship Chair, an experienced member and optionally an alumnus
      - Be responsible for reviewing Big Brother Applications, selecting Big Members, and making Big Brother-Little Brother pairings no later than the second meeting of the Phikeia program
      - Meet weekly when there is a Phikeia class in session
@@ -464,15 +458,13 @@ ARTICLE X: COMMITTEES
      - If available member of the Chapter Advisory Board shall attend Pallas Committee meetings
 
 112. The Events Committee shall:
-     - Be chaired by the Recruitment Chair
      - Consist of the Recruitment Chair, Risk Management Chair, Social Chairman, Brotherhood Chairman, Philanthropy Chairman, Fundraising Chairman and appointees
-     - Serve as Recruitment Committee as described in The Code Section 127.2 and support the Recruitment Chair in all aspects of the Chapter’s Recruitment Program including continuous recruitment efforts of the chapter and producing a semesterly formal recruitment period representative of the best the Chapter offers
+     - Serve as Recruitment Committee as described in The Code Section 127.2 and be chaired by the Recruitment Chair when supporting his operation of the Chapter’s Recruitment Program. This includes continuous recruitment efforts of the chapter and producing a semesterly formal recruitment period representative of the best the Chapter offers
      - Assist the Events officers in the completion of their duties
 
 
 113. The Member Development Committee shall:
-     - Be chaired by the Warden or Phikeia Educator or Treasurer
-     - Consist of the Warden, Chaplain, Scholarship, House Manager, Athletics Chair, Greek Council Representative, and appointees
+     - Consist of the Chaplain, Scholarship, House Manager, Athletics Chair, Greek Council Representative, appointees, and at least one executive
      - Serve as Scholarship Committee as described in The Code Section 125.3 responsible for supporting the Scholarship Chair in the organization of the scholarship program and management of academic resources
      - Assist the Member Development officers in the completion of their duties
 
@@ -495,4 +487,3 @@ ARTICLE X: COMMITTEES
      - Be Chaired by the House Manager
      - Consist of the House Manager, Vice-President, Chapter House Tenants, and appointees.
      - Be responsible for the organization, cleanliness, and good operation of the Chapter House
-     - Be responsible for determining which Actives and Alum shall live in the house, with the approval of the Executive
