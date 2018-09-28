@@ -232,45 +232,38 @@ Article VI: Phikeias
 
 Article VII: The Chapter House
 -------------------------------
-66. Members will be fully responsible for the actions of their guests.
 
-67. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
+66. In the absence of an agreement between the Chapter and a housing provider, a 2/3 vote of the chapter may enter into an agreement for the use of their residince as a Chapter property
 
-68. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common areas requires the approval of the Ontario Gamma Property Manager.
+66. House rules shall be included as Appendix D to these bylaws and be modified by the double objection vote of the house's tenants. 
 
-69. Before hosting an event agreed to by the common areas of the house should be cleaned to a standard acceptable to the event's manager. This should be done by the tenants for basic tidying, but more involved cleaning should be supported by other members.
+67. Members will be fully responsible for the actions of their guests.
 
-70. After events and meetings making use of the house Active Members will be responsible for cleaning the common living areas of the house to the standard of the tenants.
+68. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
 
-71. Members may only stay at the house as guests of the tenants, there is no right to stay over. Guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the tenant whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
-
-72. Smoking on chapter property is only permitted on days specified in advance by the Executive or Housing Committee. If a day has not been specified as a smoking day, the 66% consent of present Executive or Housing Committee members who will not be smoking may overrule this.
-    1. Smoking must occur on the back patio of the Fraternity House.
-    2. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
-
-73. A snow removal plan will be in place by the House Manager and Vice-President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snow clearing contract is required, the House Manager are responsible for securing a contract prior to September 30th. All Members living in and using the House are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
+69. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
 
 Article IIX: Discipline
 ----------------------
-74. The Judiciary process will be followed as outlined in the Procedures
+70. The Judiciary process will be followed as outlined in the Procedures
 
-75. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
+71. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
 
-76. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
+72. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
-77. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section TODO Payment Plans.
+73. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section TODO Payment Plans.
 
-78. The Judiciary Committee may recommend justice based on their best judgement. These options include:
+74. The Judiciary Committee may recommend justice based on their best judgement. These options include:
     - Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
     - Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
     - Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the Executive Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
 
 Article IX: Committees
 ---------------------
-79. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
+75. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
 
-80. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
+76. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
 
 Procedures
 ==========
