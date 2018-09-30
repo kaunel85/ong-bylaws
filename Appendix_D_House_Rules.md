@@ -51,44 +51,43 @@ ARTICLE III: STANDARDS REGARDING CHAPTER USE OF THE HOUSE
 ---------------------------------------------------------
 
 11. Scheduled Chapter meetings and initiations may be hosted at the house.
-   1. The Chapter shall restore the house to its regular working condition after meetings or initiations. 
-   2. In the extreme case a meeting runs past 11:59pm, any house tenant may force the close of the meeting. 
-      1. No business may follow the request to close except the closing ceremony. 
-      2. The house should be promptly vacated by non-tenants after a forced close of meeting or if requested by a tenant.
+    1. The Chapter shall restore the house to its regular working condition after meetings or initiations. 
+    2. In the extreme case a meeting runs past 11:59pm, any house tenant may force the close of the meeting. 
+       1. No business may follow the request to close except the closing ceremony. 
+       2. The house should be promptly vacated by non-tenants after a forced close of meeting or if requested by a tenant.
 
 12. Standing meetings may be scheduled in the house and will be hosted so long as there is one or fewer objection by tenants.
-   1. Any request to quiet down by a tenant should be honoured.
-   2. Any request to vacate the living room made after 11 PM should be honoured.
+    1. Any request to quiet down by a tenant should be honoured.
+    2. Any request to vacate the living room made after 11 PM should be honoured.
 
 13. The house shall consider any application for chapter events at the house. Any event with one or fewer objection shall occur. 
-   1. Any event running past 11 PM requires unanimous consent.
-   2. The Chapter shall make any petition two weeks in advance, tidy after each event, and meet any other condition placed by the house.
+    1. Any event running past 11 PM requires unanimous consent.
+    2. The Chapter shall make any petition two weeks in advance, tidy after each event, and meet any other condition placed by the house.
    
 14. Recruitment events may be hosted at the house at the request of the Recruitment Chairman.
-   1. Recruitment events shall be no longer than 4 hours and should end before 11 PM. 
-   2., Before and after events the Recruitment Chairman or his designates shall tidy the house to such a standard it impresses potential new members. 
-   3. Before and after the recruitment period the common areas of the house should be deeply cleaned by the Chapter or a service paid for by the Chapter.
+    1. Recruitment events shall be no longer than 4 hours and should end before 11 PM. 
+    2., Before and after events the Recruitment Chairman or his designates shall tidy the house to such a standard it impresses potential new members. 
+    3. Before and after the recruitment period the common areas of the house should be deeply cleaned by the Chapter or a service paid for by the Chapter.
 
 15. Phikeia class may be hosted in the common room.
-   1. Phikeia classes shall spend no longer than 3 hours at the house per week. 
-   2. Phikeia class shall not run past 11 PM.
-   3. The time of class may be changed by the objection of two or more tenants.
+    1. Phikeia classes shall spend no longer than 3 hours at the house per week. 
+    2. Phikeia class shall not run past 11 PM.
+    3. The time of class may be changed by the objection of two or more tenants.
 
 16. Two small brotherhood events may be hosted each month.
-   1. The events should run less than 4 hours and finish before 11 PM.
-   2. The Brotherhood Chairman shall give two weeks of notice to the tenants.
-   3. After events the Brotherhood Chairman or his designates shall return common space to its original state and take special care after events involving the preparation or consumption of food. 
+    1. The events should run less than 4 hours and finish before 11 PM.
+    2. The Brotherhood Chairman shall give two weeks of notice to the tenants.
+    3. After events the Brotherhood Chairman or his designates shall return common space to its original state and take special care after events involving the preparation or consumption of food. 
 
 17. Two, four hour study sessions each week may be hosted in the common room each week. 
-   1. The sessions should to be hosted on weekdays between 11:30 and 5:30 PM.
-   2. The Academic Chairman or his designate shall keep order at study hours to ensure they are a truly productive environment and not a social space.
+    1. The sessions should to be hosted on weekdays between 11:30 and 5:30 PM.
+    2. The Academic Chairman or his designate shall keep order at study hours to ensure they are a truly productive environment and not a social space.
 
 18. With the bargained, unanimous agreement of the tenants, the house shall allow the hosting of a dry social event per month. 
-   1. The event should be less than 4 hours in length and finish before 11 PM with two weeks of notice required.
-   2. Before and after events the Social Chairman or his designates shall tidy the house to such a standard it impresses guests.
+    1. The event should be less than 4 hours in length and finish before 11 PM with two weeks of notice required.
+    2. Before and after events the Social Chairman or his designates shall tidy the house to such a standard it impresses guests.
 
 19. With the bargained, unanimous agreement of the tenants, the common space of the house shall be made available to all active members of the chapter.
-   1. Use is limited to 9:30 AM to 9 PM on weekdays and 10:30 AM - 9 PM on the weekend. 
-   2. Tenants of the house would dictate the noise level during these common hours. 
-   3. At 9 PM a single tenant’s objection can end the open hours. At 11 PM regardless of request open house hours are over.
-
+    1. Use is limited to 9:30 AM to 9 PM on weekdays and 10:30 AM - 9 PM on the weekend. 
+    2. Tenants of the house would dictate the noise level during these common hours. 
+    3. At 9 PM a single tenant’s objection can end the open hours. At 11 PM regardless of request open house hours are over.
