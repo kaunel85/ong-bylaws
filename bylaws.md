@@ -27,7 +27,8 @@ Table of Contents
   * [Requirements of Phikeia](#requirements-of-phikeia)
   * [Judicial Procedure](#judicial-procedure)
   * [Operations of Committees](#operations-of-committees)
-  
+  * [Election of Sweethearts](#election-of-sweethearts)
+
 Article I: Amendments and General Policies
 ------------------------------------------
 1. Should any of these bylaws be found to be in violation of *The Constitution and General Statutes of Phi Delta Theta*, the *Risk Management Policies of Phi Delta Theta*, the laws of Canada and Ontario, Hamilton By-laws, or *The Bond*, then that bylaw shall be deemed void and stricken from this document.
@@ -136,6 +137,7 @@ Article III: Officers
 
 Article IV: Chapter Finances and Budgeting
 -----------------------------------------
+
 37. At a Chapter Meeting at the end of the year all members and the executive shall present to the chapter on their motivations for dues changes. At the end of the academic year each returning member shall submit their desired increase or decrease to active member dues to the executive committee.
     1. If a majority wishes to increase or decrease dues, one shall be considered. Any change made shall only be greater than the desired change of 20% of voters.
     2. The amount shall be determined by sorting the change requests and removing the 20% of the values (rounding down) least in favor of the change. The least extreme remaining change is the amount to be proposed
@@ -149,7 +151,7 @@ Article IV: Chapter Finances and Budgeting
 
 41. All dues and fees are non-transferable to another person.
 
-42. Members selected by the Chapter to attend any Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ. 
+42. Members selected by the Chapter to attend any Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ.
 
 43. All reimbursements of funds are to be administered only within one month of the initial expense and after the treasurer has received:
     1. A written request for reimbursement
@@ -228,7 +230,7 @@ Article VI: Phikeias
 Article VII: The Chapter House
 -------------------------------
 
-65. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
+65. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property.
     1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
 
 66. Members will be fully responsible for the actions of their guests.
@@ -243,7 +245,7 @@ Article IIX: Discipline
 
 70. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
- 
+
 71. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
 72. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section 46.
@@ -276,7 +278,7 @@ Chapter Meeting Procedures
 4. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention.
    2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
-      - Any censure or suspension issued by the executive committee shall be reported at the next Chapter Meeting and may be revoked or the offending member referred to a judicial committee by a 66% vote of non-executive members present. 
+      - Any censure or suspension issued by the executive committee shall be reported at the next Chapter Meeting and may be revoked or the offending member referred to a judicial committee by a 66% vote of non-executive members present.
    3. Any Active Member with three or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
 
 5. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
@@ -484,3 +486,13 @@ Operations of Committees
      - Be Chaired by the House Manager
      - Consist of the House Manager, Vice-President, Chapter House Tenants, and appointees.
      - Be responsible for the organization, cleanliness, and good operation of the Chapter House
+
+Election of Sweethearts
+-----------------------
+
+39. The Chapter shall be able to appoint the lifetime honor of Chapter Sweetheart to people who have shown great support for our Chapter or the general Fraternity but are ineligible for membership.
+    1. Sweethearts will have the gratitude of Chapter Members and may be given a token as such as deemed appropriate by the Executive.
+    2. Sweethearts shall also be able to wear the letters of Phi Delta Theta and attend some Chapter events typically not accessible to non-members.
+    3. To appoint a new Sweetheart any member may present a motion to appoint a specific individual as Sweetheart.
+    4. At any Chapter Meeting following the motion a discussion shall be held. Because of the magnitude of the appointment, the discussion shall continue until the question is called or the matter is tabled. The motion to appoint must pass with a 66% majority.
+    5. If many motions to appoint a Sweetheart are present the Chapter may motion to use any voting system to limit selection to one Sweetheart. This is not required as there is no restriction on how many Sweethearts may be appointed in any time period, so long as they all meet the Chapter's expectations for a Sweetheart.
