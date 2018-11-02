@@ -1,7 +1,7 @@
 Phi Delta Theta Fraternity  - Ontario Gamma Bylaws
 ==========================================================================
 
-###### Amended September 2018
+###### Amended November 2018
 
 Preamble
 --------
@@ -59,9 +59,7 @@ Article I: Amendments and General Policies
 
 13. Chapter operations should follow the Procedures. The Procedures may grant powers to officers or committees with the full force of these bylaws. Members and Officers not following procedures may be pursued judicially or by other methods in the procedures.
 
-14. The Chapter shall only consider lived gender identity as the relevant gender with respect to eligibility for membership. Members and officers shall make no distinction in the treatment of current or eligible members regardless of gender identity or expression.
-    - Further the use of “male” and “man” in Article 6, Section 12 of The Constitution of the Phi Delta Theta Fraternity shall be interpreted as referring to the lived gender identity of prospective members
-      - If this interpretation is challenged the chapter shall defend the interpretation to the General Council as it was unanimously adopted by the members of the chapter
+14. The Chapter shall interpret the use of “male” and “man” in Article 6, Section 12 of The Constitution of the Phi Delta Theta Fraternity to refer to the lived gender identity of potential members. Beyond this interpretation, any proposal for membership shall be considered on the basis of the individual person.
 
 Article II: Meetings of the Active Chapter
 ------------------------------------------
@@ -69,7 +67,6 @@ Article II: Meetings of the Active Chapter
 15. Quorum for meetings will be considered to be 66% of the Active Chapter eligible for voting. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79 .
 
 16. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Repeated failure to wear appropriate meeting attire will be considered an unexcused absence.
-
 
 Article III: Officers
 -------------------------------
@@ -327,7 +324,7 @@ Officer Expectations
     - Recruitment
       1. If there fails to be a minimum of three (3) open recruitment events during the formal Recruitment period, and two (2) events open to potential new members outside of the formal Recruitment period during the rest of the semester (not necessarily organized by the Recruitment Chair), then the Recruitment Chair will be called to appear in front of the Judicial Committee, for which further action will be decided upon by the Judicial Committee.
 
-13. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 25 eligible Active Members.
+13. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 20 eligible Active Members.
 
 Election Procedure
 ------------------
