@@ -230,9 +230,8 @@ Article VI: Phikeias
 Article VII: The Chapter House
 -------------------------------
 
-66. In the absence of an agreement between the Chapter and a housing provider, a 2/3 vote of the chapter may enter into an agreement for the use of their residince as a Chapter property
-
-66. House rules shall be included as Appendix D to these bylaws and be modified by the double objection vote of the house's tenants. 
+66. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residince as a Chapter property. 
+    1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrigated or changed as outlined in that agreement.
 
 67. Members will be fully responsible for the actions of their guests.
 
