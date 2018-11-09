@@ -309,45 +309,33 @@ ARTICLE VII: PHIKEIAS
 
 ARTICLE VIII: THE CHAPTER HOUSE
 -------------------------------
-85. The Chapter House must remain fully occupied if possible at all times to allow for financial solvency.
 
-86. The House Corporation has the final discretion on all tenants. Preference will be given in the following priority:
-    1. Active
-    2. Alumni
-    3. Outside tenants (First Come First Served)
+85. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residince as a Chapter property. 
+    1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrigated or changed as outlined in that agreement.
 
-87. Terms of rent and the lease are to be negotiated between the tenants and the House Corporation appointed representative.
+86. Members will be fully responsible for the actions of their guests.
 
-88. Tenants will be responsible for their own quarters, which must be kept reasonably tidy at all times. All Members living in and using the House, and tenants will be responsible for the cleanliness of the common areas in the house.
+87. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
 
-89. Tenants and Members will be fully responsible for the actions of their guests.
+88. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
 
-90. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
+89.
 
-91. Under no circumstances shall tape be used on the walls in any of the common areas of the chapter house without the permission of Ontario Gamma Property Manager. Anything being hung on the walls or windows in common areas requires the approval of the Ontario Gamma Property Manager.
+90.
 
-92. All Active Members will be responsible for keeping clean the common living areas of the house including but not limited to; bathrooms, kitchen, living room, stairs, chapter room, outside areas and hallways.
-    1. Common areas are to be kept clean at all times.
-    2. House guests are the responsibility of the tenant or Member who invites them into the House and the tenant or Member carries the liabilities of the House guest. Any damage or mess must be repaired/cleaned/paid for by the tenant or Member hosting the guest. There are no exceptions to this rule.
-    3. Any repairs/house projects must be submitted to and approved by the house corporation chair and House Manager.
-    4. The House Manager will assign House chores during each meeting and a list will be posted on the first floor bulletin board. Each Member living in and using the House will be placed in rotation on the list. Please note that this does include Alumni who are frequently at the House.
-    5. Failure to do these chores will mean that you will be required to complete the chore the following week plus your new assigned chore.
-    6. The Executive Committee or Judicial Committee will review any repeated infraction of these rules and recommendations will be made accordingly.
+91.
 
-93. Guest Staying in the Chapter house
-    1. All Alumni and Actives who are not tenants can sleep at the Fraternity House a maximum of two nights each week, but not on consecutive nights. Exceptions will be made for the night before and after Initiation.
-    2. Tenants and Members’ guests may use the living room as sleeping quarters a maximum of two nights each week, but not on consecutive nights, provided the Member is also on the premises.
-    3. Anyone sleeping in common areas must be awake and have their area cleaned by 10am.
-    4. The guest’s first priority upon waking up is to clean up after themselves, with the ultimate responsibility resting on the tenant or Member whose guest it is. This includes removing all bedding from the first floor. Failure to do so will result in a loss of privilege.
+92.
 
-94. Smoking on chapter property is only permitted on days specified in advance by the Executive or Housing Committee. If a day has not been specified as a smoking day, the 66% consent of present Executive or Housing Committee members who will not be smoking may overrule this.
-    1. Smoking must occur on the back porch of the Fraternity House.
-    2. All butts must be placed in a container and disposed of properly. No butts will be left on the property.
-    3. Only cigarettes, e-cigarettes, and cigars can be smoked.
+93.
 
-95. Parking spots will be assigned for 4 month terms starting in September, January, and May. The two parking spots will be first offered to brothers living in the house with cars. If more than two eligible brothers want parking spots, the spots will be auctioned with a sealed-bid second-price auction. Brothers interested in spots will provide bids to the House Manager on a date of his designation before the start of the parking term. The highest bid will pay the amount of the second highest bid, and the second highest bidder will pay the amount of the third highest bid. These funds will be used to equally reduce the rent payment of everyone living in the house, including the winners of the auction. If spots are not taken by the those living in the house they will be offered as short term parking on a first-come first-served basis to Actives, Alum, and Phikeia for less than 12 hours at a time.
+94.
 
-96. A snow removal plan will be in place by the House Manager and Vice-President and presented to the Chapter no later than September 15th. Should the Chapter decide at that point that a snow clearing contract is required, the House Manager are responsible for securing a contract prior to September 30th. All Members living in and using the House are required to support all snow removal activities. Following a snow storm (regardless of whether there is a contract) the entrance to the driveway needs to be cleared, the sidewalk, front stairs, and back stairs, all need to be cleared within 24 hours, preferring earlier.
+94.
+
+95.
+
+96.
 
 ARTICLE IX: DISCIPLINE
 ----------------------
