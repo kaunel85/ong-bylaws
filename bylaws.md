@@ -317,7 +317,7 @@ ARTICLE VIII: THE CHAPTER HOUSE
 
 87. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
 
-88. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
+88. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property. No products disallowed by the substance free policy may be smoked on property. 
 
 89.
 
