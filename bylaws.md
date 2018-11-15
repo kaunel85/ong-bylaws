@@ -207,7 +207,8 @@ Article VI: Phikeias
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-62. Phikeia will be required to pay non-refundable induction dues of $90 and initiation dues of $490 if they are initiated before GHQ Membership dues are collected (February 28th as of writing) or initiation dues of $360 after that date, to be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as cash or applied against initiation dues when the book and pin are returned.
+
+62. Phikeia will be assesed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assesed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
 63. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
 
@@ -244,9 +245,9 @@ Article IIX: Discipline
 70. The Judiciary process will be followed as outlined in the Procedures
 
 71. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. This decision can be vetoed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
-
-72. Discipline will be determined at the discretion of the Judicial Committee and the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
+    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at chapter and may be applealed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
+ 
+72. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
 73. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section TODO Payment Plans.
 
@@ -259,7 +260,7 @@ Article IX: Committees
 ---------------------
 75. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
 
-76. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
+76. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
 
 Procedures
 ==========
