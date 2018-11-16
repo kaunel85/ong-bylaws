@@ -181,7 +181,7 @@ Article V: Member Accountability and Responsibility
 ----------------------------------------------------
 51. All Active Members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
 
-52. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Procedures Section 19.
+52. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Procedures Section 4.
 
 53. Founders Day, Chapter Retreats, Initiation, and meetings with the Province President are all mandatory events held within an academic year. If an Active Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, three days in advance.
 
@@ -199,14 +199,13 @@ Article V: Member Accountability and Responsibility
 
 59. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. The Badge of Phi Delta Theta shall only be worn with a collared shirt.
 
-60. If an Active Member has not completed four years of undergraduate studies or completed his degree, and is enrolled in at least one class at McMaster University, he is considered an Active Member and subject to all rules and regulations therein and may not attain Alum status.
+60. If an Active Member has not completed his degree and is enrolled in at least one class at McMaster University, he is considered an Active Member and subject to all rules and regulations therein and may not attain Alum status.
 
 Article VI: Phikeias
 ---------------------
 61. Selection of Phikeia shall be as prescribed in The Code Title XII.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
-
 
 62. Phikeia will be assesed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assesed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
@@ -245,16 +244,16 @@ Article IIX: Discipline
 70. The Judiciary process will be followed as outlined in the Procedures
 
 71. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at chapter and may be applealed by the Chapter with a 66% vote of Active Members attending a Chapter Meeting.
+    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be applealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
  
 72. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
-73. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section TODO Payment Plans.
+73. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section 46.
 
 74. The Judiciary Committee may recommend justice based on their best judgement. These options include:
-    - Censure – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
-    - Suspension – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
-    - Expulsion – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the Executive Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
+    - **Censure** – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
+    - **Suspension** – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
+    - **Expulsion** – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the Executive Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
 
 Article IX: Committees
 ---------------------
@@ -279,6 +278,7 @@ Chapter Meeting Procedures
 4. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention.
    2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
+      - Any censure or suspension issued by the executive comittee shall be reported at the next Chapter Meeting and may be revoked or refered to a judicail comittee by a 66% vote of non-executive members. 
    3. Any Active Member with three or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
 
 5. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
@@ -286,16 +286,17 @@ Chapter Meeting Procedures
 Officer Expectations
 --------------------
 
-6. The Chapter officers will report bi-weekly to the Vice-President.
+6. The Chapter officers will report at least bi-weekly to the Vice-President or more frequently as requested.
 
 7. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a position review is as follows:
    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. A majority vote of the Executive will begin the position review.
+      - If the Executive does not vote to begin the officer review, this should be reported at the next Chapter Meeting and a review can be started by a 66% vote of non-executive members present.
    2. The officer under review will then appear before the Executive Committee to review their standing with regard to their position held.
    3. This information will then be presented to The Chapter by the Vice-President at the next chapter meeting.
    4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
    5. In the case that an Executive Officer is presented for review, the same process as outlined above will occur with the Judicial Committee taking the place of the Executive Committee, and the Warden taking the place of the Vice-President.
 
-8. Each Officer will keep an officer resource binder prepared and updated by the Vice-President in hard and soft copy, containing a copy of each of the following:
+8. Each Officer will keep an officer resource binder prepared and updated by the Vice-President in hard or soft copy, containing a copy of each of the following:
    - The updated Chapter Bylaws
    - *The Constitution and General Statutes of Phi Delta Theta*
    - *Risk Management Policies of Phi Delta Theta*
