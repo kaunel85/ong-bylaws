@@ -149,7 +149,7 @@ Article IV: Chapter Finances and Budgeting
 
 41. All dues and fees are non-transferable to another person.
 
-42. Members selected by the Chapter to attend any Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ.
+42. Members selected by the Chapter to attend any Phi Delta Theta conference(s) will not be reimbursed further than reimbursements provided by GHQ. 
 
 43. All reimbursements of funds are to be administered only within one month of the initial expense and after the treasurer has received:
     1. A written request for reimbursement
@@ -207,7 +207,7 @@ Article VI: Phikeias
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-62. Phikeia will be assesed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assesed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
+62. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
 63. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
 
@@ -230,8 +230,8 @@ Article VI: Phikeias
 Article VII: The Chapter House
 -------------------------------
 
-66. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residince as a Chapter property. 
-    1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrigated or changed as outlined in that agreement.
+66. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
+    1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
 
 67. Members will be fully responsible for the actions of their guests.
 
@@ -244,7 +244,7 @@ Article IIX: Discipline
 70. The Judiciary process will be followed as outlined in the Procedures
 
 71. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be applealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
+    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
  
 72. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
@@ -278,7 +278,7 @@ Chapter Meeting Procedures
 4. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention.
    2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
-      - Any censure or suspension issued by the executive comittee shall be reported at the next Chapter Meeting and may be revoked or refered to a judicail comittee by a 66% vote of non-executive members. 
+      - Any censure or suspension issued by the executive committee shall be reported at the next Chapter Meeting and may be revoked or the offending member referred to a judicial committee by a 66% vote of non-executive members present. 
    3. Any Active Member with three or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
 
 5. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
