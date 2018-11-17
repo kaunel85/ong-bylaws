@@ -199,19 +199,17 @@ Article V: Member Accountability and Responsibility
 
 59. While wearing the Greek letters of Phi Delta Theta or having them associated with them in public, in any form or fashion, Members are expected to act in a responsible fashion and not to act in such a way that would bring dishonor to the organization. In judicial contexts this standard will be established by the best judgement of the Executive or Judicial committee depending on the context. The Badge of Phi Delta Theta shall only be worn with a collared shirt.
 
-60. If an Active Member has not completed his degree and is enrolled in at least one class at McMaster University, he is considered an Active Member and subject to all rules and regulations therein and may not attain Alum status.
-
 Article VI: Phikeias
 ---------------------
-61. Selection of Phikeia shall be as prescribed in The Code Title XII.
+60. Selection of Phikeia shall be as prescribed in The Code Title XII.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-62. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
+61. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
-63. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
+62. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
 
-64. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
+63. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
    1. Votes shall be counted by two persons in the following order of preference:
       - President
       - CAB Member
@@ -224,42 +222,42 @@ Article VI: Phikeias
    3. The Warden or his appointee shall inform the Phikeia of the result of the vote.
    4. The same procedure shall be used for the affiliation of another Chapter's alumnus attending McMaster University.
 
-65. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter subject to a 66% vote.
+64. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter subject to a 66% vote.
 
 
 Article VII: The Chapter House
 -------------------------------
 
-66. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
+65. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
     1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
 
-67. Members will be fully responsible for the actions of their guests.
+66. Members will be fully responsible for the actions of their guests.
 
-68. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
+67. Any willful or negligent damage to Fraternity property will be charged to the offender(s) and is payable in full immediately. The House Corporation Property Manager, the House Manager, the President and a Chapter Advisory Board delegate shall determine the final amount.
 
-69. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
+68. Smoking must occur on the back patio of the Fraternity House. All related refuse must be placed in a container and disposed of properly. No butts will be left on the property.
 
 Article IIX: Discipline
 ----------------------
-70. The Judiciary process will be followed as outlined in the Procedures
+69. The Judiciary process will be followed as outlined in the Procedures
 
-71. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
+70. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
  
-72. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
+71. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
-73. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section 46.
+72. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section 46.
 
-74. The Judiciary Committee may recommend justice based on their best judgement. These options include:
+73. The Judiciary Committee may recommend justice based on their best judgement. These options include:
     - **Censure** – loss of right to hold office or vote in Chapter meetings or on Chapter business. The Member is required to attend all chapter meetings, mandatory events, and any other stipulations dictated by the disciplinary action(s).
     - **Suspension** – A Member suspended from membership in Phi Delta Theta shall lose all rights, privileges and immunities of membership in Phi Delta Theta during the period of his suspension. He may not hold office, vote, or attend Chapter meetings. He may not reside or be present on chapter property without the written permission of the Province President and the Chapter Advisory Board Chairman. A suspended Member is still expected to pay dues in full and meet deadlines. Upon suspension, the offending Member will surrender all keys to the Chapter Property, all documents pertaining to the Chapter and all other chapter property.
     - **Expulsion** – A Member expelled from membership in Phi Delta Theta shall forthwith surrender to the Executive Committee or it’s representative his badge, and all fraternity property in his possession. Expulsion from membership terminates absolutely all rights, privileges and immunities of membership in Phi Delta Theta.
 
 Article IX: Committees
 ---------------------
-75. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
+74. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
 
-76. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
+75. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
 
 Procedures
 ==========
