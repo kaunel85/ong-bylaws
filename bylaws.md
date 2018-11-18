@@ -27,6 +27,7 @@ Table of Contents
   * [Requirements of Phikeia](#requirements-of-phikeia)
   * [Judicial Procedure](#judicial-procedure)
   * [Operations of Committees](#operations-of-committees)
+  * [Election of Sweethearts](#election-of-sweethearts)
   
 Article I: Amendments and General Policies
 ------------------------------------------
@@ -484,3 +485,13 @@ Operations of Committees
      - Be Chaired by the House Manager
      - Consist of the House Manager, Vice-President, Chapter House Tenants, and appointees.
      - Be responsible for the organization, cleanliness, and good operation of the Chapter House
+
+Election of Sweethearts
+-----------------------
+
+39. The Chapter shall be able to appoint the lifetime honor of Chapter Sweetheart to people who have shown great support for our Chapter or the general Fraternity but are ineligible for membership.
+    1. Sweethearts will have the gratitude of Chapter Members and may be given a token as such as deemed appropriate by the Executive.
+    2. Sweethearts shall also be able to wear the letters of Phi Delta Theta and attend some Chapter events typically not accessible to non-members.
+    3. To appoint a new Sweetheart any member may present a motion to appoint a specific individual as Sweetheart.
+    4. At any Chapter Meeting following the motion a discussion shall be held. Because of the magnitude of the appointment, the discussion shall continue until the question is called or the matter is tabled. The motion to appoint must pass with a 66% majority.
+    5. If many motions to appoint a Sweetheart are present the Chapter may motion to use any voting system to limit selection to one Sweetheart. This is not required as there is no restriction on how many Sweethearts may be appointed in any time period, so long as they all meet the Chapter's expectations for a Sweetheart.
