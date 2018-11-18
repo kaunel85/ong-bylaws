@@ -373,10 +373,13 @@ Judicial Procedure
      - Convene at the beginning of each semester, including all six elected members, the Warden, and Vice-President to review the Judicial Committee procedure with a CAB delegate
 
 26. Six Active Members are chosen by the Chapter at the beginning of each semester by a top six plurality election to potentially sit on the Judicial Committee with the Warden.
-    1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
-    2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
-    3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
-    4. If the potential judicial members have not been selected for the semester or three or more judicial members declare their unavailability to serve on a committee when it is required that one be called, the Warden shall use his best judgement in the selection of uninvolved, unbiased, and representative members to fill the committee.
+    1. Any person elected to sit on the committee may appeal to the warden to be removed from the Judicial Pool if their reason is accepted by the warden. The next most favoured candidate will then be selected to fill the space.
+    2. If a tie is reached for the last remaining seats for the Judicial Pool, then the chapter will be asked to cast a vote for only the persons who are tied and one vote for each seat needing to be filled.
+    3. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
+    4. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
+    5. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
+    6. If the potential judicial members have not been selected for the semester or three or more judicial members declare their unavailability to serve on a committee when it is required that one be called, the Warden shall use his best judgement in the selection of uninvolved, unbiased, and representative members to fill the committee.
+ 
 
 27. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
      1. Open Section (All Members may attend this portion of the meeting)
