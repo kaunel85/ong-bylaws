@@ -20,19 +20,36 @@ Table of Contents
   * [Article VII: The Chapter House](#article-vii-the-chapter-house)
   * [Article IIX: Discipline](#article-iix-discipline)
   * [Article IX: Committees](#article-ix-committees)
-* Procedures
+* [Procedures](#procedures)
   * [Chapter Meeting Procedures](#chapter-meeting-procedures)
   * [Officer Expectations](#officer-expectations)
   * [Election Procedure](#election-procedure)
   * [Requirements of Phikeia](#requirements-of-phikeia)
   * [Judicial Procedure](#judicial-procedure)
   * [Operations of Committees](#operations-of-committees)
+* Referenced Documents
+  * [The Constitution and General Statutes of Phi Delta Theta][The Code]
+  * Appendix A [FEA Statement of Position on Hazing and Pre-Initiation Activities][]
+  * Appendix B [Risk Management Policies of Phi Delta Theta][]
+  * Appendix C [Scholarship Plan][]
+  * Appendix D [House Rules][]
+  * [Chapter Greatness Checklist][] 
+  * [Robert’s Rules At A Glance][]
   
+[The Code]: https://www.phideltatheta.org/resources/the_code.pdf
+[Risk Management Policies of Phi Delta Theta]: https://www.phideltatheta.org/resources/risk_management_policies.pdf
+[FEA Statement of Position on Hazing and Pre-Initiation Activities]: http://www.phideltatheta.org/resources/fea_statement_on_hazing.pdf
+[Scholarship Plan]: https://github.com/kaunel85/ong-bylaws/blob/master/Appendix_C_Scholarship_Plan.md
+[House Rules]: https://github.com/kaunel85/ong-bylaws/blob/master/Appendix_D_House_Rules.md
+[Chapter Greatness Checklist]: https://www.phideltatheta.org/resources/chapter_greatness_checklist.pdf
+[Robert’s Rules At A Glance]: https://www.co.washington.or.us/CAO/CPO/CCI/upload/5-Roberts-Rules-of-Orders-At-a-Glance.pdf
+
 Article I: Amendments and General Policies
 ------------------------------------------
-1. Should any of these bylaws be found to be in violation of *The Constitution and General Statutes of Phi Delta Theta*, the *Risk Management Policies of Phi Delta Theta*, the laws of Canada and Ontario, Hamilton By-laws, or *The Bond*, then that bylaw shall be deemed void and stricken from this document.
 
-2. The bylaws and procedures of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
+1. Should any of these bylaws be found to be in violation of *[The Constitution and General Statutes of Phi Delta Theta][The Code]*, the *[Risk Management Policies of Phi Delta Theta][]*, the laws of Canada and Ontario, Hamilton By-laws, or *The Bond*, then that bylaw shall be deemed void and stricken from this document.
+
+1. <a id="bylaw-2"></a> The bylaws and procedures of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
 3. Bylaws and Procedures may be amended with a 66% vote of the Active Chapter.
 
@@ -42,24 +59,24 @@ Article I: Amendments and General Policies
 
 6. Updated copies of these bylaws will be distributed annually to the Chapter Advisory Board Chairman, each Member of the Active Chapter, the Alumni Club President and the Province President before September 30th of each academic year. A copy of these bylaws will be included with the Phikeia manual upon pledging.
 
-7. The Chapter will adhere to the *FEA Statement of Position on Hazing and Pre-Initiation Activities*. The *FEA statement of Position on Hazing and Pre-initiation Activities* will be attached to these bylaws as Appendix A.
+7. The Chapter will adhere to the *[FEA Statement of Position on Hazing and Pre-Initiation Activities][]*. The *[FEA statement of Position on Hazing and Pre-initiation Activities][]* will be attached to these bylaws as Appendix A.
 
-8. The Chapter will adhere to the *Risk Management Policy of Phi Delta Theta*. The *Risk Management Policy of Phi Delta Theta* will be attached to these bylaws as Appendix B.
+8. The Chapter will adhere to the *[Risk Management Policies of Phi Delta Theta][]*. The *[Risk Management Policies of Phi Delta Theta][]* will be attached to these bylaws as Appendix B.
 
-9. Any individual found in violation of Sections 7 or 8 will be censured (see Section 103.1) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
+9. Any individual found in violation of Sections 7 or 8 will be censured (see Section 73) by The Chapter and may result in outside authorities becoming involved. Subsequent violations may be referred to an outside organization.
 
-10. Each Member of the Active Chapter and each person living in the Chapter House will adhere to the *Phi Delta Theta Alcohol Free Housing Policy*. No alcohol or unlawful drugs shall be possessed, stored, administered or consumed on Ontario Gamma property.
+10. Each Member of the Active Chapter and each person living in the Chapter House will adhere to the Phi Delta Theta's Alcohol Free Housing Policy. No alcohol or unlawful drugs shall be possessed, stored, administered or consumed on Ontario Gamma property.
 
 11. If a Member is found to possess or consume alcohol or any unlawful drug on Ontario Gamma property, the alcohol or drug is to be confiscated and promptly disposed of by the Vice-President, Warden, or if available a CAB member or Steel City Club representative. A Judiciary Committee meeting will be called automatically.
-    1. For any offense, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate membership review as prescribed by *The Code*.
+    1. For any offense, the Executive Committee may decide that extreme circumstances may have occurred. If such extreme circumstances exist, the Executive Committee may motion for an immediate membership review as prescribed by *[The Code][]*.
 
-12. All Active Members with a previous semester GPA below a 7, or cumulative GPA below 6, will be subject to the Scholarship Plan as defined by the Scholarship Chairman. The Scholarship Plan will be approved by the Executive Committee at the beginning of each academic year.
-    1. Should an Active Member fail to follow the Scholarship Plan, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
-    2. The Scholarship Plan will be attached to these bylaws as Appendix C.
+12. All Active Members with a previous semester GPA below a 7, or cumulative GPA below 6, will be subject to the *[Scholarship Plan][]* as defined by the Scholarship Chairman. The *[Scholarship Plan][]* will be approved by the Executive Committee at the beginning of each academic year.
+    1. Should an Active Member fail to follow the *[Scholarship Plan][]*, they will be called to appear before the Executive Committee and the Scholarship Chairman to explain their actions. This meeting is focussed on getting the member on board with the program using positive means. The resolution of this meeting will be required to be minuted and made available to the Chapter.
+    2. The [Scholarship Plan][] will be attached to these bylaws as Appendix C.
 
-13. Chapter operations should follow the Procedures. The Procedures may grant powers to officers or committees with the full force of these bylaws. Members and Officers not following procedures may be pursued judicially or by other methods in the procedures.
+13. Chapter operations should follow the [Procedures][]. The [Procedures][] may grant powers to officers or committees with the full force of these bylaws. Members and Officers not following procedures may be pursued judicially or by other methods in the procedures.
 
-14. The Chapter shall interpret the use of “male” and “man” in Article 6, Section 12 of The Constitution of the Phi Delta Theta Fraternity to refer to the lived gender identity of potential members. Beyond this interpretation, any proposal for membership shall be considered on the basis of the individual person.
+14. The Chapter shall interpret the use of “male” and “man” in Article 6, Section 12 of [The Constitution of the Phi Delta Theta Fraternity][The Code] to refer to the lived gender identity of potential members. Beyond this interpretation, any proposal for membership shall be considered on the basis of the individual person.
 
 Article II: Meetings of the Active Chapter
 ------------------------------------------
@@ -75,7 +92,7 @@ Article III: Officers
 
 18. No officer shall receive payment for his duties or service.
 
-19. Officers shall meet the requirements as explained in the Procedures
+19. Officers shall meet the requirements as explained in the [Procedures][]
 
 20. The Parliamentarian, Chorister, and Librarian of the Chapter shall be appointed by the President.
 
@@ -172,7 +189,7 @@ Article IV: Chapter Finances and Budgeting
 48. Active Members taking one or more terms of co-op may be eligible for some relief from financial commitments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
 
 49. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer, in care of Phi Delta Theta Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
-    1. If the bill has not been paid by the 31st of the month, The Code Section 154, 155, and 156 will be put into effect, and proper judicial procedure will be followed.
+    1. If the bill has not been paid by the 31st of the month, [The Code][] Section 154, 155, and 156 will be put into effect, and proper judicial procedure will be followed.
     2. If an Active Member withdraws from McMaster University while owing the chapter they will be given thirty (30) days to pay the full amount owing to the Chapter. If this amount is not paid within this time period, the Member will be recommended for expulsion to General Headquarters.
 
 50. Receipts will be issued by the Treasurer, President, or Vice-President for all payments. It is the Member’s responsibility to maintain their receipts.
@@ -191,7 +208,7 @@ Article V: Member Accountability and Responsibility
 
 56. Active Members are expected to submit their transcripts and current class schedules to the Scholarship Chair by the second meeting of each semester, or as requested by the Scholarship Chair. If the class schedule is changed then it must be re-submitted. Transcripts must be submitted as a non-alterable copy of the Member’s full Academic Record as provided by McMaster University.
 
-57. An Active Member whose previous semester GPA falls below a 7 or whose cumulative GPA is below 6 is immediately included in the Scholarship Program.
+57. An Active Member whose previous semester GPA falls below a 7 or whose cumulative GPA is below 6 is immediately included in the [Scholarship Program][].
     1. For any Member on the program, the Executive Committee, in consultation with the Scholarship Chairman and the Chapter Advisory Board Chairman, can assess and adjust the program as deemed necessary for the Member. Any such adjustment may only be passed by the majority vote of the Executive Committee, the Scholarship Chairman, and the Chapter Advisory Board Chairman.
     2. Courses taken during the summer semester shall not effect a Member’s standing with respect to the Scholarship Program except where the Member was considered a full time student by McMaster University during the summer semester.
 
@@ -201,16 +218,16 @@ Article V: Member Accountability and Responsibility
 
 Article VI: Phikeias
 ---------------------
-60. Selection of Phikeia shall be as prescribed in The Code Title XII.
+60. Selection of Phikeia shall be as prescribed in [The Code][] Title XII.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
 61. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
-62. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
+62. Phikeia shall follow the expectations explained in [Procedures][] and in Article II: Expectations of Phikeia.
 
 63. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
-   1. Votes shall be counted by two persons in the following order of preference:
+   1. Votes shall be counted by two persons not running in the election in the following order of preference:
       - President
       - CAB Member
       - Alumnus Member
@@ -229,7 +246,7 @@ Article VII: The Chapter House
 -------------------------------
 
 65. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
-    1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
+    1. Any active agreement shall be included as [Appendix D][House Rules] to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
 
 66. Members will be fully responsible for the actions of their guests.
 
@@ -244,7 +261,7 @@ Article IIX: Discipline
 70. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
     1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
  
-71. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
+71. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by [The Code][] Sections 154, 155, and 156.
 
 72. Failure to pay any fees in full to the Chapter by the designated date will result in immediate suspension, unless other arrangements have been made with the Vice-President and the Treasurer as per Section 46.
 
@@ -255,9 +272,9 @@ Article IIX: Discipline
 
 Article IX: Committees
 ---------------------
-74. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
+74. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures Article [Operations of Committees](#operations-of-committees).
 
-75. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
+75. Committees shall have no power other than the power of the individual officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget. Special committees shall make reccomendations at a Chapter Meeting to be voted on by members.
 
 Procedures
 ==========
@@ -296,15 +313,15 @@ Officer Expectations
 
 8. Each Officer will keep an officer resource binder prepared and updated by the Vice-President in hard or soft copy, containing a copy of each of the following:
    - The updated Chapter Bylaws
-   - *The Constitution and General Statutes of Phi Delta Theta*
-   - *Risk Management Policies of Phi Delta Theta*
+   - *[The Constitution and General Statutes of Phi Delta Theta][]*
+   - *[Risk Management Policies of Phi Delta Theta][]*
    - The office's Statements of Responsibilities
    - All previous years' Transition Reports
    - An outline of the budget for their specific position
    - An area for notes, suggestions, and comments
-   - *Robert’s Rules At A Glance*
+   - *[Robert’s Rules At A Glance][]*
    - Chapter goals for this year and position goals for the current and previous years
-   - *Chapter Greatness Checklist*
+   - *[Chapter Greatness Checklist][]*
    - GHQ Officer Manuals
    - Additional Officer Specific Material
 
