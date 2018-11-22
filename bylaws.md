@@ -42,7 +42,7 @@ Table of Contents
 [Scholarship Plan]: https://github.com/kaunel85/ong-bylaws/blob/master/Appendix_C_Scholarship_Plan.md
 [House Rules]: https://github.com/kaunel85/ong-bylaws/blob/master/Appendix_D_House_Rules.md
 [Chapter Greatness Checklist]: https://www.phideltatheta.org/resources/chapter_greatness_checklist.pdf
-[Robert’s Rules At A Glance]: https://www.co.washington.or.us/CAO/CPO/CCI/upload/5-Roberts-Rules-of-Orders-At-a-Glance.pdf
+[Robert’s Rules At A Glance]: http://www.phideltatheta.org/resources/roberts_rules_of_order.pdf
 
 Article I: Amendments and General Policies
 ------------------------------------------
