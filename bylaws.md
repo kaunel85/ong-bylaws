@@ -367,7 +367,7 @@ Requirements of Phikeia
       - All secret societies of which the Phikeia is or has at any time been a member or pledge
       - The Phikiea's certainty in initiating into the Fraternity
       - The payment of initiation dues or the signing of a payment agreement for those dues
-    4. Any Phikeia may request to defer their initiation. This Pallas committee shall make report of the request to defer to the Chapter. The deferral may only be rejected by a 66% vote to depledge. If approved the Phikeia shall complete all remaining requirements of the Phikeia program with his class except initiation and pay deferral fees as outlined in Section 61 of the Bylaws. A deferring Phikeia shall remain a Phikeia without the obligation of Phikeia classes until he elects to initiate or is otherwise depledged. At the next class's initiation the Phikeia wishes to defer again the same procedure.
+    4. Any Phikeia may request to defer their initiation. This Pallas committee shall make report of the request to defer to the Chapter. The deferral may only be rejected by a 66% vote to depledge. If approved the Phikeia shall pay deferral fees as outlined in Section 61 of the Bylaws. A deferring Phikeia may complete all remaining requirements of the Phikeia program with his class except initiation, removing his obligation of Phikeia classes. Otherwise the deferring Phikeia will have the same obligations and requirements of the next inducted class. If at the next class's initiation the Phikeia wishes to defer again, the same procedure will be followed.
 
 23. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President.
 
