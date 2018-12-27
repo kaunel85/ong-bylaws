@@ -205,7 +205,11 @@ Article VI: Phikeias
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
     2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
 
-61. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
+61. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee.
+    1. Phikeia will be assessed induction dues of $90. 
+    2. Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
+    3. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, GHQ Initiation Dues, and contribute to the operating budget. 
+    4. Phikeia defering their initiation from the Fall to Spring Term shall pay $40 towards the operating budget during their deferred semester. Phikeia deferring their initiation from Spring to Fall Term shall pay $160 for their Founder's Day ticket and and the difference in expense to the Chapter between GHQ active and initiation dues. Upon initiation they shall pay the full year's Active's Dues plus the cost of their member's pin.
 
 62. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
 
@@ -352,11 +356,18 @@ Election Procedure
 Requirements of Phikeia
 -----------------------
 
-22. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII.
+22. In order to be Initiated Phikeia must meet the requirements established in The Code Title XIII. Additionally Phikeia must:
     1. Earn a mark of 80% or greater in the Phikeia class following a marking scheme established by the Phikeia Educator. The marking scheme must include online module completion and a final examination as specified in The Code Section 139.
     2. Have followed the scholarship plan for the duration of the Phikeia period. First year, first semester Phikeia must discuss their academic standing and share all marks with the Scholarship Chair and be assessed academically by the Pallas Committee before initiation.
        1. All Phikeia must provide a non-alterable copy of their full Academic Record as provided by McMaster University, if they have not completed a semester at McMaster a transcript from their most recent other academic institution to the Scholarship Chair no later than the second Phikeia meeting.
        2. All Phikeia must participate in the Scholarship Program as presented by the Scholarship Chair. Phikeia must adhere to the Scholarship Chair’s recommendation on study times and general academics.
+    3. Complete a pre-initiation interview with member(s) of the Pallas Committee. The interview must cover
+      - How they intend to contribute to the chapter as an Active member
+      - The obligations of membership including attending chapter meetings, continuation of active membership during their current degree, payment of initiation and active member dues
+      - All secret societies of which the Phikeia is or has at any time been a member or pledge
+      - The Phikiea's certainty in initiating into the Fraternity
+      - The payment of initiation dues or the signing of a payment agreement for those dues
+    4. Any Phikeia may request to defer their initiation. This Pallas committee shall make report of the request to defer to the Chapter. The deferral may only be rejected by a 66% vote to depledge. If approved the Phikeia shall pay deferral fees as outlined in Section 61 of the Bylaws. A deferring Phikeia may complete all remaining requirements of the Phikeia program with his class except initiation, removing his obligation of Phikeia classes. Otherwise the deferring Phikeia will have the same obligations and requirements of the next inducted class. If at the next class's initiation the Phikeia wishes to defer again, the same procedure will be followed.
 
 23. Phikeia will be required to attend all regular weekly Phikeia meetings and Chapter Retreats, and meetings with the Province President.
 
