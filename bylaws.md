@@ -34,7 +34,9 @@ Article I: Amendments and General Policies
 
 2. The bylaws and procedures of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
-3. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79. All main motions and votes as described in *The Code* or these bylaws will require the corresponding fraction of the entire chapter voting in the affirmative, rather than that fraction of members present in a meeting. Votes on subsidiary, privilidged, and incidental motions will only require their corresponding percentage of the meeting. The 50% quorum required in The Code Section 81 is held implicitly.
+3. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79. 
+  
+4. All main motions and votes as described in *The Code* or these bylaws will require the corresponding fraction of the entire chapter voting in the affirmative, rather than that fraction of members present in a meeting. Votes on subsidiary, privilidged, and incidental motions will only require their corresponding percentage of the meeting. The 50% quorum required in The Code Section 81 is held implicitly.
    - Simple motions require an affirmative vote from a majority of all members eligible for voting.
    - Bylaws and Procedures may be amended with an affirmative vote from 66% of all members eligible for voting.
    - Disciplinary actions as stated in these bylaws may be enacted with an affirmative vote from a majority vote of all members eligible for voting.
@@ -54,8 +56,6 @@ Article I: Amendments and General Policies
 | 23                          | 12                         | 16                      |
 | 24                          | 13                         | 16                      |
 | 25                          | 13                         | 17                      |
-  
-4.
 
 5.
 
@@ -83,7 +83,7 @@ Article I: Amendments and General Policies
 Article II: Meetings of the Active Chapter
 ------------------------------------------
 
-15. Quorum for meetings will be considered to be 50% of the Active Chapter eligible for voting. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79.
+15. 
 
 16. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Repeated failure to wear appropriate meeting attire will be considered an unexcused absence.
 
