@@ -169,8 +169,6 @@ Article IV: Chapter Finances and Budgeting
 
 47. Any Member who has failed to inform the Treasurer that they will not be returning as an Active Member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
 
-48. Active Members taking one or more terms of co-op may be eligible for some relief from financial commitments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
-
 48. Any member unable to attend chapter events may optionally become a non-participatory Member.
     1. Any non-voting member may request that the executive grant non-participatory status.
     2. Non-participatory members will be assed dues to cover only insurance, confence fees, and active member's dues to GHQ.
