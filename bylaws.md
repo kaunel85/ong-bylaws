@@ -34,11 +34,30 @@ Article I: Amendments and General Policies
 
 2. The bylaws and procedures of the chapter shall be subject to annual review by the Executive Committee and the Chapter Advisory Board preceding the academic year. The Active Chapter will vote on any changes at the first meeting of the academic year.
 
-3. Bylaws and Procedures may be amended with a 66% vote of the Active Chapter.
+3. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79. 
+  
+4. All main motions and votes as described in *The Code* or these bylaws will require the corresponding fraction of the entire chapter voting in the affirmative, rather than that fraction of members present in a meeting. Votes on subsidiary, privilidged, and incidental motions will only require their corresponding percentage of the meeting. The 50% quorum required in The Code Section 81 is held implicitly.
+   - Simple motions require an affirmative vote from a majority of all members eligible for voting.
+   - Bylaws and Procedures may be amended with an affirmative vote from 66% of all members eligible for voting.
+   - Disciplinary actions as stated in these bylaws may be enacted with an affirmative vote from a majority vote of all members eligible for voting.
+   - A bylaw or procedure may be vetoed by a 75% affirmative vote from all members eligible for voting.
+   - Any election will use written instant runoff ballots with any absent members being considered a non-confidince vote seeking to delay the election. If the non-confidince vote earns more than 50% of all votes after instant runoff, the election is delayed
+  
+| Members Eligible for voting | 50% +1 of Eligible Members | 66% of Eligible Members |
+|-----------------------------|----------------------------|-------------------------|
+| 15                          | 8                          | 10                      |
+| 16                          | 9                          | 11                      |
+| 17                          | 9                          | 12                      |
+| 18                          | 10                         | 12                      |
+| 19                          | 10                         | 13                      |
+| 20                          | 11                         | 14                      |
+| 21                          | 11                         | 14                      |
+| 22                          | 12                         | 15                      |
+| 23                          | 12                         | 16                      |
+| 24                          | 13                         | 16                      |
+| 25                          | 13                         | 17                      |
 
-4. Disciplinary actions as stated in these bylaws may be enacted with a majority vote of the Active Chapter.
-
-5. A bylaw or procedure may be vetoed by a 75% vote of the Active Chapter.
+5.
 
 6. Updated copies of these bylaws will be distributed annually to the Chapter Advisory Board Chairman, each Member of the Active Chapter, the Alumni Club President and the Province President before September 30th of each academic year. A copy of these bylaws will be included with the Phikeia manual upon pledging.
 
@@ -64,7 +83,7 @@ Article I: Amendments and General Policies
 Article II: Meetings of the Active Chapter
 ------------------------------------------
 
-15. Quorum for meetings will be considered to be 66% of the Active Chapter eligible for voting. All power of The Chapter shall be invested in the regular meeting. Special meetings may be called, as outlined in The Code Sections 78 and 79 .
+15. 
 
 16. Appropriate formal meeting attire will be determined by the Warden in coordination with the President. Repeated failure to wear appropriate meeting attire will be considered an unexcused absence.
 
@@ -116,7 +135,7 @@ Article III: Officers
     - Any academic program strikes for the past two semesters
     - Count of excused and unexcused absences from regular meetings in the current academic term as stated in Section 19.3
 
-32. All voting will be conducted inside the chapter meeting using the heads down fists up method or an instant-runoff ballot at the discretion of the Chair. Additionally if there is only one candidate there may be a vote by acclimation if successfully motioned. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
+32. All Elections inside the chapter meeting using an instant-runoff ballot. Additionally if there is only one candidate there may be a vote by acclimation if successfully motioned. There shall be two vote counters who cannot be candidates in the election chosen by the following preference
     - President
     - CAB Member
     - Alumnus Member
@@ -125,12 +144,11 @@ Article III: Officers
     - Treasurer
     - Secretary
 
-33. The number of votes (including abstentions) for each vote must reach quorum.
-
-34. Executive candidates shall be elected by an instant-runoff ballot or a majority vote of the Active Members in attendance.
-    1. Should a majority not be reached, the candidate receiving the fewest number of votes will be removed from the running and another round of voting will occur with the remaining candidates. This will repeat until a majority is reached.
-    2. If a tie vote occurs, an additional round of speeches or question period (at the discretion of the chair) will occur before another round of voting.
-    3. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
+33. All absent members eligible to vote will be counted as non-confifince votes. Following the instant runoff process any candidate with >50% of the vote wins, if the non-confifince vote wins the election is postponed to a later meeting
+    1. If a tie vote occurs, an additional round of speeches or question period (at the discretion of the chair) will occur between the two most voted for candidates.
+    2. After two consecutive ties, a designated Chapter Advisory Board representative will vote along with the Active Members in attendance in a third round of voting. If none is present, the president shall vote.
+    
+34. 
 
 36. For any vacant position the Executive Committee may appoint by 66% vote, an Active Member to fill the vacancy for a term valid until the Chapter motions for an election or the next scheduled election.
 
@@ -139,11 +157,11 @@ Article IV: Chapter Finances and Budgeting
 37. At a Chapter Meeting at the end of the year all members and the executive shall present to the chapter on their motivations for dues changes. At the end of the academic year each returning member shall submit their desired increase or decrease to active member dues to the executive committee.
     1. If a majority wishes to increase or decrease dues, one shall be considered. Any change made shall only be greater than the desired change of 20% of voters.
     2. The amount shall be determined by sorting the change requests and removing the 20% of the values (rounding down) least in favor of the change. The least extreme remaining change is the amount to be proposed
-    3. This amount shall be ratified with a 66% vote at the first quorum of the next academic year, defaulting to the last years dues if failed.
+    3. This amount shall be ratified with the final budget at the start of the academic year.
 
 38. The Chapter will use a projected budget system to determine the dues amount. The Founder’s Day Celebration, as well as all mandatory GHQ fees (including insurance and Member's dues) are to be added as fixed costs into the projected budget.
 
-39. The Chapter will vote on a final budget at the first meeting of the school year.
+39. The Chapter will vote on a final budget at the first meeting of the school year. The budget shall require an affirmative vote from 66% of members.  
 
 40. Active Members who do not attend the Founder’s Day Celebration will not be reimbursed except Active Members who will not be present in the city for the winter semester (either due to co-op placement, distant education, or December program completion). They will have to pay the costs associated with the Founders Day but may receive their Founder’s Day costs as a refund unless they are to be present for the event.
 
@@ -212,13 +230,13 @@ Article VI: Phikeias
 ---------------------
 60. Selection of Phikeia shall be as prescribed in The Code Title XII.
     1. Men must be enrolled at McMaster University to be eligible for a Bid.
-    2. Bids shall be extended by a simple majority vote of the Chapter and may be withdrawn and nullified by a 66% vote of the Chapter.
+    2. Bids shall be extended by an affirmative vote from a majority of members eligible to vote and may be withdrawn and nullified by an affirmative vote from 66% of members eligible to vote.
 
 61. Phikeia will be assessed induction dues of $90. Initiation dues will be $400 in the Fall semester and $360 in the Winter Semester. Phikeia who defer their initiation to the academic year after their induction will be assessed the full amount of membership dues as their initiation dues. All dues will be collected according to a payment schedule as established by the Treasurer and/or Finance Committee. The nominal dues amount will go towards newly initiated Member's badges, tickets to Founder’s Day, Initiation Dues, and operational costs. Additionally Phikeia shall pay a deposit for their Phikeia pin and manual. The deposit shall be returned as a cheque or applied against initiation dues when the book and pin are returned.
 
 62. Phikeia shall follow the expectations explained in Procedures (Appendix D) in Article II: Expectations of Phikeia.
 
-63. The Initiation vote shall be a two objection blackball vote. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
+63. The Initiation vote shall be a two objection blackball vote. 66% of members eligible to vote must be present. There shall be discussion on the question of final acceptance of a Phikeia until the question is called. If one or fewer "no" votes have been cast, the candidate will be eligible for Initiation. If two or more "no" votes have been cast a further discussion on the merits or demerits of the candidate shall take place. When the question is called, the vote shall be taken a second time. If two or more "no" votes are cast on this second vote, the candidate will remain a Phikeia unless otherwise depledged.
    1. Votes shall be counted by two persons in the following order of preference:
       - President
       - CAB Member
@@ -231,13 +249,13 @@ Article VI: Phikeias
    3. The Warden or his appointee shall inform the Phikeia of the result of the vote.
    4. The same procedure shall be used for the affiliation of another Chapter's alumnus attending McMaster University.
 
-64. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, to be voted on by the Chapter subject to a 66% vote.
+64. Phikeia found to be acting in a manner unbecoming of a Phi will be removed from the Phikeia program. This action will only be taken by recommendation of the Pallas Committee to the Executive Committee, subject to a 66% affirmative vote of members eligible to vote.
 
 
 Article VII: The Chapter House
 -------------------------------
 
-65. In the absence of an agreement between the Chapter and a housing provider, a 66% vote of the chapter may enter into an agreement for the use of their residence as a Chapter property. 
+65. In the absence of an agreement between the Chapter and a housing provider, an affirmative vote of 66% of members eligible to vote may enter the chapter into an agreement for the use of their residence as a Chapter property. 
     1. Any active agreement shall be included as Appendix D to these bylaws, function as chapter bylaws except that they may only be abrogated or changed as outlined in that agreement.
 
 66. Members will be fully responsible for the actions of their guests.
@@ -251,7 +269,7 @@ Article IIX: Discipline
 69. The Judiciary process will be followed as outlined in the Procedures
 
 70. To call a Judicial Committee a Member must report before the Executive Committee for an explanation as to why the Judicial Committee meeting must be called.
-    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with a 66% vote of non-executive Members attending a Chapter Meeting.
+    1. The Executive Committee can call the Judicial Committee meeting with a 66% vote. Regardless of the executive's decision, it must be presented at Chapter and may be appealed by the Chapter with an affirmative vote from 50% of non-executive members eligible to vote.
  
 71. Discipline will be determined at the discretion of the Judicial Committee or the Executive Committee, except in cases where disciplinary action has been previously prescribed by The Code Sections 154, 155, and 156.
 
@@ -264,7 +282,7 @@ Article IIX: Discipline
 
 Article IX: Committees
 ---------------------
-74. Committees may be created by the President or a simple majority vote of the Chapter for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
+74. Committees may be created by the President or an affirmative vote from a majority of members eligible to vote for special issues or events as needed. The Chapter's standing committees are defined in the Procedures.
 
 75. Committees shall have no power greater than the officers sitting on it unless granted by the Procedures or a 66% motion of the Chapter. Funds may be specifically allocated to committees by motion of the chapter or by inclusion in a passed budget.
 
@@ -273,7 +291,7 @@ Procedures
 
 Chapter Meeting Procedures
 --------------------------
-1. Formal meetings of the Active Chapter will be held once per week during Fall and Winter classes at a regular time and day as determined by the President until a majority vote of The Chapter.
+1. Formal meetings of the Active Chapter will be held once per week during Fall and Winter classes at a regular time and day as determined by the President until an affirmative vote from a majority of members eligible to vote.
     1. The Warden or member of the Executive Committee will notify the Active Chapter and Chapter Advisory Board of any changes to the meeting time, day or venue at least 48 hours prior to the scheduled meeting. This excludes National and university holidays.
     2. The Executive Committee will decide when the first meeting of the year will be held, no later than the Monday following the start of the academic year at McMaster University. The Executive Committee will notify the Active Chapter no later than September 10 of the meeting date and time.
 
@@ -284,10 +302,7 @@ Chapter Meeting Procedures
 
 4. In order to be excused from a mandatory meeting, Active Members must contact the Secretary in writing, prior to the scheduled meeting. Failure to do so will be counted as an unexcused absence. The Executive Committee will review extenuating circumstances.
    1. If an Active Member misses two consecutive meetings, or has two unexcused absences from chapter meetings in a semester, the Member will be called to meet with the Executive Committee in order to discuss the absences. After two unexcused absences, each subsequent absence will result in a call to the executive committee. These meetings will focus on understanding and making positive intervention.
-   2. The Executive Committee has the power to censure, suspend or propose a Judicial Committee for the offending Member.
-      - Any censure or suspension issued by the executive committee shall be reported at the next Chapter Meeting and may be revoked or the offending member referred to a judicial committee by a 66% vote of non-executive members present. 
-   3. Any Active Member with three or more unexcused absences from regular meetings in an academic term will not be eligible to run for a position in elections held during said term.
-
+   
 5. Items of business not presented to the President before chapter may not be addressed at the discretion of the President.
 
 Officer Expectations
@@ -297,10 +312,10 @@ Officer Expectations
 
 7. If a Member is neglecting his duties as an officer, their position will be reviewed. The procedure of a position review is as follows:
    1. Any Active Member may call for a position review of any officer by presenting their case to the Executive Committee. A majority vote of the Executive will begin the position review.
-      - If the Executive does not vote to begin the officer review, this should be reported at the next Chapter Meeting and a review can be started by a 66% vote of non-executive members present.
+      - If the Executive does not vote to begin the officer review, this should be reported at the next Chapter Meeting and a review can be started by an affirmative vote of 66% of non-executive members eligible to vote.
    2. The officer under review will then appear before the Executive Committee to review their standing with regard to their position held.
    3. This information will then be presented to The Chapter by the Vice-President at the next chapter meeting.
-   4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  A vote of 66% of the Active Members in attendance is required to remove any officer from his position.
+   4. After hearing the information The Chapter will then vote to decide if the Member should be removed from their position.  An affirmative vote of 66% of members eligible to vote is required to remove any officer from his position.
    5. In the case that an Executive Officer is presented for review, the same process as outlined above will occur with the Judicial Committee taking the place of the Executive Committee, and the Warden taking the place of the Vice-President.
 
 8. Each Officer will keep an officer resource binder prepared and updated by the Vice-President in hard or soft copy, containing a copy of each of the following:
@@ -384,7 +399,7 @@ Judicial Procedure
 26. Six Active Members are chosen by the Chapter at the beginning of each semester by a top six plurality election to potentially sit on the Judicial Committee with the Warden.
     1. Upon the calling of a Judicial Committee, four of the six Members will be selected by the Warden and Vice-President to sit on the Judicial Committee.
     2. A Member cannot sit on the Judicial Committee if they are involved in the incident for which the Judicial Committee meeting has been called, or if they feel they cannot be unbiased in the matter.
-    3. To remove a member of the Judicial Committee, a 66% vote is required by the active chapter. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
+    3. To remove a member of the Judicial Committee, an affirmative vote of 66% of members eligible to vote is required. If removal is successful, a new member of the Judicial Committee will be elected immediately by a majority vote.
     4. If the potential judicial members have not been selected for the semester or three or more judicial members declare their unavailability to serve on a committee when it is required that one be called, the Warden shall use his best judgement in the selection of uninvolved, unbiased, and representative members to fill the committee.
 
 27. The Judiciary Committee meeting shall be conducted as follows, all of which is to be mediated by the chair:
