@@ -169,7 +169,12 @@ Article IV: Chapter Finances and Budgeting
 
 47. Any Member who has failed to inform the Treasurer that they will not be returning as an Active Member by July 10th will be held responsible for paying their individual insurance fee as assessed by insurer. This fee will be due no later than September 30th.
 
-48. Active Members taking one or more terms of co-op may be eligible for some relief from financial commitments if written notice is given to the President and Treasurer at least two months in advance of the co-op term. As Members on co-op terms are still enrolled at McMaster they will retain Active status.
+48. Any member unable to attend chapter events may optionally become a non-participatory Member.
+    1. Any non-voting member may request that the executive grant non-participatory status.
+    2. Non-participatory members will be assed dues to cover only insurance, confence fees, and active member's dues to GHQ.
+    3. Members who attain non-participatory status after dues are paid may be assed a refund as approved by the executive to refund Founder's Day Fees and/or a fraction of operating fees paid.
+    4. Non-participatory members shall be barred from events unless allowed by the executive committee.
+    5. Non-participatory members may pay for and attend Founder's Day.
 
 49. Chapter bills or fine assessments (including Dues) shall be paid to the Treasurer by cheque or Interac E-Transfer, in care of Phi Delta Theta Ontario Gamma, by the 10th of each month billed. Additional fees may be added for processing.
     1. If the bill has not been paid by the 31st of the month, The Code Section 154, 155, and 156 will be put into effect, and proper judicial procedure will be followed.
@@ -182,6 +187,10 @@ Article V: Member Accountability and Responsibility
 51. All Active Members shall sign a yearly membership contract prepared by the Executive Committee at the start of the year or following initiation.
 
 52. Attendance at regular Chapter meetings is required. For procedure regarding excuses see Procedures Section 4.
+    1. This requirement can be relaxed for any member not able to regularly attend chapter meetings by becoming a nonvoting member. 
+       1. Members may attain nonvoting status for a definite period of time through the completion and acceptance of a *Brother Abroad Form* or at a member's request if granted by a 66% motion at Chapter. 
+       2. Any nonvoting member is able to attend Chapter meetings but will not be eligible to vote except on the question of membership, including pledging, depledging, and separation from membership in the Fraternity. 
+       3. Nonvoting status may be revoked by a 66% motion at Chapter.
 
 53. Founders Day, Chapter Retreats, Initiation, and meetings with the Province President are all mandatory events held within an academic year. If an Active Member is unexcused from any of these events, the matter will be taken to the Executive Committee. To be excused from any of these events, the Member must notify the Secretary, in writing, three days in advance.
 
