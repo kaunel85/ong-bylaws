@@ -334,18 +334,18 @@ Officer Expectations
 
 9. At each meeting each officer will provide a verbal report of his past weeks accomplishments and future plans.
 
-10. At the beginning of each academic term, all officers will produce goals for their term and optionally a revised statement of responsibility and submit it to the Executive Committee prior to the second meeting of the academic term.
+10. Officers shall make the following written reports:
+    - Officers will submit goals for their term and optionally a revised statement of responsibility to the Vice President prior to the second meeting of the academic term or one week after their election or appointment to a position during the academic year. 
+    - Officers will submit a transition report to the Warden one week after stepping down from their position or by March 20th (whichever occurs first).
 
-11. Officers will submit a transition report to the Executive Committee prior to vacating their office.
+11. Officers may resign from an elected or appointed position by reporting their resignation to a Chapter Meeting. This resignation is by default accepted the chapter, however the chapter may consider the resignation conduct unbecoming of a Phi eligible for discipline.
 
 12. The following expectations are held for specific officers:
     - Vice President
       1. The Vice-President will provide an update to the Executive Committee on any meetings held with officers.
     - Treasurer
-      1. Chapter Financial Records shall be kept in Microsoft Excel Format or on Google Sheets and be accessible to Active Members.
+      1. Chapter Financial Records shall be accessible to Active Members.
       2. The Treasurer will maintain a bank account for the chapter fund (checking).
-    - Recruitment
-      1. If there fails to be a minimum of three (3) open recruitment events during the formal Recruitment period, and two (2) events open to potential new members outside of the formal Recruitment period during the rest of the semester (not necessarily organized by the Recruitment Chair), then the Recruitment Chair will be called to appear in front of the Judicial Committee, for which further action will be decided upon by the Judicial Committee.
 
 13. Active Members may not hold more than 2 officer positions, unless allowed by the Executive Committee or unless the chapter size is less than 20 eligible Active Members.
 
@@ -442,7 +442,8 @@ Operations of Committees
      - Pallas Committee
      - Events Committee
      - Member Development Committee
-     - Communications Committee
+     - Awards Committee
+     - Housing Committee
 
 30. Unless otherwise specified committees shall:
      - Host meetings on a weekly or bi-weekly basis during Fall and Winter classes and make their time and place know to Active members
@@ -489,10 +490,10 @@ Operations of Committees
      - Serve as Scholarship Committee as described in The Code Section 125.3 responsible for supporting the Scholarship Chair in the organization of the scholarship program and management of academic resources
      - Assist the Member Development officers in the completion of their duties
 
-37. The Communications Committee shall:
-     - Be chaired by the Secretary
-     - Consist of the Secretary, Social Media Chairman, Historian, Alumni Secretary, Chorister, Awards Chairman, and appointees
-     - Assist the Communications officers in the completion of their duties by collecting details and evidence of Chapter activities for publication, long term recording, communication, and use in awards applications by the Awards Chair
+37. The Awards Committee shall:
+     - Be chaired by the Awards Chairman
+     - Consist of the Secretary, Social Media Chairman, Historian, Alumni Secretary, Awards Chairman, and appointees
+     - Collect details and evidence of Chapter activities for publication, long term recording, communication, and use in awards applications by the Awards Chair
      - Oversee requirements, nominations, and presentation of Chapter awards including:
        - Phi of the Year
        - Unsung Phi of the Year
